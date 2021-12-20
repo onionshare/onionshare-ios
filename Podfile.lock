@@ -1,0 +1,77 @@
+PODS:
+  - AdParticipesCumCepis (0.1.0):
+    - GCDWebServer (~> 3.5)
+    - IPtProxyUI (~> 1.5)
+    - TLPhotoPicker (~> 2.1)
+    - Tor (~> 406.8)
+    - ZIPFoundation (~> 0.9)
+  - Eureka (5.3.4)
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - ImageRow (4.0.0):
+    - Eureka (~> 5.0)
+  - IPtProxy (1.3.0)
+  - IPtProxyUI (1.5.0):
+    - Eureka (~> 5.3)
+    - ImageRow (~> 4.0)
+    - IPtProxy (~> 1.3)
+    - MBProgressHUD (~> 1.2)
+    - ReachabilitySwift (~> 5.0)
+  - MBProgressHUD (1.2.0)
+  - PathKit (1.0.1)
+  - ReachabilitySwift (5.0.0)
+  - Stencil (0.14.2):
+    - PathKit (~> 1.0.0)
+  - TLPhotoPicker (2.1.7)
+  - Tor (406.8.2):
+    - Tor/Core (= 406.8.2)
+  - Tor/Core (406.8.2)
+  - ZIPFoundation (0.9.13)
+
+DEPENDENCIES:
+  - AdParticipesCumCepis (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
+  - Stencil (~> 0.14)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Eureka
+    - GCDWebServer
+    - ImageRow
+    - IPtProxy
+    - IPtProxyUI
+    - MBProgressHUD
+    - PathKit
+    - ReachabilitySwift
+    - Stencil
+    - TLPhotoPicker
+    - Tor
+    - ZIPFoundation
+
+EXTERNAL SOURCES:
+  AdParticipesCumCepis:
+    :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+
+CHECKOUT OPTIONS:
+  AdParticipesCumCepis:
+    :commit: dc3f264ca1beaaf8d193a06ecf48d31758dbb868
+    :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+
+SPEC CHECKSUMS:
+  AdParticipesCumCepis: de270ed9618f6e4fa1243eac3bc8faf69024fa71
+  Eureka: 60cf058f86a8fb3ed26165ba5292b9850361b0a6
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
+  IPtProxy: dfedd11a62c1428c67b2fa7cb0d272ae432cfc5f
+  IPtProxyUI: 02bd19a6ecd28bae38d90dfa9d2f6e08a6f74b09
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Stencil: f2dbb5c83f226454e413be27da3f3ba0fef8b996
+  TLPhotoPicker: ffddcfc335e1475e769b2cdd37af5bbe42ddf0cb
+  Tor: a1bab7ff724cce3621f0a840b0291c48f9888d6c
+  ZIPFoundation: ae5b4b813d216d3bf0a148773267fff14bd51d37
+
+PODFILE CHECKSUM: 704488b5009c4e372c0dbd3bb474c8cf2fe6ff57
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,488 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */; };
+		A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48B72770D9D3005FCAD1 /* Assets.xcassets */; };
+		A06C48BB2770D9D3005FCAD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */; };
+		A06C48FA2770DF48005FCAD1 /* WebServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48F92770DF48005FCAD1 /* WebServer.swift */; };
+		A06C49012770E0A4005FCAD1 /* static in Resources */ = {isa = PBXBuildFile; fileRef = A06C48FF2770E0A4005FCAD1 /* static */; };
+		A06C49022770E0A4005FCAD1 /* templates in Resources */ = {isa = PBXBuildFile; fileRef = A06C49002770E0A4005FCAD1 /* templates */; };
+		A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A06C49062770E800005FCAD1 /* LaunchScreen.xib */; };
+		A06C49092770F12D005FCAD1 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C49082770F12D005FCAD1 /* MainView.swift */; };
+		C770F8E68B237B80325B6C4D /* Pods_OnionShare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C112991FB18160E602DAC739 /* Pods_OnionShare.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1CE2DA8CDD566438A908293C /* Pods-OnionShare.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnionShare.release.xcconfig"; path = "Target Support Files/Pods-OnionShare/Pods-OnionShare.release.xcconfig"; sourceTree = "<group>"; };
+		4086EFEDC42A5DC78D10B35F /* Pods-OnionShare.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnionShare.debug.xcconfig"; path = "Target Support Files/Pods-OnionShare/Pods-OnionShare.debug.xcconfig"; sourceTree = "<group>"; };
+		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
+		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A06C48C22770DABC005FCAD1 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A06C48C32770DABC005FCAD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A06C48C42770DABC005FCAD1 /* Podfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A06C48C52770DABC005FCAD1 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		A06C48C62770DD50005FCAD1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		A06C48F92770DF48005FCAD1 /* WebServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebServer.swift; sourceTree = "<group>"; };
+		A06C48FF2770E0A4005FCAD1 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; path = static; sourceTree = "<group>"; };
+		A06C49002770E0A4005FCAD1 /* templates */ = {isa = PBXFileReference; lastKnownFileType = folder; path = templates; sourceTree = "<group>"; };
+		A06C49032770E16B005FCAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		A06C49062770E800005FCAD1 /* LaunchScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		A06C49082770F12D005FCAD1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A06C48AD2770D9D2005FCAD1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C770F8E68B237B80325B6C4D /* Pods_OnionShare.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		69C42A8AECDDAAE2C0BA0E87 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C112991FB18160E602DAC739 /* Pods_OnionShare.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		89F61E0EAA6DBF8A70B2A7E5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4086EFEDC42A5DC78D10B35F /* Pods-OnionShare.debug.xcconfig */,
+				1CE2DA8CDD566438A908293C /* Pods-OnionShare.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A06C48A72770D9D2005FCAD1 = {
+			isa = PBXGroup;
+			children = (
+				A06C48C12770DAA6005FCAD1 /* Build */,
+				A06C48B22770D9D2005FCAD1 /* OnionShare */,
+				A06C48FE2770E069005FCAD1 /* Resources */,
+				A06C48B12770D9D2005FCAD1 /* Products */,
+				89F61E0EAA6DBF8A70B2A7E5 /* Pods */,
+				69C42A8AECDDAAE2C0BA0E87 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		A06C48B12770D9D2005FCAD1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A06C48B02770D9D2005FCAD1 /* OnionShare.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A06C48B22770D9D2005FCAD1 /* OnionShare */ = {
+			isa = PBXGroup;
+			children = (
+				A06C49032770E16B005FCAD1 /* Info.plist */,
+				A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */,
+				A06C49082770F12D005FCAD1 /* MainView.swift */,
+				A06C48F92770DF48005FCAD1 /* WebServer.swift */,
+				A06C48B72770D9D3005FCAD1 /* Assets.xcassets */,
+				A06C49062770E800005FCAD1 /* LaunchScreen.xib */,
+				A06C48B92770D9D3005FCAD1 /* Preview Content */,
+			);
+			path = OnionShare;
+			sourceTree = "<group>";
+		};
+		A06C48B92770D9D3005FCAD1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A06C48C12770DAA6005FCAD1 /* Build */ = {
+			isa = PBXGroup;
+			children = (
+				A06C48C32770DABC005FCAD1 /* README.md */,
+				A06C48C52770DABC005FCAD1 /* LICENSE */,
+				A06C48C22770DABC005FCAD1 /* Podfile */,
+				A06C48C42770DABC005FCAD1 /* Podfile.lock */,
+				A06C48C62770DD50005FCAD1 /* .gitignore */,
+			);
+			name = Build;
+			sourceTree = "<group>";
+		};
+		A06C48FE2770E069005FCAD1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A06C48FF2770E0A4005FCAD1 /* static */,
+				A06C49002770E0A4005FCAD1 /* templates */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A06C48AF2770D9D2005FCAD1 /* OnionShare */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A06C48BE2770D9D3005FCAD1 /* Build configuration list for PBXNativeTarget "OnionShare" */;
+			buildPhases = (
+				10754EDBE7FD5C3DC600D5F7 /* [CP] Check Pods Manifest.lock */,
+				A06C48AC2770D9D2005FCAD1 /* Sources */,
+				A06C48AD2770D9D2005FCAD1 /* Frameworks */,
+				A06C48AE2770D9D2005FCAD1 /* Resources */,
+				C442A23E5FE36AB223C8D946 /* [CP] Embed Pods Frameworks */,
+				C3CD99418E62E9323E708A75 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OnionShare;
+			productName = OnionShare;
+			productReference = A06C48B02770D9D2005FCAD1 /* OnionShare.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A06C48A82770D9D2005FCAD1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					A06C48AF2770D9D2005FCAD1 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = A06C48AB2770D9D2005FCAD1 /* Build configuration list for PBXProject "OnionShare" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A06C48A72770D9D2005FCAD1;
+			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A06C48AF2770D9D2005FCAD1 /* OnionShare */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A06C48AE2770D9D2005FCAD1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */,
+				A06C49022770E0A4005FCAD1 /* templates in Resources */,
+				A06C48BB2770D9D3005FCAD1 /* Preview Assets.xcassets in Resources */,
+				A06C49012770E0A4005FCAD1 /* static in Resources */,
+				A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		10754EDBE7FD5C3DC600D5F7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-OnionShare-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C3CD99418E62E9323E708A75 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C442A23E5FE36AB223C8D946 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OnionShare/Pods-OnionShare-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A06C48AC2770D9D2005FCAD1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */,
+				A06C49092770F12D005FCAD1 /* MainView.swift in Sources */,
+				A06C48FA2770DF48005FCAD1 /* WebServer.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A06C48BC2770D9D3005FCAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A06C48BD2770D9D3005FCAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A06C48BF2770D9D3005FCAD1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4086EFEDC42A5DC78D10B35F /* Pods-OnionShare.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"OnionShare/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OnionShare/Info.plist;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow access to your camera, if you want to create photos or videos for direct sharing.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow access to your microphone, if you want to create videos for direct sharing.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Please allow access to your photo library, if you want to share photos.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.onionshare.OnionShare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A06C48C02770D9D3005FCAD1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1CE2DA8CDD566438A908293C /* Pods-OnionShare.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"OnionShare/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OnionShare/Info.plist;
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Please allow access to your camera, if you want to create photos or videos for direct sharing.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Please allow access to your microphone, if you want to create videos for direct sharing.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Please allow access to your photo library, if you want to share photos.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.onionshare.OnionShare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A06C48AB2770D9D2005FCAD1 /* Build configuration list for PBXProject "OnionShare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A06C48BC2770D9D3005FCAD1 /* Debug */,
+				A06C48BD2770D9D3005FCAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A06C48BE2770D9D3005FCAD1 /* Build configuration list for PBXNativeTarget "OnionShare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A06C48BF2770D9D3005FCAD1 /* Debug */,
+				A06C48C02770D9D3005FCAD1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A06C48A82770D9D2005FCAD1 /* Project object */;
+}
