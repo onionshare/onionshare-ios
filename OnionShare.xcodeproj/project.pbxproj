@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A002D9B92772287D0011EFA0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A002D9BB2772287D0011EFA0 /* Localizable.strings */; };
 		A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */; };
 		A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48B72770D9D3005FCAD1 /* Assets.xcassets */; };
 		A06C48FA2770DF48005FCAD1 /* WebServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48F92770DF48005FCAD1 /* WebServer.swift */; };
@@ -20,6 +21,9 @@
 /* Begin PBXFileReference section */
 		1CE2DA8CDD566438A908293C /* Pods-OnionShare.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnionShare.release.xcconfig"; path = "Target Support Files/Pods-OnionShare/Pods-OnionShare.release.xcconfig"; sourceTree = "<group>"; };
 		4086EFEDC42A5DC78D10B35F /* Pods-OnionShare.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OnionShare.debug.xcconfig"; path = "Target Support Files/Pods-OnionShare/Pods-OnionShare.debug.xcconfig"; sourceTree = "<group>"; };
+		A002D9B52772279C0011EFA0 /* .bartycrouch.toml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .bartycrouch.toml; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.yaml; };
+		A002D9BA2772287D0011EFA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A002D9BC277228940011EFA0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
 		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -94,8 +98,9 @@
 				A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */,
 				A06C49082770F12D005FCAD1 /* MainView.swift */,
 				A06C48F92770DF48005FCAD1 /* WebServer.swift */,
-				A06C48B72770D9D3005FCAD1 /* Assets.xcassets */,
 				A06C49062770E800005FCAD1 /* LaunchScreen.xib */,
+				A06C48B72770D9D3005FCAD1 /* Assets.xcassets */,
+				A002D9BB2772287D0011EFA0 /* Localizable.strings */,
 				A06C49032770E16B005FCAD1 /* Info.plist */,
 			);
 			path = OnionShare;
@@ -109,6 +114,7 @@
 				A06C48C22770DABC005FCAD1 /* Podfile */,
 				A06C48C42770DABC005FCAD1 /* Podfile.lock */,
 				A0FDF5C327720CE1005AA20A /* Config.xcconfig */,
+				A002D9B52772279C0011EFA0 /* .bartycrouch.toml */,
 				A06C48C62770DD50005FCAD1 /* .gitignore */,
 				A0FDF5C127720BE2005AA20A /* fastlane */,
 			);
@@ -140,6 +146,7 @@
 			buildConfigurationList = A06C48BE2770D9D3005FCAD1 /* Build configuration list for PBXNativeTarget "OnionShare" */;
 			buildPhases = (
 				10754EDBE7FD5C3DC600D5F7 /* [CP] Check Pods Manifest.lock */,
+				A002D9B6277227AD0011EFA0 /* BartyCrouch */,
 				A06C48AC2770D9D2005FCAD1 /* Sources */,
 				A06C48AD2770D9D2005FCAD1 /* Frameworks */,
 				A06C48AE2770D9D2005FCAD1 /* Resources */,
@@ -176,7 +183,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
-				Base,
+				de,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -193,6 +200,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A002D9B92772287D0011EFA0 /* Localizable.strings in Resources */,
 				A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */,
 				A06C49022770E0A4005FCAD1 /* templates in Resources */,
 				A06C49012770E0A4005FCAD1 /* static in Resources */,
@@ -224,6 +232,24 @@
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
+		};
+		A002D9B6277227AD0011EFA0 /* BartyCrouch */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = BartyCrouch;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if which bartycrouch > /dev/null; then\n    bartycrouch update -x\n    bartycrouch lint -x\nelse\n    echo \"warning: BartyCrouch not installed. Download it form https://github.com/Flinesoft/BartyCrouch\"\nfi\n";
 		};
 		C3CD99418E62E9323E708A75 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -274,12 +300,25 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXVariantGroup section */
+		A002D9BB2772287D0011EFA0 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A002D9BA2772287D0011EFA0 /* en */,
+				A002D9BC277228940011EFA0 /* de */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
 /* Begin XCBuildConfiguration section */
 		A06C48BC2770D9D3005FCAD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = A0FDF5C327720CE1005AA20A /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
@@ -342,6 +381,7 @@
 			baseConfigurationReference = A0FDF5C327720CE1005AA20A /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";

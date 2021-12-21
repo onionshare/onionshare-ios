@@ -1,0 +1,74 @@
+/* No comment provided by engineer. */
+"Add Files" = "Dateien hinzufügen";
+
+/* No comment provided by engineer. */
+"Anyone with this address and private key can download your files using the Tor Browser:" = "Jeder mit dieser Adresse und dem privaten Schlüssel kann mit dem Tor Browser Deine Dateien herunterladen:";
+
+/* No comment provided by engineer. */
+"Anyone with this address and private key can visit your website using the Tor Browser:" = "Jeder mit dieser Adresse und dem privaten Schlüssel kann mit dem Tor Browser Deine Website besuchen:";
+
+/* No comment provided by engineer. */
+"Anyone with this address can download your files using the Tor Browser:" = "Jeder mit dieser Adresse kann mit dem Tor Browser Deine Dateien herunterladen:";
+
+/* No comment provided by engineer. */
+"Anyone with this address can visit your website using the Tor Browser:" = "Jeder mit dieser Adresse kann mit dem Tor Browser Deine Website besuchen:";
+
+/* No comment provided by engineer. */
+"Cancel" = "Abbrechen";
+
+/* No comment provided by engineer. */
+"Custom title" = "Benutzerdefinierter Titel";
+
+/* No comment provided by engineer. */
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "Keinen Content Security Policy Header verwenden (ermöglicht Deiner Website Resourcen von anderen Anbietern zu verwenden)";
+
+/* No comment provided by engineer. */
+"Done" = "Fertig";
+
+/* No comment provided by engineer. */
+"No albums" = "Keine Alben";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Noch nichts da.";
+
+/* No comment provided by engineer. */
+"Private Key:" = "Privater Schlüssel:";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR Code";
+
+/* No comment provided by engineer. */
+"Ready" = "Fertig";
+
+/* No comment provided by engineer. */
+"Share" = "Freigeben";
+
+/* No comment provided by engineer. */
+"Sharing" = "Freigabe";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Freigabe starten";
+
+/* No comment provided by engineer. */
+"Starting…" = "Starten…";
+
+/* No comment provided by engineer. */
+"Starting… %@" = "Starten… %@";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Freigabe beenden";
+
+/* No comment provided by engineer. */
+"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Freigabe beenden nachdem Dateien heruntergeladen wurden (Deaktivieren um Herunterladen einzelner Dateien zu erlauben)";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Album auswählen";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "Die App muss geöffnet sein um zu funktionieren.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "Das ist ein öffentlicher Service (verwendet keinen privaten Schlüssel)";
+
+/* No comment provided by engineer. */
+"Website" = "Website";

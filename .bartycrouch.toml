@@ -1,0 +1,21 @@
+[update]
+tasks = ["code", "normalize"]
+
+[update.code]
+codePaths = ["../AdParticipesCumCepis"]
+localizablePaths = ["OnionShare"]
+defaultToKeys = true
+additive = false
+unstripped = false
+plistArguments = false
+
+[update.normalize]
+paths = ["."]
+sourceLocale = "en"
+harmonizeWithSource = true
+sortByKeys = true
+
+[lint]
+paths = ["."]
+duplicateKeys = true
+emptyValues = true

@@ -1,0 +1,74 @@
+/* No comment provided by engineer. */
+"Add Files" = "Add Files";
+
+/* No comment provided by engineer. */
+"Anyone with this address and private key can download your files using the Tor Browser:" = "Anyone with this address and private key can download your files using the Tor Browser:";
+
+/* No comment provided by engineer. */
+"Anyone with this address and private key can visit your website using the Tor Browser:" = "Anyone with this address and private key can visit your website using the Tor Browser:";
+
+/* No comment provided by engineer. */
+"Anyone with this address can download your files using the Tor Browser:" = "Anyone with this address can download your files using the Tor Browser:";
+
+/* No comment provided by engineer. */
+"Anyone with this address can visit your website using the Tor Browser:" = "Anyone with this address can visit your website using the Tor Browser:";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Custom title" = "Custom title";
+
+/* No comment provided by engineer. */
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "Don't send Content Security Policy header (allows your website to use third-party resources)";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"No albums" = "No albums";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Nothing here yet.";
+
+/* No comment provided by engineer. */
+"Private Key:" = "Private Key:";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR Code";
+
+/* No comment provided by engineer. */
+"Ready" = "Ready";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Sharing" = "Sharing";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Start Sharing";
+
+/* No comment provided by engineer. */
+"Starting…" = "Starting…";
+
+/* No comment provided by engineer. */
+"Starting… %@" = "Starting… %@";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Stop Sharing";
+
+/* No comment provided by engineer. */
+"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Stop sharing after files have been sent (uncheck to allow downloading individual files)";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Tap here to change";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "The app needs to be open to work.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "This is a public service (disables private key)";
+
+/* No comment provided by engineer. */
+"Website" = "Website";
