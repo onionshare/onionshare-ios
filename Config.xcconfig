@@ -1,0 +1,25 @@
+//
+//  Config.xcconfig
+//  AdParticipesCumCepis
+//
+//  Created by Benjamin Erhart on 21.12.21.
+//  Copyright © 2021 Guardian Project. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Avoid accidental checkins:
+// git update-index --skip-worktree Config.xcconfig
+// git update-index --no-skip-worktree Config.xcconfig
+
+PRODUCT_BUNDLE_IDENTIFIER[config=Debug] = org.onionshare.OnionShare
+DEVELOPMENT_TEAM[config=Debug] =
+PROVISIONING_PROFILE_SPECIFIER[config=Debug] =
+
+PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare
+DEVELOPMENT_TEAM[config=Release] =
+PROVISIONING_PROFILE_SPECIFIER[config=Release] =
+
+MARKETING_VERSION = 0.1.0
+CURRENT_PROJECT_VERSION = 1

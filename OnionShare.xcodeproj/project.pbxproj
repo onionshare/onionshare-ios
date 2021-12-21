@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */; };
 		A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48B72770D9D3005FCAD1 /* Assets.xcassets */; };
-		A06C48BB2770D9D3005FCAD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */; };
 		A06C48FA2770DF48005FCAD1 /* WebServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48F92770DF48005FCAD1 /* WebServer.swift */; };
 		A06C49012770E0A4005FCAD1 /* static in Resources */ = {isa = PBXBuildFile; fileRef = A06C48FF2770E0A4005FCAD1 /* static */; };
 		A06C49022770E0A4005FCAD1 /* templates in Resources */ = {isa = PBXBuildFile; fileRef = A06C49002770E0A4005FCAD1 /* templates */; };
@@ -24,7 +23,6 @@
 		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
 		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A06C48C22770DABC005FCAD1 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A06C48C32770DABC005FCAD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A06C48C42770DABC005FCAD1 /* Podfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -36,6 +34,8 @@
 		A06C49032770E16B005FCAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A06C49062770E800005FCAD1 /* LaunchScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		A06C49082770F12D005FCAD1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		A0FDF5C227720BE2005AA20A /* Deliverfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Deliverfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A0FDF5C327720CE1005AA20A /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -91,23 +91,14 @@
 		A06C48B22770D9D2005FCAD1 /* OnionShare */ = {
 			isa = PBXGroup;
 			children = (
-				A06C49032770E16B005FCAD1 /* Info.plist */,
 				A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */,
 				A06C49082770F12D005FCAD1 /* MainView.swift */,
 				A06C48F92770DF48005FCAD1 /* WebServer.swift */,
 				A06C48B72770D9D3005FCAD1 /* Assets.xcassets */,
 				A06C49062770E800005FCAD1 /* LaunchScreen.xib */,
-				A06C48B92770D9D3005FCAD1 /* Preview Content */,
+				A06C49032770E16B005FCAD1 /* Info.plist */,
 			);
 			path = OnionShare;
-			sourceTree = "<group>";
-		};
-		A06C48B92770D9D3005FCAD1 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				A06C48BA2770D9D3005FCAD1 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 		A06C48C12770DAA6005FCAD1 /* Build */ = {
@@ -117,7 +108,9 @@
 				A06C48C52770DABC005FCAD1 /* LICENSE */,
 				A06C48C22770DABC005FCAD1 /* Podfile */,
 				A06C48C42770DABC005FCAD1 /* Podfile.lock */,
+				A0FDF5C327720CE1005AA20A /* Config.xcconfig */,
 				A06C48C62770DD50005FCAD1 /* .gitignore */,
+				A0FDF5C127720BE2005AA20A /* fastlane */,
 			);
 			name = Build;
 			sourceTree = "<group>";
@@ -129,6 +122,14 @@
 				A06C49002770E0A4005FCAD1 /* templates */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		A0FDF5C127720BE2005AA20A /* fastlane */ = {
+			isa = PBXGroup;
+			children = (
+				A0FDF5C227720BE2005AA20A /* Deliverfile */,
+			);
+			path = fastlane;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -194,7 +195,6 @@
 			files = (
 				A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */,
 				A06C49022770E0A4005FCAD1 /* templates in Resources */,
-				A06C48BB2770D9D3005FCAD1 /* Preview Assets.xcassets in Resources */,
 				A06C49012770E0A4005FCAD1 /* static in Resources */,
 				A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */,
 			);
@@ -277,6 +277,7 @@
 /* Begin XCBuildConfiguration section */
 		A06C48BC2770D9D3005FCAD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A0FDF5C327720CE1005AA20A /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -338,6 +339,7 @@
 		};
 		A06C48BD2770D9D3005FCAD1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A0FDF5C327720CE1005AA20A /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
@@ -397,9 +399,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"OnionShare/Preview Content\"";
+				CODE_SIGN_STYLE = Manual;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = OnionShare/Info.plist;
@@ -417,8 +417,6 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = org.onionshare.OnionShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -432,9 +430,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"OnionShare/Preview Content\"";
+				CODE_SIGN_STYLE = Manual;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = OnionShare/Info.plist;
@@ -452,8 +448,6 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = org.onionshare.OnionShare;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
