@@ -1,7 +1,7 @@
 PODS:
   - AdParticipesCumCepis (0.1.0):
     - GCDWebServer (~> 3.5)
-    - IPtProxyUI (~> 1.6)
+    - IPtProxyUI (~> 1.7)
     - TLPhotoPicker (~> 2.1)
     - Tor (~> 406.9)
     - ZIPFoundation (~> 0.9)
@@ -11,11 +11,11 @@ PODS:
   - GCDWebServer/Core (3.5.4)
   - ImageRow (4.0.0):
     - Eureka (~> 5.0)
-  - IPtProxy (1.4.0)
-  - IPtProxyUI (1.6.0):
+  - IPtProxy (1.5.0)
+  - IPtProxyUI (1.7.0):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
-    - IPtProxy (~> 1.4)
+    - IPtProxy (~> 1.5)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
   - MBProgressHUD (1.2.0)
@@ -54,16 +54,16 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: ee103ea7a0db4123af9f4772bcd99081a1fa72d7
+    :commit: 48d43c3848c6de8caf58de27d60eb3f412736701
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: c572ddf00fb7238d28b6c60a601ad52b39174b30
+  AdParticipesCumCepis: 791a612104fec06f846d6aaca479bef7d99b4a1a
   Eureka: 60cf058f86a8fb3ed26165ba5292b9850361b0a6
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
-  IPtProxy: db05b9af523b0df1605e14ed4e234c7cc3b15b00
-  IPtProxyUI: 00f512d13cd9ba3ad1c8269c2a21f97718f1eaa7
+  IPtProxy: 495462962af8a779365581dd5908118af3793e7b
+  IPtProxyUI: d62f08714bb925d2cf3f25967cec4d694e02d381
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
