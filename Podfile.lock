@@ -3,16 +3,16 @@ PODS:
     - GCDWebServer (~> 3.5)
     - IPtProxyUI (~> 1.7)
     - TLPhotoPicker (~> 2.1)
-    - Tor (~> 406.9)
+    - Tor (~> 406.10)
     - ZIPFoundation (~> 0.9)
-  - Eureka (5.3.4)
+  - Eureka (5.3.5)
   - GCDWebServer (3.5.4):
     - GCDWebServer/Core (= 3.5.4)
   - GCDWebServer/Core (3.5.4)
   - ImageRow (4.0.0):
     - Eureka (~> 5.0)
-  - IPtProxy (1.5.0)
-  - IPtProxyUI (1.7.0):
+  - IPtProxy (1.5.1)
+  - IPtProxyUI (1.7.3):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
     - IPtProxy (~> 1.5)
@@ -24,9 +24,9 @@ PODS:
   - Stencil (0.14.2):
     - PathKit (~> 1.0.0)
   - TLPhotoPicker (2.1.9)
-  - Tor (406.9.2):
-    - Tor/Core (= 406.9.2)
-  - Tor/Core (406.9.2)
+  - Tor (406.10.1):
+    - Tor/Core (= 406.10.1)
+  - Tor/Core (406.10.1)
   - ZIPFoundation (0.9.13)
 
 DEPENDENCIES:
@@ -54,24 +54,24 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 48d43c3848c6de8caf58de27d60eb3f412736701
+    :commit: 2f8d9c598df9cf7e9219489ba4ebcb6ecab2b32d
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 791a612104fec06f846d6aaca479bef7d99b4a1a
-  Eureka: 60cf058f86a8fb3ed26165ba5292b9850361b0a6
+  AdParticipesCumCepis: 931c6031fd214d23136839c8e0675d2048621e37
+  Eureka: 7b39a479d074620d43028a0e2bfc3e0d667724df
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
-  IPtProxy: 495462962af8a779365581dd5908118af3793e7b
-  IPtProxyUI: d62f08714bb925d2cf3f25967cec4d694e02d381
+  IPtProxy: f9a94b705cdea8474d7fb995a43a2771aa1b7076
+  IPtProxyUI: 49ac019b70912a7bd460a4955611711e9726095d
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   Stencil: f2dbb5c83f226454e413be27da3f3ba0fef8b996
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
-  Tor: 628196f1e3d77ea26559e767ab091b784952bb8d
+  Tor: d68f73a29612bc5b9d79f15853eccebb60c8ef86
   ZIPFoundation: ae5b4b813d216d3bf0a148773267fff14bd51d37
 
-PODFILE CHECKSUM: 704488b5009c4e372c0dbd3bb474c8cf2fe6ff57
+PODFILE CHECKSUM: 09e8343b56406d673e0d276998676f0e3eef4454
 
 COCOAPODS: 1.11.2
