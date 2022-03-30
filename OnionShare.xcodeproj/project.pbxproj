@@ -497,7 +497,8 @@
 			baseConfigurationReference = 3FF82E22A2EE4A0ED28B06CE /* Pods-ActionExtension.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Shared/OnionShare.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				EXT_PROVISIONING_PROFILE_SPECIFIER = "$(EXT_PROVISIONING_PROFILE_SPECIFIER)";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ActionExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = OnionShare;
@@ -524,7 +525,8 @@
 			baseConfigurationReference = F498EA9C3F153D2B18FC392A /* Pods-ActionExtension.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = Shared/OnionShare.entitlements;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
+				EXT_PROVISIONING_PROFILE_SPECIFIER = "$(EXT_PROVISIONING_PROFILE_SPECIFIER)";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ActionExtension/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = OnionShare;
