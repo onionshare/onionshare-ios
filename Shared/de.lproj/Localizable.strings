@@ -2,6 +2,12 @@
 "Add Files" = "Dateien hinzufügen";
 
 /* No comment provided by engineer. */
+"Add Folder" = "Ordner hinzufügen";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Fotos hinzufügen";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "Zu %@ hinzufügen…";
 
 /* No comment provided by engineer. */
@@ -33,6 +39,9 @@
 
 /* No comment provided by engineer. */
 "Go to the app to share!" = "Gehe zur App zum Teilen!";
+
+/* No comment provided by engineer. */
+"Menu" = "Menü";
 
 /* No comment provided by engineer. */
 "No albums" = "Keine Alben";
@@ -78,6 +87,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Das ist ein öffentlicher Service (verwendet keinen privaten Schlüssel)";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Benutze Brücken";
 
 /* No comment provided by engineer. */
 "Website" = "Website";
