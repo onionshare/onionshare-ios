@@ -1,0 +1,34 @@
+//
+//  Config.xcconfig
+//  OnionShare
+//
+//  Created by Benjamin Erhart on 21.12.21.
+//  Copyright © 2022 Guardian Project. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Avoid accidental checkins:
+// git update-index --skip-worktree Shared/Config.xcconfig
+// git update-index --no-skip-worktree Shared/Config.xcconfig
+
+PRODUCT_BUNDLE_IDENTIFIER[config=Debug] = org.onionshare.OnionShare
+EXT_PRODUCT_BUNDLE_IDENTIFIER[config=Debug] = org.onionshare.OnionShare.extension
+APP_GROUP[config=Debug] = group.org.onionshare.OnionShare
+DEVELOPMENT_TEAM[config=Debug] =
+PROVISIONING_PROFILE_SPECIFIER[config=Debug] =
+EXT_PROVISIONING_PROFILE_SPECIFIER[config=Debug] =
+
+PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare
+EXT_PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare.extension
+APP_GROUP[config=Release] = group.org.onionshare.OnionShare
+DEVELOPMENT_TEAM[config=Release] =
+PROVISIONING_PROFILE_SPECIFIER[config=Release] =
+EXT_PROVISIONING_PROFILE_SPECIFIER[config=Release] =
+CODE_SIGN_IDENTITY[config=Release] =
+
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) EXT_PRODUCT_BUNDLE_IDENTIFIER="$(EXT_PRODUCT_BUNDLE_IDENTIFIER)" APP_GROUP="$(APP_GROUP)"
+
+MARKETING_VERSION = 0.1.0
+CURRENT_PROJECT_VERSION = 6

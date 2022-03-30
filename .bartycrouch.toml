@@ -3,19 +3,19 @@ tasks = ["code", "normalize"]
 
 [update.code]
 codePaths = ["../AdParticipesCumCepis"]
-localizablePaths = ["OnionShare"]
+localizablePaths = ["Shared"]
 defaultToKeys = true
 additive = false
 unstripped = false
 plistArguments = false
 
 [update.normalize]
-paths = ["."]
+paths = ["Shared"]
 sourceLocale = "en"
 harmonizeWithSource = true
 sortByKeys = true
 
 [lint]
-paths = ["."]
+paths = ["Shared"]
 duplicateKeys = true
 emptyValues = true

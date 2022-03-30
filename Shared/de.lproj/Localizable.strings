@@ -2,6 +2,9 @@
 "Add Files" = "Dateien hinzufügen";
 
 /* No comment provided by engineer. */
+"Adding to %@…" = "Zu %@ hinzufügen…";
+
+/* No comment provided by engineer. */
 "Anyone with this address and private key can download your files using the Tor Browser:" = "Jeder mit dieser Adresse und dem privaten Schlüssel kann mit dem Tor Browser Deine Dateien herunterladen:";
 
 /* No comment provided by engineer. */
@@ -17,6 +20,9 @@
 "Cancel" = "Abbrechen";
 
 /* No comment provided by engineer. */
+"Couldn't add item!" = "Konnte Element nicht hinzufügen!";
+
+/* No comment provided by engineer. */
 "Custom title" = "Benutzerdefinierter Titel";
 
 /* No comment provided by engineer. */
@@ -24,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Done" = "Fertig";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Gehe zur App zum Teilen!";
 
 /* No comment provided by engineer. */
 "No albums" = "Keine Alben";

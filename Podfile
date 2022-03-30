@@ -10,3 +10,7 @@ target 'OnionShare' do
   pod 'Stencil', '~> 0.14'
 
 end
+
+target 'ActionExtension' do
+  pod 'AdParticipesCumCepis/Extension', :git => 'https://github.com/tladesignz/AdParticipesCumCepis.git'
+end

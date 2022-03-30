@@ -2,6 +2,9 @@
 "Add Files" = "Add Files";
 
 /* No comment provided by engineer. */
+"Adding to %@…" = "Adding to %@…";
+
+/* No comment provided by engineer. */
 "Anyone with this address and private key can download your files using the Tor Browser:" = "Anyone with this address and private key can download your files using the Tor Browser:";
 
 /* No comment provided by engineer. */
@@ -17,6 +20,9 @@
 "Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
+"Couldn't add item!" = "Couldn't add item!";
+
+/* No comment provided by engineer. */
 "Custom title" = "Custom title";
 
 /* No comment provided by engineer. */
@@ -24,6 +30,9 @@
 
 /* No comment provided by engineer. */
 "Done" = "Done";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Go to the app to share!";
 
 /* No comment provided by engineer. */
 "No albums" = "No albums";
