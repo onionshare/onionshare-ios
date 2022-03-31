@@ -1,3 +1,15 @@
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor Browser%1$@ Deine Dateien %1$@herunterladen%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor Browser%1$@ Deine %1$@Website besuchen%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ Deine Dateien %1$@herunterladen%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ Deine %1$@Website besuchen%1$@:";
+
 /* No comment provided by engineer. */
 "Add Files" = "Dateien hinzufügen";
 
@@ -9,18 +21,6 @@
 
 /* No comment provided by engineer. */
 "Adding to %@…" = "Zu %@ hinzufügen…";
-
-/* No comment provided by engineer. */
-"Anyone with this address and private key can download your files using the Tor Browser:" = "Jeder mit dieser Adresse und dem privaten Schlüssel kann mit dem Tor Browser Deine Dateien herunterladen:";
-
-/* No comment provided by engineer. */
-"Anyone with this address and private key can visit your website using the Tor Browser:" = "Jeder mit dieser Adresse und dem privaten Schlüssel kann mit dem Tor Browser Deine Website besuchen:";
-
-/* No comment provided by engineer. */
-"Anyone with this address can download your files using the Tor Browser:" = "Jeder mit dieser Adresse kann mit dem Tor Browser Deine Dateien herunterladen:";
-
-/* No comment provided by engineer. */
-"Anyone with this address can visit your website using the Tor Browser:" = "Jeder mit dieser Adresse kann mit dem Tor Browser Deine Website besuchen:";
 
 /* No comment provided by engineer. */
 "Cancel" = "Abbrechen";
@@ -44,6 +44,9 @@
 "Host" = "Website";
 
 /* No comment provided by engineer. */
+"Hosting" = "Server läuft";
+
+/* No comment provided by engineer. */
 "Menu" = "Menü";
 
 /* No comment provided by engineer. */
@@ -53,7 +56,7 @@
 "Nothing here yet." = "Noch nichts da.";
 
 /* No comment provided by engineer. */
-"Private Key:" = "Privater Schlüssel:";
+"Private Key" = "Privater Schlüssel";
 
 /* No comment provided by engineer. */
 "QR Code" = "QR Code";
@@ -65,7 +68,10 @@
 "Share" = "Freigeben";
 
 /* No comment provided by engineer. */
-"Sharing" = "Freigabe";
+"Sharing" = "Freigabe läuft";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Server starten";
 
 /* No comment provided by engineer. */
 "Start Sharing" = "Freigabe starten";
@@ -75,6 +81,9 @@
 
 /* No comment provided by engineer. */
 "Starting… %@" = "Starten… %@";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Server beenden";
 
 /* No comment provided by engineer. */
 "Stop Sharing" = "Freigabe beenden";

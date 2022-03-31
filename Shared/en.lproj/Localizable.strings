@@ -1,3 +1,15 @@
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
+
 /* No comment provided by engineer. */
 "Add Files" = "Add Files";
 
@@ -9,18 +21,6 @@
 
 /* No comment provided by engineer. */
 "Adding to %@…" = "Adding to %@…";
-
-/* No comment provided by engineer. */
-"Anyone with this address and private key can download your files using the Tor Browser:" = "Anyone with this address and private key can download your files using the Tor Browser:";
-
-/* No comment provided by engineer. */
-"Anyone with this address and private key can visit your website using the Tor Browser:" = "Anyone with this address and private key can visit your website using the Tor Browser:";
-
-/* No comment provided by engineer. */
-"Anyone with this address can download your files using the Tor Browser:" = "Anyone with this address can download your files using the Tor Browser:";
-
-/* No comment provided by engineer. */
-"Anyone with this address can visit your website using the Tor Browser:" = "Anyone with this address can visit your website using the Tor Browser:";
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancel";
@@ -44,6 +44,9 @@
 "Host" = "Host";
 
 /* No comment provided by engineer. */
+"Hosting" = "Hosting";
+
+/* No comment provided by engineer. */
 "Menu" = "Menu";
 
 /* No comment provided by engineer. */
@@ -53,7 +56,7 @@
 "Nothing here yet." = "Nothing here yet.";
 
 /* No comment provided by engineer. */
-"Private Key:" = "Private Key:";
+"Private Key" = "Private Key";
 
 /* No comment provided by engineer. */
 "QR Code" = "QR Code";
@@ -68,6 +71,9 @@
 "Sharing" = "Sharing";
 
 /* No comment provided by engineer. */
+"Start Hosting" = "Start Hosting";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Start Sharing";
 
 /* No comment provided by engineer. */
@@ -75,6 +81,9 @@
 
 /* No comment provided by engineer. */
 "Starting… %@" = "Starting… %@";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Stop Hosting";
 
 /* No comment provided by engineer. */
 "Stop Sharing" = "Stop Sharing";

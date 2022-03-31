@@ -62,11 +62,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: e8eb9fba108f58bfc69f8f18c917be72f1224db9
+    :commit: 684e68ac43bbd7c21dfcce518ee7c534ce265fd3
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 2fbfdb091a426fccceb904103e67da6f784b6707
+  AdParticipesCumCepis: d6027dc8d406969eae52d40a19b14c34a8376b9f
   Eureka: 7b39a479d074620d43028a0e2bfc3e0d667724df
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
