@@ -41,6 +41,9 @@
 "Go to the app to share!" = "Gehe zur App zum Teilen!";
 
 /* No comment provided by engineer. */
+"Host" = "Website";
+
+/* No comment provided by engineer. */
 "Menu" = "Menü";
 
 /* No comment provided by engineer. */
@@ -90,6 +93,3 @@
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Benutze Brücken";
-
-/* No comment provided by engineer. */
-"Website" = "Website";

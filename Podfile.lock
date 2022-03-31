@@ -62,7 +62,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 6f1c451200ccc56bca7e5a9ba42a4cc2d379309a
+    :commit: e8eb9fba108f58bfc69f8f18c917be72f1224db9
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:

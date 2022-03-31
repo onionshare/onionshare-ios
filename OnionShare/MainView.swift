@@ -27,7 +27,7 @@ public struct MainView: View {
             .navigationViewStyle(.stack)
             .tabItem {
                 Image(systemName: "globe")
-                Text(NSLocalizedString("Website", comment: ""))
+                Text(NSLocalizedString("Host", comment: ""))
             }
         }
         .onAppear {
