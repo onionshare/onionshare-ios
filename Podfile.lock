@@ -1,17 +1,12 @@
 PODS:
   - AdParticipesCumCepis (0.1.0):
-    - AdParticipesCumCepis/App (= 0.1.0)
-  - AdParticipesCumCepis/App (0.1.0):
-    - AdParticipesCumCepis/Shared
     - GCDWebServer (~> 3.5)
     - IPtProxyUI (~> 1.7)
     - TLPhotoPicker (~> 2.1)
     - Tor (~> 406.10)
     - ZIPFoundation (~> 0.9)
-  - AdParticipesCumCepis/Extension (0.1.0):
-    - AdParticipesCumCepis/Shared
+  - AdParticipesCumCepisExtension (0.1.0):
     - MBProgressHUD (~> 1.2)
-  - AdParticipesCumCepis/Shared (0.1.0)
   - Eureka (5.3.5)
   - GCDWebServer (3.5.4):
     - GCDWebServer/Core (= 3.5.4)
@@ -38,7 +33,7 @@ PODS:
 
 DEPENDENCIES:
   - AdParticipesCumCepis (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
-  - AdParticipesCumCepis/Extension (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
+  - AdParticipesCumCepisExtension (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
   - Stencil (~> 0.14)
 
 SPEC REPOS:
@@ -59,14 +54,20 @@ SPEC REPOS:
 EXTERNAL SOURCES:
   AdParticipesCumCepis:
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+  AdParticipesCumCepisExtension:
+    :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 7d6b740037810832ec0c5997446ff8097eb8adae
+    :commit: 5e12283d9b4792914afdc4f3d7283c1c0e6bb3e5
+    :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+  AdParticipesCumCepisExtension:
+    :commit: 5e12283d9b4792914afdc4f3d7283c1c0e6bb3e5
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: d6027dc8d406969eae52d40a19b14c34a8376b9f
+  AdParticipesCumCepis: 407259d5d9cedca6ba218e8f7e394c2dbe440ce0
+  AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: 7b39a479d074620d43028a0e2bfc3e0d667724df
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
@@ -80,6 +81,6 @@ SPEC CHECKSUMS:
   Tor: d68f73a29612bc5b9d79f15853eccebb60c8ef86
   ZIPFoundation: ae5b4b813d216d3bf0a148773267fff14bd51d37
 
-PODFILE CHECKSUM: 43d185beed7860043f1c0457c7aaa91c7db5ad21
+PODFILE CHECKSUM: c431dc3d13b0dfd99eb6edb95088410d1d564d06
 
 COCOAPODS: 1.11.3

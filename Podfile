@@ -12,5 +12,5 @@ target 'OnionShare' do
 end
 
 target 'ActionExtension' do
-  pod 'AdParticipesCumCepis/Extension', :git => 'https://github.com/tladesignz/AdParticipesCumCepis.git'
+  pod 'AdParticipesCumCepisExtension', :git => 'https://github.com/tladesignz/AdParticipesCumCepis.git'
 end
