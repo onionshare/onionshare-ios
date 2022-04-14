@@ -50,10 +50,16 @@
 "Menu" = "Menu";
 
 /* No comment provided by engineer. */
+"New files while running" = "New files while running";
+
+/* No comment provided by engineer. */
 "No albums" = "No albums";
 
 /* No comment provided by engineer. */
 "Nothing here yet." = "Nothing here yet.";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
 
 /* No comment provided by engineer. */
 "Private Key" = "Private Key";
@@ -99,3 +105,6 @@
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Use Bridges";
+
+/* No comment provided by engineer. */
+"You added files from outside while the server is running." = "You added files from outside while the server is running.";
