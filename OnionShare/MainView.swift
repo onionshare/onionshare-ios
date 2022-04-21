@@ -10,6 +10,9 @@ import AdParticipesCumCepis
 
 public struct MainView: View {
 
+    @Environment(\.scenePhase)
+    var scenePhase
+
     public var body: some View {
         TabView {
             NavigationView {
@@ -34,8 +37,14 @@ public struct MainView: View {
             if #available(iOS 15.0, *) {
                 let a = UITabBarAppearance()
                 a.configureWithOpaqueBackground()
+
                 UITabBar.appearance().scrollEdgeAppearance = a
             }
+
+            UITableView.appearance().backgroundColor = .systemBackground
+        }
+        .onChange(of: scenePhase) { newPhase in
+            BaseAppDelegate.shared?.changeOf(scenePhase: newPhase)
         }
     }
 }

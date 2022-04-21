@@ -11,8 +11,8 @@ PODS:
   - GCDWebServer (3.5.4):
     - GCDWebServer/Core (= 3.5.4)
   - GCDWebServer/Core (3.5.4)
-  - ImageRow (4.0.0):
-    - Eureka (~> 5.0)
+  - ImageRow (4.1.0):
+    - Eureka (~> 5.3.5)
   - IPtProxy (1.5.1)
   - IPtProxyUI (1.7.4):
     - Eureka (~> 5.3)
@@ -59,10 +59,10 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 2e97be0494840fb101bdea353b2e7108593c63b7
+    :commit: 6fb4202878323c248b02735dfb2b6177e93ec0a1
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: 2e97be0494840fb101bdea353b2e7108593c63b7
+    :commit: 6fb4202878323c248b02735dfb2b6177e93ec0a1
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
@@ -70,7 +70,7 @@ SPEC CHECKSUMS:
   AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: 7b39a479d074620d43028a0e2bfc3e0d667724df
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
-  ImageRow: e65b2e1a33f89062bf2a553a2aad61d975eb7428
+  ImageRow: 880c0f052c5a89c80521b485c86ccf723a124e99
   IPtProxy: f9a94b705cdea8474d7fb995a43a2771aa1b7076
   IPtProxyUI: 89f51ce6c2f37271ebbea975ffcec55d757f551c
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
