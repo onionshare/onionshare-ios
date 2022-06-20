@@ -4,7 +4,7 @@ PODS:
     - IPtProxyUI (~> 1.7)
     - OrbotKit (~> 0.1)
     - TLPhotoPicker (~> 2.1)
-    - Tor (~> 407.7)
+    - Tor (~> 407.8)
     - ZIPFoundation (~> 0.9)
   - AdParticipesCumCepisExtension (0.1.0):
     - MBProgressHUD (~> 1.2)
@@ -28,9 +28,9 @@ PODS:
   - Stencil (0.14.2):
     - PathKit (~> 1.0.0)
   - TLPhotoPicker (2.1.9)
-  - Tor (407.7.1):
-    - Tor/Core (= 407.7.1)
-  - Tor/Core (407.7.1)
+  - Tor (407.8.2):
+    - Tor/Core (= 407.8.2)
+  - Tor/Core (407.8.2)
   - ZIPFoundation (0.9.13)
 
 DEPENDENCIES:
@@ -62,14 +62,14 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 71e3d8009c46f3e9ac5550ff98667c0cb264db1f
+    :commit: a19c5d8c8849694ee747b83665ee9e0f72422f26
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: 71e3d8009c46f3e9ac5550ff98667c0cb264db1f
+    :commit: a19c5d8c8849694ee747b83665ee9e0f72422f26
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 519bd834b4977c1ceda0f5bed56ae20b1c89bd7e
+  AdParticipesCumCepis: 1e482e4b7ec345fc70b350f6cbc6f3a0b0603899
   AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
@@ -82,7 +82,7 @@ SPEC CHECKSUMS:
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   Stencil: f2dbb5c83f226454e413be27da3f3ba0fef8b996
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
-  Tor: 72ca8ae856d474c6676db0cd7a34607998ad4261
+  Tor: 4fcaf1d7458f3b01617d3356a28561a4cc7a6ff5
   ZIPFoundation: ae5b4b813d216d3bf0a148773267fff14bd51d37
 
 PODFILE CHECKSUM: c431dc3d13b0dfd99eb6edb95088410d1d564d06
