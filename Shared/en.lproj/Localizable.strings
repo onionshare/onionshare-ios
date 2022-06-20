@@ -11,6 +11,9 @@
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
 
 /* No comment provided by engineer. */
+"Access Token" = "Access Token";
+
+/* No comment provided by engineer. */
 "Add Files" = "Add Files";
 
 /* No comment provided by engineer. */
@@ -38,6 +41,9 @@
 "Done" = "Done";
 
 /* No comment provided by engineer. */
+"Go to Orbot Settings" = "Go to Orbot Settings";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Go to the app to share!";
 
 /* No comment provided by engineer. */
@@ -45,6 +51,9 @@
 
 /* No comment provided by engineer. */
 "Hosting" = "Hosting";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Internal Tor error. Should not happen. Please reinstall!";
 
 /* No comment provided by engineer. */
 "Menu" = "Menu";
@@ -59,6 +68,18 @@
 "Nothing here yet." = "Nothing here yet.";
 
 /* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot could not be opened!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Detected";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Paste API token here";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
 
 /* No comment provided by engineer. */
@@ -69,6 +90,9 @@
 
 /* No comment provided by engineer. */
 "Ready" = "Ready";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Request API Access";
 
 /* No comment provided by engineer. */
 "Share" = "Share";
@@ -108,3 +132,12 @@
 
 /* No comment provided by engineer. */
 "You added files from outside while the server is running." = "You added files from outside while the server is running.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+
+/* No comment provided by engineer. */
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "You neeed to request API access with Orbot, in order for %@ to work while Orbot is running.";

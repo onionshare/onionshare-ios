@@ -46,6 +46,9 @@ public struct MainView: View {
         .onChange(of: scenePhase) { newPhase in
             BaseAppDelegate.shared?.changeOf(scenePhase: newPhase)
         }
+        .onOpenURL { url in
+            BaseAppDelegate.shared?.handle(url: url)
+        }
     }
 }
 

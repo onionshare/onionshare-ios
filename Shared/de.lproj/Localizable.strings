@@ -11,6 +11,9 @@
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ Deine %1$@Website besuchen%1$@:";
 
 /* No comment provided by engineer. */
+"Access Token" = "Zugangstoken";
+
+/* No comment provided by engineer. */
 "Add Files" = "Dateien hinzufügen";
 
 /* No comment provided by engineer. */
@@ -38,6 +41,9 @@
 "Done" = "Fertig";
 
 /* No comment provided by engineer. */
+"Go to Orbot Settings" = "Gehe zu Orbot Einstellungen";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Gehe zur App zum Teilen!";
 
 /* No comment provided by engineer. */
@@ -45,6 +51,9 @@
 
 /* No comment provided by engineer. */
 "Hosting" = "Server läuft";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Tor-interner Fehler. Das sollte nicht passieren. Bitte neu installieren!";
 
 /* No comment provided by engineer. */
 "Menu" = "Menü";
@@ -59,6 +68,18 @@
 "Nothing here yet." = "Noch nichts da.";
 
 /* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot konnte nicht geöffnet werden!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Detected";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot läuft, aber nicht zur Umgehung berechtigt.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "API Token hier einfügen";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Die Änderungen werden erst wirksam werden, wenn Du neu startest.";
 
 /* No comment provided by engineer. */
@@ -69,6 +90,9 @@
 
 /* No comment provided by engineer. */
 "Ready" = "Fertig";
+
+/* No comment provided by engineer. */
+"Request API Access" = "API-Zugriff anfragen";
 
 /* No comment provided by engineer. */
 "Share" = "Freigeben";
@@ -108,3 +132,12 @@
 
 /* No comment provided by engineer. */
 "You added files from outside while the server is running." = "Du hast Dateien von außerhalb hinzugefügt, während der Server läuft.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot ist installiert und läuft, aber wir können es nicht umgehen.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du mußt den Bypass-Modus in den Orbot-Einstellungen einschalten, damit %@ funktioniert während Orbot läuft.";
+
+/* No comment provided by engineer. */
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du mußt bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";
