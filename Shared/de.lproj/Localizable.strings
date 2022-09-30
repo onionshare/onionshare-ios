@@ -77,7 +77,7 @@
 "Orbot running, but not allowed to bypass." = "Orbot läuft, aber nicht zur Umgehung berechtigt.";
 
 /* No comment provided by engineer. */
-"Paste API token here" = "API Token hier einfügen";
+"Paste API token here" = "API-Token hier einfügen";
 
 /* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Die Änderungen werden erst wirksam werden, wenn Du neu startest.";
