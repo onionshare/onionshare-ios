@@ -1,1 +1,19 @@
 
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección y clave privada puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección y clave privada puede %1$@visit su website%1$@ usando el %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@visit su website%1$@ usando el %1$@Tor Browser%1$@:";
+"Access Token" = "Acceso Token";
+"Add Files" = "Añadir archivos";
+"Add Folder" = "Añadir carpetas";
+"Add Photos" = "Añadir fotos";
+"Adding to %@…" = "Añadiendo a %@…";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
+"Cancel" = "Cancelar";
