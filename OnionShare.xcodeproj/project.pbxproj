@@ -11,7 +11,7 @@
 		A002D9B92772287D0011EFA0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A002D9BB2772287D0011EFA0 /* Localizable.strings */; };
 		A030F19A27F35B4000BDD70D /* UniformTypeIdentifiers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A030F19927F35B4000BDD70D /* UniformTypeIdentifiers.framework */; };
 		A030F19F27F35B4000BDD70D /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F19E27F35B4000BDD70D /* ActionViewController.swift */; };
-		A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = A030F19827F35B4000BDD70D /* ActionExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A030F19827F35B4000BDD70D /* ActionExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		A030F1B327F35CF400BDD70D /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F1AD27F35CF400BDD70D /* Config.swift */; };
 		A030F1B427F35CF400BDD70D /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F1AD27F35CF400BDD70D /* Config.swift */; };
 		A030F1B527F35CF400BDD70D /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A030F1B027F35CF400BDD70D /* Config.xcconfig */; };
@@ -43,15 +43,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		A030F1A727F35B4000BDD70D /* Embed App Extensions */ = {
+		A030F1A727F35B4000BDD70D /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed App Extensions */,
+				A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed Foundation Extensions */,
 			);
-			name = "Embed App Extensions";
+			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
@@ -260,7 +260,7 @@
 				A06C48AE2770D9D2005FCAD1 /* Resources */,
 				C442A23E5FE36AB223C8D946 /* [CP] Embed Pods Frameworks */,
 				C3CD99418E62E9323E708A75 /* [CP] Copy Pods Resources */,
-				A030F1A727F35B4000BDD70D /* Embed App Extensions */,
+				A030F1A727F35B4000BDD70D /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
@@ -280,7 +280,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1340;
+				LastUpgradeCheck = 1400;
 				TargetAttributes = {
 					A030F19727F35B4000BDD70D = {
 						CreatedOnToolsVersion = 13.3;
@@ -363,6 +363,7 @@
 		};
 		A002D9B6277227AD0011EFA0 /* BartyCrouch */ = {
 			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
 			files = (
 			);

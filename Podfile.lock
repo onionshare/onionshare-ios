@@ -14,24 +14,24 @@ PODS:
   - GCDWebServer/Core (3.5.4)
   - ImageRow (4.1.0):
     - Eureka (~> 5.3.5)
-  - IPtProxy (1.6.0)
-  - IPtProxyUI (1.8.4):
+  - IPtProxy (1.7.1)
+  - IPtProxyUI (1.9.0):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
-    - IPtProxy (~> 1.5)
+    - IPtProxy (~> 1.7)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
   - MBProgressHUD (1.2.0)
-  - OrbotKit (0.1.0)
+  - OrbotKit (0.2.2)
   - PathKit (1.0.1)
   - ReachabilitySwift (5.0.0)
-  - Stencil (0.14.2):
+  - Stencil (0.15.1):
     - PathKit (~> 1.0.0)
   - TLPhotoPicker (2.1.9)
-  - Tor (407.8.2):
-    - Tor/Core (= 407.8.2)
-  - Tor/Core (407.8.2)
-  - ZIPFoundation (0.9.13)
+  - Tor (407.10.2):
+    - Tor/Core (= 407.10.2)
+  - Tor/Core (407.10.2)
+  - ZIPFoundation (0.9.15)
 
 DEPENDENCIES:
   - AdParticipesCumCepis (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
@@ -62,10 +62,10 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: a19c5d8c8849694ee747b83665ee9e0f72422f26
+    :commit: 235fea9bdc29c5383c883bd049bc09ca4bdeafa9
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: a19c5d8c8849694ee747b83665ee9e0f72422f26
+    :commit: 235fea9bdc29c5383c883bd049bc09ca4bdeafa9
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
@@ -74,17 +74,17 @@ SPEC CHECKSUMS:
   Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: 880c0f052c5a89c80521b485c86ccf723a124e99
-  IPtProxy: aa53cc8b97762be08a8009a2bd547058aa376627
-  IPtProxyUI: 862316bccbca5ad23d871bbbea10e1718254860d
+  IPtProxy: f34da94e012b0e9aa73795b5b769578a3325b2fa
+  IPtProxyUI: 703e2c248893e08553516df1aa39d86188e19521
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
-  OrbotKit: a98bb01f5d247f4ac465a53d4d91950d78b7a0d8
+  OrbotKit: 33dd047aa0d14812d7a08618f68ab1f0874e97f2
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
-  Stencil: f2dbb5c83f226454e413be27da3f3ba0fef8b996
+  Stencil: 5a1d7354da5ea800ba8e07e568e654171becc972
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
-  Tor: 4fcaf1d7458f3b01617d3356a28561a4cc7a6ff5
-  ZIPFoundation: ae5b4b813d216d3bf0a148773267fff14bd51d37
+  Tor: 77ae825db3972534215777089e00560757e04104
+  ZIPFoundation: 063163dc828bf699c5be160eb4f58f676322d94f
 
-PODFILE CHECKSUM: c431dc3d13b0dfd99eb6edb95088410d1d564d06
+PODFILE CHECKSUM: 4153a26c14e2b88839f1d6d2fdf6dcaa0620bc45
 
 COCOAPODS: 1.11.3
