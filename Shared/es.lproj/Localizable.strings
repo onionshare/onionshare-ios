@@ -17,3 +17,12 @@
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
 "Cancel" = "Cancelar";
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "No envíe el encabezado de la Política de Seguridad de Contenido (permite que su sitio web use recursos de terceros)";
+"Go to the app to share!" = "¡Ir a la aplicación para compartir!";
+"Couldn't add item!" = "¡No se pudo agregar nota!";
+"Custom title" = "Título personalizado";
+"Done" = "Hecho";
+"Go to Orbot Settings" = "Ir a la configuración de Orbot";
+"Host" = "Host";
+"Hosting" = "Alojamiento";
+"Internal Tor error. Should not happen. Please reinstall!" = "Error interno de Tor. No debería suceder. ¡Por favor reinstale!";
