@@ -35,7 +35,7 @@
 "Custom title" = "Custom title";
 
 /* No comment provided by engineer. */
-"Don't send Content Security Policy header (allows your website to use third-party resources)" = "Don't send Content Security Policy header (allows your website to use third-party resources)";
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "Don't send header allowing your website to use third-party resources";
 
 /* No comment provided by engineer. */
 "Done" = "Done";
@@ -53,7 +53,7 @@
 "Hosting" = "Hosting";
 
 /* No comment provided by engineer. */
-"Internal Tor error. Should not happen. Please reinstall!" = "Internal Tor error. Should not happen. Please reinstall!";
+"Internal Tor error. Should not happen. Please reinstall!" = "Internal Tor error. Please reinstall Orbot.";
 
 /* No comment provided by engineer. */
 "Menu" = "Menu";
@@ -68,19 +68,19 @@
 "Nothing here yet." = "Nothing here yet.";
 
 /* No comment provided by engineer. */
-"Orbot could not be opened!" = "Orbot could not be opened!";
+"Orbot could not be opened!" = "Could not open Orbot";
 
 /* No comment provided by engineer. */
-"Orbot Detected" = "Orbot Detected";
+"Orbot Detected" = "Orbot is installed";
 
 /* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
 
 /* No comment provided by engineer. */
-"Paste API token here" = "Paste API token here";
+"Paste API token here" = "Paste the API token here";
 
 /* No comment provided by engineer. */
-"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
+"Please note, that this will only take effect, after you restart." = "Restart OnionShare to use the new settings.";
 
 /* No comment provided by engineer. */
 "Private Key" = "Private Key";
@@ -98,7 +98,7 @@
 "Share" = "Share";
 
 /* No comment provided by engineer. */
-"Sharing" = "Sharing";
+"Sharing" = "Sharing…";
 
 /* No comment provided by engineer. */
 "Start Hosting" = "Start Hosting";
@@ -116,7 +116,7 @@
 "Stop Sharing" = "Stop Sharing";
 
 /* No comment provided by engineer. */
-"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Stop sharing after files have been sent (uncheck to allow downloading individual files)";
+"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Stop sharing after files are sent. (Otherwise allows downloading individual files.)";
 
 /* No comment provided by engineer. */
 "Tap here to change" = "Tap here to change";
@@ -125,19 +125,19 @@
 "The app needs to be open to work." = "The app needs to be open to work.";
 
 /* No comment provided by engineer. */
-"This is a public service (disables private key)" = "This is a public service (disables private key)";
+"This is a public service (disables private key)" = "Public service. (Turns off the private key.)";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Use Bridges";
 
 /* No comment provided by engineer. */
-"You added files from outside while the server is running." = "You added files from outside while the server is running.";
+"You added files from outside while the server is running." = "You added files from outside while running the OnionShare.";
 
 /* No comment provided by engineer. */
-"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot is installed and running, but Onionshare can not bypass it.";
 
 /* No comment provided by engineer. */
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Turn on \"Bypass mode\" in the Orbot settings for %@ to work with Orbot running.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "You neeed to request API access with Orbot, in order for %@ to work while Orbot is running.";
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Request API access with Orbot so  %@ can work with Orbot running.";
