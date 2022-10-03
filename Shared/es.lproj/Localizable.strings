@@ -1,5 +1,3 @@
-
-
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección y clave privada puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
 
@@ -7,22 +5,139 @@
 "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección y clave privada puede %1$@visit su website%1$@ usando el %1$@Tor Browser%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@visit su website%1$@ usando el %1$@Tor Browser%1$@:";
-"Access Token" = "Acceso Token";
-"Add Files" = "Añadir archivos";
-"Add Folder" = "Añadir carpetas";
-"Add Photos" = "Añadir fotos";
-"Adding to %@…" = "Añadiendo a %@…";
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@download%1$@ sus archivos usando el %1$@Tor Browser%1$@:";
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ con esta dirección puede %1$@visit su website%1$@ usando el %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Acceso Token";
+
+/* No comment provided by engineer. */
+"Add Files" = "Añadir archivos";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Añadir carpetas";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Añadir fotos";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Añadiendo a %@…";
+
+/* No comment provided by engineer. */
 "Cancel" = "Cancelar";
-"Don't send Content Security Policy header (allows your website to use third-party resources)" = "No envíe el encabezado de la Política de Seguridad de Contenido (permite que su sitio web use recursos de terceros)";
-"Go to the app to share!" = "¡Ir a la aplicación para compartir!";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "¡No se pudo agregar nota!";
+
+/* No comment provided by engineer. */
 "Custom title" = "Título personalizado";
+
+/* No comment provided by engineer. */
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "No envíe el encabezado de la Política de Seguridad de Contenido (permite que su sitio web use recursos de terceros)";
+
+/* No comment provided by engineer. */
 "Done" = "Hecho";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Ir a la configuración de Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "¡Ir a la aplicación para compartir!";
+
+/* No comment provided by engineer. */
 "Host" = "Host";
+
+/* No comment provided by engineer. */
 "Hosting" = "Alojamiento";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Error interno de Tor. No debería suceder. ¡Por favor reinstale!";
+
+/* No comment provided by engineer. */
+"Menu" = "Menu";
+
+/* No comment provided by engineer. */
+"New files while running" = "New files while running";
+
+/* No comment provided by engineer. */
+"No albums" = "No albums";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Nothing here yet.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot could not be opened!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Detected";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Paste API token here";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Private Key";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR Code";
+
+/* No comment provided by engineer. */
+"Ready" = "Ready";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Request API Access";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Sharing" = "Sharing";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Start Hosting";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Start Sharing";
+
+/* No comment provided by engineer. */
+"Starting…" = "Starting…";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Stop Hosting";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Stop Sharing";
+
+/* No comment provided by engineer. */
+"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Stop sharing after files have been sent (uncheck to allow downloading individual files)";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Tap here to change";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "The app needs to be open to work.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "This is a public service (disables private key)";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Use Bridges";
+
+/* No comment provided by engineer. */
+"You added files from outside while the server is running." = "You added files from outside while the server is running.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+
+/* No comment provided by engineer. */
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "You neeed to request API access with Orbot, in order for %@ to work while Orbot is running.";
