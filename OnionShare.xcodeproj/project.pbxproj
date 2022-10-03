@@ -73,6 +73,12 @@
 		A030F1B027F35CF400BDD70D /* Config.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		A030F1B127F35CF400BDD70D /* Config.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Config.m; sourceTree = "<group>"; };
 		A030F1B227F35CF400BDD70D /* OnionShare.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = OnionShare.entitlements; sourceTree = "<group>"; };
+		A066D80628EAFD06003FEF59 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A066D80728EAFD06003FEF59 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = es; path = es.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A066D80828EAFD49003FEF59 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A066D80928EAFD49003FEF59 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = uk; path = uk.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A066D80A28EAFD8A003FEF59 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A066D80B28EAFD8A003FEF59 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = tr; path = tr.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
 		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -298,6 +304,9 @@
 				en,
 				de,
 				Base,
+				es,
+				uk,
+				tr,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -477,6 +486,9 @@
 			children = (
 				A002D9BA2772287D0011EFA0 /* en */,
 				A002D9BC277228940011EFA0 /* de */,
+				A066D80628EAFD06003FEF59 /* es */,
+				A066D80828EAFD49003FEF59 /* uk */,
+				A066D80A28EAFD8A003FEF59 /* tr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -486,6 +498,9 @@
 			children = (
 				A088658127F445EC00248399 /* en */,
 				A088658327F4460100248399 /* de */,
+				A066D80728EAFD06003FEF59 /* es */,
+				A066D80928EAFD49003FEF59 /* uk */,
+				A066D80B28EAFD8A003FEF59 /* tr */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";

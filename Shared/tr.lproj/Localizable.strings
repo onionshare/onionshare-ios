@@ -1,57 +1,143 @@
-
-
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "Bu adrese ve kişisel anahtara sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak dosyalarınızı %1$@indirebilir%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "Bu adrese ve kişisel anahtara sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak %1$@web sitenizi ziyaret edebilir%1$@:";
-"Access Token" = "Erişim Belirteci";
-"Add Files" = "Dosya ekle";
-"Add Folder" = "Klasör ekle";
-"Add Photos" = "Fotoğraf ekle";
-"Don't send Content Security Policy header (allows your website to use third-party resources)" = "İçerik Güvenliği İlkesi başlığını gönderme (web sitenizin üçüncü taraf kaynaklarını kullanmasına izin verir)";
-"Done" = "Bitti";
-"Host" = "Barındır";
-"Hosting" = "Barındır";
-"Menu" = "Menü";
-"Orbot Detected" = "Orbot Algılandı";
-"Orbot running, but not allowed to bypass." = "Orbot çalışıyor, ancak atlamasına izin verilmiyor.";
-"Paste API token here" = "API belirtecini buraya yapıştırın";
-"Start Sharing" = "Paylaşımı başlat";
-"Starting…" = "Başlatılıyor…";
-"Stop Hosting" = "Barındırmayı durdur";
-"Stop Sharing" = "Paylaşımı durdur";
-"Tap here to change" = "Değiştirmek için buraya dokunun";
-"This is a public service (disables private key)" = "Bu herkese açık bir hizmettir (kişisel anahtarı devre dışı bırakır)";
-"Use Bridges" = "Köprüleri Kullan";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ayarlarında atlama modunu etkinleştirmeniz gerekir.";
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ile API erişimi talep etmeniz gerekir.";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "Bu adrese sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak dosyalarınızı %1$@indirebilir%1$@:";
-"Adding to %@…" = "%@ içine ekleniyor…";
-/* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "Bu adrese ve kişisel anahtara sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak dosyalarınızı %1$@indirebilir%1$@:";
-"Couldn't add item!" = "Öge eklenemedi!";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "Bu adrese sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak %1$@web sitenizi ziyaret edebilir%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Erişim Belirteci";
+
+/* No comment provided by engineer. */
+"Add Files" = "Dosya ekle";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Klasör ekle";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Fotoğraf ekle";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "%@ içine ekleniyor…";
+
+/* No comment provided by engineer. */
 "Cancel" = "İptal";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "Öge eklenemedi!";
+
+/* No comment provided by engineer. */
 "Custom title" = "Özel başlık";
-"New files while running" = "Çalışırken yeni dosyalar";
-"QR Code" = "QR kodu";
-"Ready" = "Hazır";
-"You added files from outside while the server is running." = "Sunucu çalışırken dışarıdan dosya eklediniz.";
+
+/* No comment provided by engineer. */
+"Don't send Content Security Policy header (allows your website to use third-party resources)" = "İçerik Güvenliği İlkesi başlığını gönderme (web sitenizin üçüncü taraf kaynaklarını kullanmasına izin verir)";
+
+/* No comment provided by engineer. */
+"Done" = "Bitti";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Orbot Ayarlarına Git";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Paylaşmak için uygulamaya gidin!";
-"Please note, that this will only take effect, after you restart." = "Lütfen bunun yalnızca yeniden başlattıktan sonra etkili olacağını unutmayın.";
-"Share" = "Paylaş";
+
+/* No comment provided by engineer. */
+"Host" = "Barındır";
+
+/* No comment provided by engineer. */
+"Hosting" = "Barındır";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Dahili Tor hatası. Olmaması gerekirdi. Lütfen yeniden kurun!";
-"Orbot could not be opened!" = "Orbot açılamadı!";
+
+/* No comment provided by engineer. */
+"Menu" = "Menü";
+
+/* No comment provided by engineer. */
+"New files while running" = "Çalışırken yeni dosyalar";
+
+/* No comment provided by engineer. */
 "No albums" = "Albüm yok";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Burada henüz bir şey yok.";
-"Request API Access" = "API Erişimi İste";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot açılamadı!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Algılandı";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot çalışıyor, ancak atlamasına izin verilmiyor.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "API belirtecini buraya yapıştırın";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Lütfen bunun yalnızca yeniden başlattıktan sonra etkili olacağını unutmayın.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Kişisel anahtar";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR kodu";
+
+/* No comment provided by engineer. */
+"Ready" = "Hazır";
+
+/* No comment provided by engineer. */
+"Request API Access" = "API Erişimi İste";
+
+/* No comment provided by engineer. */
+"Share" = "Paylaş";
+
+/* No comment provided by engineer. */
 "Sharing" = "Paylaşılıyor";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Barındırmayı başlat";
-"The app needs to be open to work." = "Uygulamanın çalışması için açık olması gerekir.";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Paylaşımı başlat";
+
+/* No comment provided by engineer. */
+"Starting…" = "Başlatılıyor…";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Barındırmayı durdur";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Paylaşımı durdur";
+
+/* No comment provided by engineer. */
 "Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Dosyalar gönderildikten sonra paylaşım durdurulsun (dosyaların tek tek indirilmesine izin vermek için işareti kaldırın)";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Değiştirmek için buraya dokunun";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "Uygulamanın çalışması için açık olması gerekir.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "Bu herkese açık bir hizmettir (kişisel anahtarı devre dışı bırakır)";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Köprüleri Kullan";
+
+/* No comment provided by engineer. */
+"You added files from outside while the server is running." = "Sunucu çalışırken dışarıdan dosya eklediniz.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot kurulu ve çalışıyor, ancak onu atlayamıyoruz.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ayarlarında atlama modunu etkinleştirmeniz gerekir.";
+
+/* No comment provided by engineer. */
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ile API erişimi talep etmeniz gerekir.";
