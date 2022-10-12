@@ -140,4 +140,4 @@
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ayarlarında atlama modunu etkinleştirmeniz gerekir.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ile API erişimi talep etmeniz gerekir.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ile API erişimi talep etmeniz gerekir.";

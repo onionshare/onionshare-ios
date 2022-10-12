@@ -140,4 +140,4 @@
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du musst den Bypass-Modus in den Orbot-Einstellungen einschalten, damit %@ funktioniert während Orbot läuft.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du musst bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du musst bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";

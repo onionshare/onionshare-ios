@@ -140,4 +140,4 @@
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Щоб %@ працював під час роботи Orbot, потрібно увімкнути режим обходу в налаштуваннях Orbot.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Вам потрібно надіслати запит на доступ до API за допомогою Orbot, щоб %@ працював під час роботи Orbot.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Вам потрібно надіслати запит на доступ до API за допомогою Orbot, щоб %@ працював під час роботи Orbot.";
