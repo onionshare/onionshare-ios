@@ -35,9 +35,6 @@
 "Custom title" = "Benutzerdefinierter Titel";
 
 /* No comment provided by engineer. */
-"Don't send Content Security Policy header (allows your website to use third-party resources)" = "Keinen Content Security Policy Header verwenden (ermöglicht Deiner Website Resourcen von anderen Anbietern zu verwenden)";
-
-/* No comment provided by engineer. */
 "Done" = "Fertig";
 
 /* No comment provided by engineer. */
@@ -80,6 +77,9 @@
 "Paste API token here" = "API-Token hier einfügen";
 
 /* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Erlaube Resourcen anderer Anbieter (keinen Content Security Policy Header verwenden)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Die Änderungen werden erst wirksam werden, wenn Du neu startest.";
 
 /* No comment provided by engineer. */
@@ -110,13 +110,13 @@
 "Starting…" = "Starten…";
 
 /* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Beenden nachdem Dateien versendet wurden (deaktiviert Herunterladen einzelner Dateien)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Server beenden";
 
 /* No comment provided by engineer. */
 "Stop Sharing" = "Freigabe beenden";
-
-/* No comment provided by engineer. */
-"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Freigabe beenden nachdem Dateien heruntergeladen wurden (Deaktivieren um Herunterladen einzelner Dateien zu erlauben)";
 
 /* No comment provided by engineer. */
 "Tap here to change" = "Album auswählen";
@@ -131,7 +131,7 @@
 "Use Bridges" = "Benutze Brücken";
 
 /* No comment provided by engineer. */
-"You added files from outside while the server is running." = "Du hast Dateien von außerhalb hinzugefügt, während der Server läuft.";
+"You added files from elsewhere while already sharing." = "Du hast Dateien von woanders hinzugefügt, während Du gerade Dateien teilst.";
 
 /* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot ist installiert und läuft, aber wir können es nicht umgehen.";

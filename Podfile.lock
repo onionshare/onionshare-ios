@@ -1,10 +1,10 @@
 PODS:
   - AdParticipesCumCepis (0.1.0):
     - GCDWebServer (~> 3.5)
-    - IPtProxyUI (~> 1.7)
-    - OrbotKit (~> 0.1)
+    - IPtProxyUI (~> 1.10)
+    - OrbotKit (~> 0.2)
     - TLPhotoPicker (~> 2.1)
-    - Tor (~> 407.8)
+    - Tor (~> 407.10)
     - ZIPFoundation (~> 0.9)
   - AdParticipesCumCepisExtension (0.1.0):
     - MBProgressHUD (~> 1.2)
@@ -14,11 +14,11 @@ PODS:
   - GCDWebServer/Core (3.5.4)
   - ImageRow (4.1.0):
     - Eureka (~> 5.3.5)
-  - IPtProxy (1.7.1)
-  - IPtProxyUI (1.9.0):
+  - IPtProxy (1.8.1)
+  - IPtProxyUI (1.10.3):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
-    - IPtProxy (~> 1.7)
+    - IPtProxy (~> 1.8.1)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
   - MBProgressHUD (1.2.0)
@@ -28,9 +28,9 @@ PODS:
   - Stencil (0.15.1):
     - PathKit (~> 1.0.0)
   - TLPhotoPicker (2.1.9)
-  - Tor (407.10.2):
-    - Tor/Core (= 407.10.2)
-  - Tor/Core (407.10.2)
+  - Tor (407.10.3):
+    - Tor/Core (= 407.10.3)
+  - Tor/Core (407.10.3)
   - ZIPFoundation (0.9.15)
 
 DEPENDENCIES:
@@ -62,27 +62,27 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 235fea9bdc29c5383c883bd049bc09ca4bdeafa9
+    :commit: 87b75c7571e52229b5cbd8fabea1a0d0665afce8
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: 235fea9bdc29c5383c883bd049bc09ca4bdeafa9
+    :commit: 87b75c7571e52229b5cbd8fabea1a0d0665afce8
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 1e482e4b7ec345fc70b350f6cbc6f3a0b0603899
+  AdParticipesCumCepis: c8b1f022109372c475df1876938280ca4c1b6981
   AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: 880c0f052c5a89c80521b485c86ccf723a124e99
-  IPtProxy: f34da94e012b0e9aa73795b5b769578a3325b2fa
-  IPtProxyUI: 703e2c248893e08553516df1aa39d86188e19521
+  IPtProxy: d0b15e7ed4fc83d8eb9247bf413c2dafcbae46e5
+  IPtProxyUI: 309cfd15554826cc467aa7f1b9db03430f14122c
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   OrbotKit: 33dd047aa0d14812d7a08618f68ab1f0874e97f2
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
   ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
   Stencil: 5a1d7354da5ea800ba8e07e568e654171becc972
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
-  Tor: 77ae825db3972534215777089e00560757e04104
+  Tor: f9ea045ca159cdfbd185924aa60aef2c08f0f523
   ZIPFoundation: 063163dc828bf699c5be160eb4f58f676322d94f
 
 PODFILE CHECKSUM: 4153a26c14e2b88839f1d6d2fdf6dcaa0620bc45

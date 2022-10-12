@@ -35,9 +35,6 @@
 "Custom title" = "Özel başlık";
 
 /* No comment provided by engineer. */
-"Don't send Content Security Policy header (allows your website to use third-party resources)" = "İçerik Güvenliği İlkesi başlığını gönderme (web sitenizin üçüncü taraf kaynaklarını kullanmasına izin verir)";
-
-/* No comment provided by engineer. */
 "Done" = "Bitti";
 
 /* No comment provided by engineer. */
@@ -80,6 +77,9 @@
 "Paste API token here" = "API belirtecini buraya yapıştırın";
 
 /* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Lütfen bunun yalnızca yeniden başlattıktan sonra etkili olacağını unutmayın.";
 
 /* No comment provided by engineer. */
@@ -110,13 +110,13 @@
 "Starting…" = "Başlatılıyor…";
 
 /* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Barındırmayı durdur";
 
 /* No comment provided by engineer. */
 "Stop Sharing" = "Paylaşımı durdur";
-
-/* No comment provided by engineer. */
-"Stop sharing after files have been sent (uncheck to allow downloading individual files)" = "Dosyalar gönderildikten sonra paylaşım durdurulsun (dosyaların tek tek indirilmesine izin vermek için işareti kaldırın)";
 
 /* No comment provided by engineer. */
 "Tap here to change" = "Değiştirmek için buraya dokunun";
@@ -131,7 +131,7 @@
 "Use Bridges" = "Köprüleri Kullan";
 
 /* No comment provided by engineer. */
-"You added files from outside while the server is running." = "Sunucu çalışırken dışarıdan dosya eklediniz.";
+"You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
 
 /* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot kurulu ve çalışıyor, ancak onu atlayamıyoruz.";
