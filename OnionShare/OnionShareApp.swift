@@ -22,6 +22,8 @@ struct OnionShareApp: App {
 
 
     init() {
+        BaseAppDelegate.appGroupId = Config.appGroupId
+
         WebServer.shared = WebServer()
     }
 }
