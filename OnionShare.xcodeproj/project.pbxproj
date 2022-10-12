@@ -93,6 +93,7 @@
 		A06C49032770E16B005FCAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A06C49062770E800005FCAD1 /* LaunchScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		A06C49082770F12D005FCAD1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		A081818428F6FD5F00795680 /* weblate.ini */ = {isa = PBXFileReference; lastKnownFileType = text; path = weblate.ini; sourceTree = "<group>"; };
 		A088658127F445EC00248399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = en.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A088658327F4460100248399 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = de; path = de.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A0FDF5C227720BE2005AA20A /* Deliverfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Deliverfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -212,6 +213,7 @@
 				A06C48C42770DABC005FCAD1 /* Podfile.lock */,
 				A002D9B52772279C0011EFA0 /* .bartycrouch.toml */,
 				A06C48C62770DD50005FCAD1 /* .gitignore */,
+				A081818428F6FD5F00795680 /* weblate.ini */,
 				A0FDF5C127720BE2005AA20A /* fastlane */,
 			);
 			name = Build;
