@@ -12,10 +12,12 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%u öge</string>
 			<key>one</key>
-			<string>%u item</string>
+			<string>%u öge</string>
 			<key>other</key>
-			<string>%u items</string>
+			<string>%u öge</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -28,10 +30,12 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>Paylaşmaya hazır %1$u ögeniz var.</string>
 			<key>one</key>
-			<string>You have %1$u item ready to share.</string>
+			<string>Paylaşmaya hazır %1$u ögeniz var.</string>
 			<key>other</key>
-			<string>You have %1$u items ready to share.</string>
+			<string>Paylaşmaya hazır %1$u ögeniz var.</string>
 		</dict>
 	</dict>
 </dict>

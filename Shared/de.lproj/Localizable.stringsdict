@@ -28,6 +28,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>Du hast %1$u Elemente bereit zum Teilen.</string>
 			<key>one</key>
 			<string>Du hast %1$u Element bereit zum Teilen.</string>
 			<key>other</key>
