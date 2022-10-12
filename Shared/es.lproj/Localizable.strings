@@ -53,91 +53,91 @@
 "Internal Tor error. Should not happen. Please reinstall!" = "Error interno de Tor. No debería suceder. ¡Por favor reinstale!";
 
 /* No comment provided by engineer. */
-"Menu" = "Menu";
+"Menu" = "Menú";
 
 /* No comment provided by engineer. */
-"New files while running" = "New files while running";
+"New files while running" = "Nuevos archivos mientras se ejecuta";
 
 /* No comment provided by engineer. */
-"No albums" = "No albums";
+"No albums" = "Sin álbumes";
 
 /* No comment provided by engineer. */
-"Nothing here yet." = "Nothing here yet.";
+"Nothing here yet." = "Nada aquí todavía.";
 
 /* No comment provided by engineer. */
-"Orbot could not be opened!" = "Orbot could not be opened!";
+"Orbot could not be opened!" = "¡Orbot no se pudo abrir!";
 
 /* No comment provided by engineer. */
-"Orbot Detected" = "Orbot Detected";
+"Orbot Detected" = "Orbot Detectado";
 
 /* No comment provided by engineer. */
-"Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+"Orbot running, but not allowed to bypass." = "Orbot en funcionamiento, pero no se le permite saltar.";
 
 /* No comment provided by engineer. */
-"Paste API token here" = "Paste API token here";
+"Paste API token here" = "Pegue el API token aquí";
 
 /* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
 
 /* No comment provided by engineer. */
-"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
+"Please note, that this will only take effect, after you restart." = "Tenga en cuenta que esto solo tendrá efecto después de reiniciar.";
 
 /* No comment provided by engineer. */
-"Private Key" = "Private Key";
+"Private Key" = "Clave Privada";
 
 /* No comment provided by engineer. */
-"QR Code" = "QR Code";
+"QR Code" = "Código QR";
 
 /* No comment provided by engineer. */
-"Ready" = "Ready";
+"Ready" = "Listo";
 
 /* No comment provided by engineer. */
-"Request API Access" = "Request API Access";
+"Request API Access" = "Solicitar acceso API";
 
 /* No comment provided by engineer. */
-"Share" = "Share";
+"Share" = "Compartir";
 
 /* No comment provided by engineer. */
-"Sharing" = "Sharing";
+"Sharing" = "Compartiendo";
 
 /* No comment provided by engineer. */
-"Start Hosting" = "Start Hosting";
+"Start Hosting" = "Empezar a alojar";
 
 /* No comment provided by engineer. */
-"Start Sharing" = "Start Sharing";
+"Start Sharing" = "Comenzar a compartir";
 
 /* No comment provided by engineer. */
-"Starting…" = "Starting…";
+"Starting…" = "Comenzando…";
 
 /* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
 
 /* No comment provided by engineer. */
-"Stop Hosting" = "Stop Hosting";
+"Stop Hosting" = "Dejar de hospedar";
 
 /* No comment provided by engineer. */
-"Stop Sharing" = "Stop Sharing";
+"Stop Sharing" = "Dejar de compartir";
 
 /* No comment provided by engineer. */
-"Tap here to change" = "Tap here to change";
+"Tap here to change" = "Clic aquí para cambiar";
 
 /* No comment provided by engineer. */
-"The app needs to be open to work." = "The app needs to be open to work.";
+"The app needs to be open to work." = "La aplicación ha de estar abierta para funcionar.";
 
 /* No comment provided by engineer. */
-"This is a public service (disables private key)" = "This is a public service (disables private key)";
+"This is a public service (disables private key)" = "Este es un servicio público (deshabilita la clave privada)";
 
 /* No comment provided by engineer. */
-"Use Bridges" = "Use Bridges";
+"Use Bridges" = "Usar Puentes";
 
 /* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
 
 /* No comment provided by engineer. */
-"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
+"You have Orbot installed and running, but we cannot bypass it." = "Tiene Orbot instalado y funcionando, pero no podemos omitirlo.";
 
 /* No comment provided by engineer. */
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Ha de habilitar el modo de omisión en la configuración de Orbot para que %@ funcione mientras se ejecuta Orbot.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "You neeed to request API access with Orbot, in order for %@ to work while Orbot is running.";
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Debe solicitar acceso a la API con Orbot para que %@ funcione mientras se ejecuta Orbot.";

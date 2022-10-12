@@ -73,6 +73,10 @@
 		A030F1B027F35CF400BDD70D /* Config.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
 		A030F1B127F35CF400BDD70D /* Config.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Config.m; sourceTree = "<group>"; };
 		A030F1B227F35CF400BDD70D /* OnionShare.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = OnionShare.entitlements; sourceTree = "<group>"; };
+		A0426B0028F705AD00423750 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0426B0128F705AD00423750 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = el; path = el.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0426B0228F7062700423750 /* nb-NO */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "nb-NO"; path = "nb-NO.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		A0426B0328F7062700423750 /* nb-NO */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "nb-NO"; path = "nb-NO.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		A066D80628EAFD06003FEF59 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A066D80728EAFD06003FEF59 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = es; path = es.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A066D80828EAFD49003FEF59 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -309,6 +313,8 @@
 				es,
 				uk,
 				tr,
+				el,
+				"nb-NO",
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -491,6 +497,8 @@
 				A066D80628EAFD06003FEF59 /* es */,
 				A066D80828EAFD49003FEF59 /* uk */,
 				A066D80A28EAFD8A003FEF59 /* tr */,
+				A0426B0028F705AD00423750 /* el */,
+				A0426B0228F7062700423750 /* nb-NO */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -503,6 +511,8 @@
 				A066D80728EAFD06003FEF59 /* es */,
 				A066D80928EAFD49003FEF59 /* uk */,
 				A066D80B28EAFD8A003FEF59 /* tr */,
+				A0426B0128F705AD00423750 /* el */,
+				A0426B0328F7062700423750 /* nb-NO */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";

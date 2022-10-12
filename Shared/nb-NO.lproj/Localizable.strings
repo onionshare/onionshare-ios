@@ -1,0 +1,143 @@
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Alle%1$@ som har denne adressen og den private nøkkelen kan %1$@laste ned%1$@ filene dine med %1$@Tor-nettleseren%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Alle%1$@ som har denne adressen og den private nøkkelen kan %1$@besøke nettsiden din%1$@ med %1$@Tor-nettleseren%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Alle%1$@ som har denne adressen kan %1$@laste ned%1$@ filene dine med %1$@Tor-nettleseren%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Alle%1$@ som har denne adressen kan %1$@besøke nettsiden din%1$@ med %1$@Tor-nettleseren%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Tilgangssymbol";
+
+/* No comment provided by engineer. */
+"Add Files" = "Legg til filer";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Legg til mappe";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Legg til bilder";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Legger til i %@ …";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "Kunne ikke legge til element.";
+
+/* No comment provided by engineer. */
+"Custom title" = "Egendefinert navn";
+
+/* No comment provided by engineer. */
+"Done" = "Ferdig";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Gå til Orbot-innstillingene";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Gå til programmet for å dele";
+
+/* No comment provided by engineer. */
+"Host" = "Vert";
+
+/* No comment provided by engineer. */
+"Hosting" = "Vertstjening";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Intern Tor-feil. Dette skal ikke skje. Reinstaller.";
+
+/* No comment provided by engineer. */
+"Menu" = "Meny";
+
+/* No comment provided by engineer. */
+"New files while running" = "Ny filer under kjøring";
+
+/* No comment provided by engineer. */
+"No albums" = "Ingen album";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Ingenting her enda.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Kunne ikke åpne Orbot.";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot oppdaget";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot kjører, men klarer ikke å forbikoble.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Lim inn API-symbolet her";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Merk: Dette vil kun skje etter at du har startet programmet på ny.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Privat nøkkel";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR-kode";
+
+/* No comment provided by engineer. */
+"Ready" = "Klar";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Forespør API-tilgang";
+
+/* No comment provided by engineer. */
+"Share" = "Del";
+
+/* No comment provided by engineer. */
+"Sharing" = "Deling";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Start vertstjening";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Start deling";
+
+/* No comment provided by engineer. */
+"Starting…" = "Starter …";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Stopp vertstjening";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Stopp vertstjening";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Trykk her for å endre";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "Programmet må være åpent for å fungere.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "Offentlig tjeneste. (Skrur av den private nøkkelen.)";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Bruk broer";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "Du har Orbot installert og kjørende, men det kan ikke forbikobles.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du må skru på forbikobling i Orbot-innstillingene for at %@ skal fungere mens Orbot kjører.";
+
+/* No comment provided by engineer. */
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du må forespørre API-tilgang med Orbot for at %@ skal fungere mens Orbot kjører.";

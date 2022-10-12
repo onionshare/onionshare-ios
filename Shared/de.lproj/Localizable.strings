@@ -1,14 +1,14 @@
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor Browser%1$@ Deine Dateien %1$@herunterladen%1$@:";
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor-Browser%1$@ deine Dateien %1$@herunterladen%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor Browser%1$@ Deine %1$@Website besuchen%1$@:";
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse und dem privaten Schlüssel kann mit dem %1$@Tor Browser%1$@ deine %1$@Website besuchen%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ Deine Dateien %1$@herunterladen%1$@:";
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ deine Dateien %1$@herunterladen%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ Deine %1$@Website besuchen%1$@:";
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ deine %1$@Website besuchen%1$@:";
 
 /* No comment provided by engineer. */
 "Access Token" = "Zugangstoken";
@@ -38,7 +38,7 @@
 "Done" = "Fertig";
 
 /* No comment provided by engineer. */
-"Go to Orbot Settings" = "Gehe zu Orbot Einstellungen";
+"Go to Orbot Settings" = "Gehe zu Orbot-Einstellungen";
 
 /* No comment provided by engineer. */
 "Go to the app to share!" = "Gehe zur App zum Teilen!";
@@ -68,7 +68,7 @@
 "Orbot could not be opened!" = "Orbot konnte nicht geöffnet werden!";
 
 /* No comment provided by engineer. */
-"Orbot Detected" = "Orbot Detected";
+"Orbot Detected" = "Orbot erkannt";
 
 /* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot läuft, aber nicht zur Umgehung berechtigt.";
@@ -80,7 +80,7 @@
 "Permit third-party resources (don't send Content Security Policy header)" = "Erlaube Resourcen anderer Anbieter (keinen Content Security Policy Header verwenden)";
 
 /* No comment provided by engineer. */
-"Please note, that this will only take effect, after you restart." = "Die Änderungen werden erst wirksam werden, wenn Du neu startest.";
+"Please note, that this will only take effect, after you restart." = "Bitte beachte, dass dies erst nach einem Neustart wirksam wird.";
 
 /* No comment provided by engineer. */
 "Private Key" = "Privater Schlüssel";
@@ -137,7 +137,7 @@
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot ist installiert und läuft, aber wir können es nicht umgehen.";
 
 /* No comment provided by engineer. */
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du mußt den Bypass-Modus in den Orbot-Einstellungen einschalten, damit %@ funktioniert während Orbot läuft.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du musst den Bypass-Modus in den Orbot-Einstellungen einschalten, damit %@ funktioniert während Orbot läuft.";
 
 /* No comment provided by engineer. */
-"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du mußt bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";
+"You neeed to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du musst bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";
