@@ -9,47 +9,135 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "Bu adrese sahip olan %1$@herkes%1$@ %1$@Tor Browser%1$@ kullanarak %1$@web sitenizi ziyaret edebilir%1$@:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Erişim Belirteci";
+
+/* No comment provided by engineer. */
 "Add Files" = "Dosya ekle";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Klasör ekle";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Fotoğraf ekle";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "%@ içine ekleniyor…";
+
+/* No comment provided by engineer. */
 "Cancel" = "İptal";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Öge eklenemedi!";
+
+/* No comment provided by engineer. */
 "Custom title" = "Özel başlık";
+
+/* No comment provided by engineer. */
 "Done" = "Bitti";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Orbot Ayarlarına Git";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Paylaşmak için uygulamaya gidin!";
+
+/* No comment provided by engineer. */
 "Host" = "Barındır";
+
+/* No comment provided by engineer. */
 "Hosting" = "Barındır";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Dahili Tor hatası. Olmaması gerekirdi. Lütfen yeniden kurun!";
+
+/* No comment provided by engineer. */
 "Menu" = "Menü";
+
+/* No comment provided by engineer. */
 "New files while running" = "Çalışırken yeni dosyalar";
+
+/* No comment provided by engineer. */
 "No albums" = "Albüm yok";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Burada henüz bir şey yok.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot açılamadı!";
+
+/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot Algılandı";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot çalışıyor, ancak atlamasına izin verilmiyor.";
+
+/* No comment provided by engineer. */
 "Paste API token here" = "API belirtecini buraya yapıştırın";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Üçüncü taraf kaynaklara izin verilsin (içerik güvenliği ilkesi üst bilgileri gönderilmesin)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Lütfen bunun yalnızca yeniden başlattıktan sonra etkili olacağını unutmayın.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Kişisel anahtar";
+
+/* No comment provided by engineer. */
 "QR Code" = "QR kodu";
+
+/* No comment provided by engineer. */
 "Ready" = "Hazır";
+
+/* No comment provided by engineer. */
 "Request API Access" = "API Erişimi İste";
+
+/* No comment provided by engineer. */
 "Share" = "Paylaş";
+
+/* No comment provided by engineer. */
 "Sharing" = "Paylaşılıyor";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Barındırmayı başlat";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Paylaşımı başlat";
+
+/* No comment provided by engineer. */
 "Starting…" = "Başlatılıyor…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Dosyalar gönderildikten sonra durdurulsun (tek tek dosyaların indirilmesini devre dışı bırakır)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Barındırmayı durdur";
+
+/* No comment provided by engineer. */
 "Stop Sharing" = "Paylaşımı durdur";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Değiştirmek için buraya dokunun";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Uygulamanın çalışması için açık olması gerekir.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Bu herkese açık bir hizmettir (kişisel anahtarı devre dışı bırakır)";
+
+/* No comment provided by engineer. */
 "Use Bridges" = "Köprüleri Kullan";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Zaten paylaşırken başka yerlerden dosyalar eklediniz.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot kurulu ve çalışıyor, ancak onu atlayamıyoruz.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ayarlarında atlama modunu etkinleştirmeniz gerekir.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot çalışırken %@ çalışması için Orbot ile API erişimi talep etmeniz gerekir.";
