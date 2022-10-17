@@ -12,6 +12,14 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%u елементів</string>
+			<key>one</key>
+			<string>%u елемент</string>
+			<key>few</key>
+			<string>%u елемента</string>
+			<key>many</key>
+			<string>%u елементів</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -24,6 +32,14 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%1$u елементів готові до надсилання.</string>
+			<key>one</key>
+			<string>%1$u елемент готовий до надсилання.</string>
+			<key>few</key>
+			<string>%1$u елементи готові до надсилання.</string>
+			<key>many</key>
+			<string>%1$u елементів готові до надсилання.</string>
 		</dict>
 	</dict>
 </dict>
