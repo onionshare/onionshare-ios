@@ -17,12 +17,12 @@ struct OnionShareApp: App {
         }
     }
 
-    @UIApplicationDelegateAdaptor(BaseAppDelegate.self)
+    @UIApplicationDelegateAdaptor(AppDelegate.self)
     var appDelegate
 
 
     init() {
-        BaseAppDelegate.appGroupId = Config.appGroupId
+        AppDelegate.appGroupId = Config.appGroupId
 
         WebServer.shared = WebServer()
     }

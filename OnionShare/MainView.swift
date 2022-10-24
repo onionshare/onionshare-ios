@@ -14,55 +14,29 @@ public struct MainView: View {
     var scenePhase
 
     public var body: some View {
-        TabView {
-            NavigationView {
-                ShareView(OsShareModel())
-            }
-            .navigationViewStyle(.stack)
-            .tabItem {
-                Image(systemName: "paperplane")
-                Text(NSLocalizedString("Share", comment: ""))
-            }
-
-            NavigationView {
-                ShareView(OsHostModel())
-            }
-            .navigationViewStyle(.stack)
-            .tabItem {
-                Image(systemName: "globe")
-                Text(NSLocalizedString("Host", comment: ""))
-            }
+        NavigationView {
+            ShareView(OsShareModel())
         }
+        .navigationViewStyle(.stack)
         .onAppear {
-            if #available(iOS 15.0, *) {
-                let a = UITabBarAppearance()
-                a.configureWithOpaqueBackground()
-
-                UITabBar.appearance().scrollEdgeAppearance = a
-            }
-
             UITableView.appearance().backgroundColor = .systemBackground
         }
         .onChange(of: scenePhase) { newPhase in
-            BaseAppDelegate.shared?.changeOf(scenePhase: newPhase)
+            AppDelegate.shared?.changeOf(scenePhase: newPhase)
         }
         .onOpenURL { url in
-            BaseAppDelegate.shared?.handle(url: url)
+            AppDelegate.shared?.handle(url: url)
         }
     }
 }
 
 class OsShareModel: ShareModel {
 
+    override var titleText: String {
+        Bundle.main.displayName
+    }
+
     override var emptyBackgroundImage: String? {
         "mode_share"
-    }
-}
-
-
-class OsHostModel: HostModel {
-
-    override var emptyBackgroundImage: String? {
-        "mode_website"
     }
 }

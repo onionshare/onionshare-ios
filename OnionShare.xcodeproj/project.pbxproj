@@ -29,6 +29,7 @@
 		A088657B27F4453400248399 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A06C48B72770D9D3005FCAD1 /* Assets.xcassets */; };
 		A088657F27F445EC00248399 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = A088658227F445EC00248399 /* Localizable.stringsdict */; };
 		A088658027F445EC00248399 /* Localizable.stringsdict in Resources */ = {isa = PBXBuildFile; fileRef = A088658227F445EC00248399 /* Localizable.stringsdict */; };
+		A08E02682906EE56004EF895 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A08E02672906EE56004EF895 /* AppDelegate.swift */; };
 		C770F8E68B237B80325B6C4D /* Pods_OnionShare.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C112991FB18160E602DAC739 /* Pods_OnionShare.framework */; };
 /* End PBXBuildFile section */
 
@@ -102,6 +103,7 @@
 		A081818428F6FD5F00795680 /* weblate.ini */ = {isa = PBXFileReference; lastKnownFileType = text; path = weblate.ini; sourceTree = "<group>"; };
 		A088658127F445EC00248399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = en.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A088658327F4460100248399 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = de; path = de.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A08E02672906EE56004EF895 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0FDF5C227720BE2005AA20A /* Deliverfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Deliverfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C18753A320CFD663C6E2AA6F /* Pods_ActionExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActionExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -202,6 +204,7 @@
 			isa = PBXGroup;
 			children = (
 				A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */,
+				A08E02672906EE56004EF895 /* AppDelegate.swift */,
 				A06C49082770F12D005FCAD1 /* MainView.swift */,
 				A06C48F92770DF48005FCAD1 /* WebServer.swift */,
 				A06C49062770E800005FCAD1 /* LaunchScreen.xib */,
@@ -473,6 +476,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A08E02682906EE56004EF895 /* AppDelegate.swift in Sources */,
 				A030F1B727F35CF400BDD70D /* Config.m in Sources */,
 				A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */,
 				A030F1B327F35CF400BDD70D /* Config.swift in Sources */,
