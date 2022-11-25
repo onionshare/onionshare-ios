@@ -104,6 +104,16 @@
 		A088658127F445EC00248399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = en.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A088658327F4460100248399 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = de; path = de.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A08E02672906EE56004EF895 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A0EAF25B2930E401003D2DCB /* bo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = bo; path = bo.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0EAF25C2930E401003D2DCB /* bo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = bo; path = bo.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0EAF25D2930E52E003D2DCB /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0EAF25E2930E52E003D2DCB /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ca; path = ca.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0EAF25F2930E5E5003D2DCB /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = is; path = is.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0EAF2602930E5E5003D2DCB /* is */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = is; path = is.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0EAF2612930E695003D2DCB /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ko; path = ko.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0EAF2622930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		A0EAF2632930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
+		A0EAF2652930E830003D2DCB /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = it; path = it.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A0FDF5C227720BE2005AA20A /* Deliverfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Deliverfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C18753A320CFD663C6E2AA6F /* Pods_ActionExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActionExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -321,6 +331,12 @@
 				el,
 				"nb-NO",
 				ja,
+				bo,
+				ca,
+				is,
+				ko,
+				"zh-Hans",
+				it,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -507,6 +523,10 @@
 				A0426B0028F705AD00423750 /* el */,
 				A0426B0228F7062700423750 /* nb-NO */,
 				A07C725228FD87C800D6F291 /* ja */,
+				A0EAF25B2930E401003D2DCB /* bo */,
+				A0EAF25D2930E52E003D2DCB /* ca */,
+				A0EAF25F2930E5E5003D2DCB /* is */,
+				A0EAF2622930E75F003D2DCB /* zh-Hans */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -522,6 +542,12 @@
 				A0426B0128F705AD00423750 /* el */,
 				A0426B0328F7062700423750 /* nb-NO */,
 				A07C725428FD895200D6F291 /* ja */,
+				A0EAF25C2930E401003D2DCB /* bo */,
+				A0EAF25E2930E52E003D2DCB /* ca */,
+				A0EAF2602930E5E5003D2DCB /* is */,
+				A0EAF2612930E695003D2DCB /* ko */,
+				A0EAF2632930E75F003D2DCB /* zh-Hans */,
+				A0EAF2652930E830003D2DCB /* it */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";

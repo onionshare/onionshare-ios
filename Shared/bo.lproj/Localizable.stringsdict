@@ -5,38 +5,34 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@elements@</string>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
-			<key>zero</key>
-			<string>%u elements</string>
 			<key>one</key>
-			<string>%u element</string>
-			<key>two</key>
-			<string>%u elements</string>
+			<string>%u item</string>
+			<key>other</key>
+			<string>%u items</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
-			<key>zero</key>
-			<string>Teniu %1$u elements preparats per a compartir.</string>
 			<key>one</key>
-			<string>Teniu %1$u element preparat per a compartir.</string>
-			<key>two</key>
-			<string>Teniu %1$u elements preparats per a compartir.</string>
+			<string>You have %1$u item ready to share.</string>
+			<key>other</key>
+			<string>You have %1$u items ready to share.</string>
 		</dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@elementi@</string>
 	</dict>
 </dict>
 </plist>
