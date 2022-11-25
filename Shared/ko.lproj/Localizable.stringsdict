@@ -13,11 +13,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u nota</string>
-			<key>one</key>
-			<string>%u nota</string>
-			<key>many</key>
-			<string>%u notas</string>
+			<string>%u개 항목</string>
+			<key>other</key>
+			<string>%u개 항목</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -31,11 +29,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
-			<key>one</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
-			<key>many</key>
-			<string>Tienes %1$u elementos listo para compartir.</string>
+			<string>%1$u개 항목을 공유할 준비가 되었습니다.</string>
+			<key>other</key>
+			<string>%1$u개 항목을 공유할 준비가 되었습니다.</string>
 		</dict>
 	</dict>
 </dict>

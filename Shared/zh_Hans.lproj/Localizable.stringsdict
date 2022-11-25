@@ -2,28 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>%u item(s)</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
-		<key>items</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>u</string>
-			<key>zero</key>
-			<string>%u nota</string>
-			<key>one</key>
-			<string>%u nota</string>
-			<key>many</key>
-			<string>%u notas</string>
-		</dict>
-	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -31,12 +11,28 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
-			<key>one</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
-			<key>many</key>
-			<string>Tienes %1$u elementos listo para compartir.</string>
+			<string>您没有可分享的项目。</string>
+			<key>other</key>
+			<string>您有 %1$u 个可分享的项目。</string>
 		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+	</dict>
+	<key>%u item(s)</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>没有项目</string>
+			<key>other</key>
+			<string>%u 个项目</string>
+		</dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
 	</dict>
 </dict>
 </plist>

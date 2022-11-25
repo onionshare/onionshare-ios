@@ -1,0 +1,57 @@
+
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Qualsevol%1$@ amb aquesta adreça pot %1$@baixar%1$@ els vostres fitxers utilitzant el %1$@Navegador Tor%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Qualsevol%1$@ amb aquesta adreça pot %1$@visitar el vostre lloc web%1$@ utilitzant el %1$@Navegador Tor%1$@:";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Qualsevol%1$@ amb aquesta adreça i clau privada pot %1$@baixar%1$@ els vostres fitxers utilitzant el %1$@Navegador Tor%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Qualsevol%1$@ amb aquesta adreça i clau privada pot %1$@visitar el vostre lloc web%1$@ utilitzant el %1$@Navegador Tor%1$@:";
+"Access Token" = "Testimoni d'accés";
+"Add Files" = "Afegeix fitxers";
+"Add Folder" = "Afegeix una carpeta";
+"Add Photos" = "Afegeix fotos";
+"Done" = "Fet";
+"Go to Orbot Settings" = "Vés a la Configuració de l'Orbot";
+"Go to the app to share!" = "Vés a l'aplicació per a compartir-ho.";
+"Host" = "Amfitrió";
+"Hosting" = "S'està allotjant";
+"Menu" = "Menú";
+"Permit third-party resources (don't send Content Security Policy header)" = "Permet recursos de tercers (no envia la capçalera Content Security Policy)";
+"Private Key" = "Clau privada";
+"QR Code" = "Codi QR";
+"Ready" = "A punt";
+"Request API Access" = "Sol·licita accés a l'API";
+"Share" = "Comparteix";
+"Sharing" = "S'està compartint";
+"Start Hosting" = "Allotja";
+"Start Sharing" = "Comparteix";
+"Stop after files have been sent (disables download of individual files)" = "Atura quan els fitxers s'hagin enviat (desactiva la baixada de fitxers individuals)";
+"Stop Hosting" = "Deixa d'allotjar";
+"Stop Sharing" = "Deixa de compartir";
+"Tap here to change" = "Toqueu per a canviar";
+"The app needs to be open to work." = "Cal que obriu l'aplicació perquè funcioni.";
+"You have Orbot installed and running, but we cannot bypass it." = "Teniu l'Orbot instal·lat i en execució, però no el podem circumval·lar.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Cal que activeu el mode de circumval·lació a la configuració de l'Orbot perquè %@ funcioni mentre s'executa l'Orbot.";
+"Use Bridges" = "Utilitza ponts";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Cal que sol·liciteu accés a l'API amb l'Orbot perquè %@ funcioni mentre s'executa l'Orbot.";
+"Couldn't add item!" = "No s'ha pogut afegir.";
+"Custom title" = "Títol personalitzat";
+"New files while running" = "Fitxers nous mentre s'executa";
+"Orbot Detected" = "S'ha detectat l'Orbot";
+"Orbot running, but not allowed to bypass." = "Orbot en execució, però sense permís per a circumval·lar.";
+"Paste API token here" = "Enganxeu el testimoni de l'API aquí";
+"Adding to %@…" = "S'està afegint a %@…";
+"Cancel" = "Cancel·la";
+"This is a public service (disables private key)" = "Això és un servei públic (desactiva la clau privada)";
+"Internal Tor error. Should not happen. Please reinstall!" = "Error intern del Tor. No hauria d'ocórrer. Reinstal·leu.";
+"No albums" = "Cap àlbum";
+"Orbot could not be opened!" = "No s'ha pogut obrir l'Orbot.";
+"Nothing here yet." = "Encara no hi ha res.";
+"Please note, that this will only take effect, after you restart." = "Tingueu present que això només tindrà efecte en reiniciar.";
+"Starting…" = "S'està iniciant…";
+"You added files from elsewhere while already sharing." = "Heu afegit fitxers d'un altre lloc mentre estàveu compartint.";
