@@ -1,0 +1,57 @@
+
+
+"Share" = "Deila";
+"Add Files" = "Bæta við skrám";
+"Access Token" = "Aðgangsteikn";
+"Private Key" = "Einkalykill";
+"Start Hosting" = "Hefja hýsingu";
+"Add Folder" = "Bæta við möppu";
+"Cancel" = "Hætta við";
+"Custom title" = "Sérsniðinn titill";
+"Sharing" = "Deiling";
+"Start Sharing" = "Hefja deilingu";
+"Starting…" = "Ræsi…";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Hver sem er%1$@ með þetta vistfang og þennan einkalykil getur %1$@sótt%1$@ skrárnar þínar með því að nota %1$@Tor-vafrann%1$@:";
+"Add Photos" = "Bæta við ljósmyndum";
+"Adding to %@…" = "Bæti í %@…";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Hver sem er%1$@ með þetta vistfang og þennan einkalykil getur %1$@skoðað vefsvæðið þitt%1$@ með því að nota T%1$@or-vafrann%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Hver sem er%1$@ með þetta vistfang getur %1$@sótt skrárnar þínar%1$@ með því að nota %1$@Tor-vafrann%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Hver sem er%1$@ með þetta vistfang getur %1$@skoðað vefsvæðið þitt%1$@ með því að nota T%1$@or-vafrann%1$@:";
+"Couldn't add item!" = "Gat ekki bætt við atriði!";
+"Done" = "Búið";
+"Go to Orbot Settings" = "Fara í stillingar Orbot";
+"Go to the app to share!" = "Farðu í forritið til að deila!";
+"Host" = "Hýsilvél";
+"Hosting" = "Hýsing";
+"Internal Tor error. Should not happen. Please reinstall!" = "Innri villa í Tor, ætti aldrei að gerast. Settu upp aftur!";
+"Menu" = "Valmynd";
+"New files while running" = "Nýjar skrár á meðan er í gangi";
+"No albums" = "Engin albúm";
+"Nothing here yet." = "Ekkert hér ennþá.";
+"Orbot could not be opened!" = "Ekki náðist að opna Orbot!";
+"Orbot Detected" = "Orbot fannst";
+"Orbot running, but not allowed to bypass." = "Orbot er keyrandi, en ekki leyft að fara framhjá.";
+"Paste API token here" = "Límdu API-teikn hér";
+"Permit third-party resources (don't send Content Security Policy header)" = "Heimila tilföng frá utanaðkomandi aðilum (ekki senda haus fyrir öryggisstefnu efnis - Content Security Policy)";
+"Please note, that this will only take effect, after you restart." = "Athugaðu að þetta tekir aðeins gildi eftir endurræsingu.";
+"QR Code" = "QR-kóði";
+"Ready" = "Tilbúið";
+"Request API Access" = "Biðja um aðgang að API-kerfisviðmóti";
+"Stop after files have been sent (disables download of individual files)" = "Hætta eftir að skrár hafa verið sendar (gerir óvirkt niðurhal á stökum skrám)";
+"Stop Hosting" = "Stöðva hýsingu";
+"Stop Sharing" = "Hætta að deila";
+"Tap here to change" = "Ýttu hér til að breyta";
+"The app needs to be open to work." = "Forritið þarf að vera opið til að virka.";
+"This is a public service (disables private key)" = "Þetta er opinber þjónusta (gerir einkalykil óvirkann)";
+"Use Bridges" = "Nota brýr";
+"You added files from elsewhere while already sharing." = "Þú bættir við skrám annarstaðar frá á meðan þegar var verið að deila.";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot er þegar uppsett og keyrandi, en okkur er ekki leyft að fara framhjá því.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Þú þarft að virkja framhjáhlaupsham í stillingum Orbot til að %@ virki á meðan Orbot er í gangi.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Þú þarft að biðja um aðgang að API-kerfisviðmóti fyrir Orbot, til að %@ virki á meðan Orbot er í gangi.";
