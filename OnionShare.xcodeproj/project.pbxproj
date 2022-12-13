@@ -114,7 +114,7 @@
 		A0EAF2622930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		A0EAF2632930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		A0EAF2652930E830003D2DCB /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = it; path = it.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
-		A0FDF5C227720BE2005AA20A /* Deliverfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Deliverfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A0F87B962948DA3B00808689 /* fastlane */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fastlane; sourceTree = "<group>"; };
 		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C18753A320CFD663C6E2AA6F /* Pods_ActionExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActionExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F498EA9C3F153D2B18FC392A /* Pods-ActionExtension.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ActionExtension.release.xcconfig"; path = "Target Support Files/Pods-ActionExtension/Pods-ActionExtension.release.xcconfig"; sourceTree = "<group>"; };
@@ -233,7 +233,7 @@
 				A002D9B52772279C0011EFA0 /* .bartycrouch.toml */,
 				A06C48C62770DD50005FCAD1 /* .gitignore */,
 				A081818428F6FD5F00795680 /* weblate.ini */,
-				A0FDF5C127720BE2005AA20A /* fastlane */,
+				A0F87B962948DA3B00808689 /* fastlane */,
 			);
 			name = Build;
 			sourceTree = "<group>";
@@ -245,14 +245,6 @@
 				A06C49002770E0A4005FCAD1 /* templates */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		A0FDF5C127720BE2005AA20A /* fastlane */ = {
-			isa = PBXGroup;
-			children = (
-				A0FDF5C227720BE2005AA20A /* Deliverfile */,
-			);
-			path = fastlane;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
