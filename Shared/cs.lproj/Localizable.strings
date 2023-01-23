@@ -1,0 +1,57 @@
+
+
+"Menu" = "Menu";
+"Orbot running, but not allowed to bypass." = "Orbot běží, ale není povoleno jej obejít.";
+"Please note, that this will only take effect, after you restart." = "Prosím, vemte navědomí, že se změny projeví až po restartu.";
+"Private Key" = "Soukromý klíč";
+"QR Code" = "QR kód";
+"Ready" = "Připraveno";
+"Request API Access" = "Vyžádat API přístup";
+"Share" = "Sdílet";
+"Sharing" = "Sdílení";
+"Start Hosting" = "Zahájit hostování";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Kdokoli%1$@ s touto adresou a soukromým klíčem může %1$@navštívit váš web%1$@ vaše soubory za pomoci %1$@Tor Browseru%1$@:";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Kdokoli%1$@ s touto adresou a soukromým klíčem může %1$@stahovat%1$@ vaše soubory za pomoci %1$@Tor Browseru%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Kdokoli%1$@ s touto adresou může %1$@stahovat%1$@ vaše soubory za pomoci %1$@Tor Browseru%1$@:";
+"Access Token" = "Přístupový token";
+"Add Photos" = "Přidat fotografie";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Kdokoli%1$@ s touto adresou může %1$@navštívit váš web%1$@ vaše soubory za pomoci %1$@Tor Browseru%1$@:";
+"Add Files" = "Přidat soubory";
+"Add Folder" = "Přidat adresář";
+"Adding to %@…" = "Přidávání do %@…";
+"Cancel" = "Zrušit";
+"Couldn't add item!" = "Položku nelze přidat!";
+"Permit third-party resources (don't send Content Security Policy header)" = "Povolit prostředky třetích stran (neodesílat hlavičku Content Security Policy)";
+"Custom title" = "Vlastní název";
+"Paste API token here" = "Zde vložte API token";
+"Done" = "Hotovo";
+"Go to Orbot Settings" = "Jít do nastavení Orbotu";
+"Go to the app to share!" = "Přejděte do aplikace a sdílejte!";
+"Host" = "Hostování";
+"Hosting" = "Hostování";
+"Internal Tor error. Should not happen. Please reinstall!" = "Interní chyba Toru, která by se neměla stát. Prosím, přeinstalujte aplikaci!";
+"New files while running" = "Nové soubory za chodu";
+"No albums" = "Žádná alba";
+"Orbot could not be opened!" = "Orbot nebylo možné otevřít!";
+"Nothing here yet." = "Zatím zde nic není.";
+"Orbot Detected" = "Orbot detekován";
+"Stop Hosting" = "Zastavit hostování";
+"Start Sharing" = "Zahájit sdílení";
+"Starting…" = "Startuje…";
+"Tap here to change" = "Klepněte zde pro změnu";
+"Stop after files have been sent (disables download of individual files)" = "Zastavit, když jsou soubory odeslány (vypne stahování jednotlivých souborů)";
+"Stop Sharing" = "Zastavit sdílení";
+"The app needs to be open to work." = "Aby aplikace fungovala, musí být otevřena.";
+"This is a public service (disables private key)" = "Toto je veřejná služba (vypne soukromý klíč)";
+"Use Bridges" = "Použít mosty";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot je nainstalován a běží, ale nejde nám ho obejít.";
+"You added files from elsewhere while already sharing." = "Během sdílení jste přidali soubory odjinud.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Musíte povolit bypass mód v nastavení Orbotu, aby %@ fungoval, zatímco Orbot běží.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Musíte si vyžádat API přístup k Orbotu, aby %@ fungoval, zatímco Orbot běží.";

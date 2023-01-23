@@ -5,29 +5,37 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@アイテム@</string>
+		<string>%#@kohdetta@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%u kohdetta</string>
+			<key>one</key>
+			<string>%u kohde</string>
 			<key>other</key>
-			<string>%u items</string>
+			<string>%u kohdetta</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@アイテム@</string>
+		<string>%#@kohdetta@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%1$u kohdetta on valmiina jaettavaksi.</string>
+			<key>one</key>
+			<string>%1$u kohde on valmis jaettavaksi.</string>
 			<key>other</key>
-			<string>You have %1$u items ready to share.</string>
+			<string>%1$u kohdetta on valmiina jaettavaksi.</string>
 		</dict>
 	</dict>
 </dict>

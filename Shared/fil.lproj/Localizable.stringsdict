@@ -5,29 +5,37 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@アイテム@</string>
+		<string>%#@mga item@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%u item</string>
+			<key>one</key>
+			<string>%u na mga item</string>
 			<key>other</key>
-			<string>%u items</string>
+			<string>%u mga item</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@アイテム@</string>
+		<string>%#@mga item@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>May %1$u item kang handang ibahagi.</string>
+			<key>one</key>
+			<string>May %1$u na mga item kang handang ibahagi.</string>
 			<key>other</key>
-			<string>You have %1$u items ready to share.</string>
+			<string>May %1$u mga item kang handang ibahagi.</string>
 		</dict>
 	</dict>
 </dict>
