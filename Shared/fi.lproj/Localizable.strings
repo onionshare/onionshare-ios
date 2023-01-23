@@ -1,0 +1,33 @@
+
+
+"Add Folder" = "Lisää kansio";
+"Done" = "Valmis";
+"Add Photos" = "Lisää kuvia";
+"Cancel" = "Peruuta";
+"Couldn't add item!" = "Kohdetta ei voitu lisätä!";
+"Go to Orbot Settings" = "Siirry Orbotin asetuksiin";
+"Go to the app to share!" = "Mene sovellukseen jakaaksesi!";
+"Menu" = "Valikko";
+"No albums" = "Ei albumeja";
+"Nothing here yet." = "Täällä ei ole vielä mitään.";
+"Orbot could not be opened!" = "Orbotia ei voitu avata!";
+"Orbot Detected" = "Orbot havaittu";
+"Private Key" = "Yksityinen avain";
+"Ready" = "Valmis";
+"Share" = "Jaa";
+"Sharing" = "Jakaminen";
+"Start Hosting" = "Aloita isännöinti";
+"Start Sharing" = "Aloita jakaminen";
+"Starting…" = "Aloitetaan…";
+"Stop Sharing" = "Lopeta jakaminen";
+"The app needs to be open to work." = "Sovelluksen tulee olla avoinna, jotta se toimii.";
+"This is a public service (disables private key)" = "Tämä on julkinen palvelu (poistaa yksityisen avaimen käytöstä)";
+"Use Bridges" = "Käytä siltoja";
+"Add Files" = "Lisää tiedostoja";
+"QR Code" = "QR-koodi";
+"Request API Access" = "Pyydä API-pääsyä";
+"Stop Hosting" = "Lopeta isännöinti";
+"Tap here to change" = "Napauta tästä muuttaaksesi";
+"Custom title" = "Mukautettu otsikko";
+"Hosting" = "Isännöinti";
+"Host" = "Isännöi";

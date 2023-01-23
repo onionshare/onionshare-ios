@@ -1,0 +1,57 @@
+
+
+"Stop Hosting" = "Ndale Strehimin";
+"Start Sharing" = "Fillo të Ndash Me të Tjerë";
+"Starting…" = "Po niset…";
+"Stop after files have been sent (disables download of individual files)" = "Ndale pasi të jenë dërguar kartelat (çaktivizon shkarkim kartelash individuale)";
+"Stop Sharing" = "Resht së Ndari Me të Tjerë";
+"Tap here to change" = "Prekni këtu që të ndryshohet";
+"The app needs to be open to work." = "Aplikacioni lyp të jetë i hapur që të funksionojë.";
+"This is a public service (disables private key)" = "Ky është një shërbim publik (çaktivizon kyç privat)";
+"Use Bridges" = "Përdorni Ura";
+"You added files from elsewhere while already sharing." = "Shtuat kartela prej gjetiu, teksa ndanit tashmë me të tjerë.";
+"You have Orbot installed and running, but we cannot bypass it." = "Keni Orbot-in të instaluar dhe në funksionim, por s’mund ta anashkalojmë.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Lypset të aktivizoni mënyrë anashkalim te rregullimet e Orbot-it që %@ të punojë ndërkohë që Orbot-i është në funksionim.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Lypset të kërkoni hyrje API me Orbot, që %@ të mund të punojë ndërkohë që Orbot-i është në funksionim.";
+"Share" = "Ndani me të tjerë";
+"Start Hosting" = "Fillo të Strehosh";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Cilido%1$@ me këtë adresë dhe kyç privat mundet %1$@të shkarkojë%1$@ kartelat tuaja duke përdorur %1$@Shfletuesin Tor%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Cilido%1$@ me këtë adresë dhe kyç privat mundet %1$@vizitojë sajtin tuaj%1$@ duke përdorur %1$@Shfletuesin Tor%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Cilido%1$@ me këtë adresë mundet %1$@të shkarkojë%1$@ kartelat tuaja duke përdorur %1$@Shfletuesin Tor%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Cilido%1$@ me këtë adresë mundet %1$@të vizitojë sajtin tuaj%1$@ duke përdorur %1$@Shfletuesin Tor%1$@:";
+"Access Token" = "Token Hyrjesh";
+"Add Files" = "Shtoni Kartela";
+"Add Folder" = "Shtoni Dosje";
+"Add Photos" = "Shtoni Foto";
+"Adding to %@…" = "Po shtohet te %@…";
+"Cancel" = "Anuloje";
+"Couldn't add item!" = "S’u shtua dot objekt!";
+"Custom title" = "Titull vetjak";
+"Done" = "U bë";
+"Go to Orbot Settings" = "Kalo te Rregullimet e Orbot-it";
+"Go to the app to share!" = "Kalo te aplikacioni për ndarje!";
+"Host" = "Strehë";
+"Hosting" = "Strehim";
+"Internal Tor error. Should not happen. Please reinstall!" = "Gabim Tor i Brendshëm. S’duhet të ndodhte. Ju lutemi, riinstalojeni!";
+"Menu" = "Menu";
+"New files while running" = "Kartela të reja teksa xhirohej";
+"No albums" = "Pa albume";
+"Nothing here yet." = "Ende pa gjë këtu.";
+"Orbot could not be opened!" = "Orbot-i s’u hap dot!";
+"Orbot Detected" = "U pikas Orbot";
+"Orbot running, but not allowed to bypass." = "Orbot në funksionim, por jo i lejuar të anashkalojë.";
+"Paste API token here" = "Ngjiteni token-in e API-t këtu";
+"Permit third-party resources (don't send Content Security Policy header)" = "Lejo burime palësh të treta (mos dërgo krye Content Security Policy)";
+"Please note, that this will only take effect, after you restart." = "Ju lutemi, kin parasysh, se kjo do të ketë efekt vetëm pasi ta rinisni.";
+"Private Key" = "Kyç Privat";
+"QR Code" = "Kod QR";
+"Ready" = "Gati";
+"Request API Access" = "Kërko Hyrje API";
+"Sharing" = "Ndarje me të tjerë";

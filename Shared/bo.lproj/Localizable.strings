@@ -9,135 +9,47 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@སུ་ཞིག་ལ་%1$@ ཁ་བྱང་འདི་ཡོད་ན། %1$@ཁྱེད་ཀྱི་དྲ་ཚིགས་ལྟ་ཀློག་བྱེད་ཐུབ། %1$@ སྤྱད་དེ %1$@ཁྲོར་བཤེར་ཆས%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "ཆོག་འཐུས་མཚོན་རྟགས།";
-
-/* No comment provided by engineer. */
 "Add Files" = "ཡིག་ཆ་ཁ་སྣོན།";
-
-/* No comment provided by engineer. */
 "Add Folder" = "ཡིག་སྒམ་ཁ་སྣོན།";
-
-/* No comment provided by engineer. */
 "Add Photos" = "པར་རིས་ཁ་སྣོན།";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "%@…ལ་ཁ་སྣོན།";
-
-/* No comment provided by engineer. */
 "Cancel" = "ཕྱིར་འཐེན།";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "རྣམ་གྲངས་ཁ་སྣོན་བྱེད་ཐུབ་མ་སོང་།";
-
-/* No comment provided by engineer. */
 "Custom title" = "མང་མོས་ཀྱི་འགོ་བརྗོད།";
-
-/* No comment provided by engineer. */
 "Done" = "གྲུབ།";
-
-/* No comment provided by engineer. */
-"Go to Orbot Settings" = "ཨོར་བྷོར་གྱི་སྒྲིག་འགོད་ནང་དུ་བསྐྱོད།";
-
-/* No comment provided by engineer. */
-"Go to the app to share!" = "བཀོལ་ཆས་ཀྱི་ནང་དུ་ཕྱིན་ཏེ་བརྒྱུད་སྐུར་བྱོས།";
-
-/* No comment provided by engineer. */
-"Host" = "Host";
-
-/* No comment provided by engineer. */
+"Go to Orbot Settings" = "ཨོར་བྷོར་གྱི་སྒྲིག་འགོད་ནང་དུ་ཕེབས།";
+"Go to the app to share!" = "བཀོལ་ཆས་ཀྱི་ནང་དུ་ཕེབས་ཏེ་བརྒྱུད་སྐུར་བྱོས།";
+"Host" = "གཙོ་སྐྱོང་།";
 "Hosting" = "གཙོ་སྐྱོང་བྱེད་བཞིན་པ།";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "ཁྲོར་ནང་ཁུལ་གྱི་སྐྱོན་ཆ། འབྱུང་མི་འོས། བསྐྱར་དུ་ནང་འཇུག་བྱེད་རོགས།";
-
-/* No comment provided by engineer. */
 "Menu" = "ཐོ་གཞུང་།";
-
-/* No comment provided by engineer. */
 "New files while running" = "བརྒྱུད་སྐུར་བྱེད་སྐབས་སུ་ཡིག་ཆ་གསར་པ་ཁ་སྣོན།";
-
-/* No comment provided by engineer. */
 "No albums" = "པར་མཛོད་མི་འདུག";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "འདི་ན་ད་དུང་ཅི་ཡང་མི་འདུག";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "ཨོར་བྷོར་ཁ་འབྱེད་ཐུབ་མ་སོང་།";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "ཨོར་བྷོར་རྩད་གཅོད་བྱུང་སོང་།";
-
-/* No comment provided by engineer. */
-"Orbot running, but not allowed to bypass." = "ཨོར་བྷོར་གྱིས་བྱེད་ལས་རྩོམ་བཞིན་འདུག འོན་ཀྱང་། ཕར་འགྲོ་ཚུར་འོང་བྱེད་བཅུག་མ་སོང་།";
-
-/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "ཨོར་བྷོར་གྱིས་བྱེད་ལས་རྩོམ་བཞིན་འདུག འོན་ཀྱང་། གཡོལ་བཅུག་མ་སོང་།";
 "Paste API token here" = "འདིར་API ཨང་ཚབ་འདིར་སྦྱོར།";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "ཕྱོགས་གསུམ་པའི་རྒྱུ་ཆར་ཆོག་མཆན་སྤྲོད། (ནང་དོན་བདེ་འཇགས་སྲིད་ཇུས་ཀྱི་འགོ་བརྗོད་མ་གཏོང་།)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "ཡིད་འཇོག་བྱེད་རོགས། འདི་ཁྱེད་ཀྱིས་བསྐྱར་དུ་འགོ་འཛུགས་བྱས་ན་ད་གཟོད་ནུས་པ་ཐོན་ཐུབ།";
-
-/* No comment provided by engineer. */
 "Private Key" = "སྒེར་གྱི་ལྡེ་མིག";
-
-/* No comment provided by engineer. */
 "QR Code" = "བཤེར་རིས།";
-
-/* No comment provided by engineer. */
 "Ready" = "གྲ་སྒྲིག";
-
-/* No comment provided by engineer. */
 "Request API Access" = "API ཨང་ཚབ་རེ་སྐུལ།";
-
-/* No comment provided by engineer. */
 "Share" = "བརྒྱུད་སྐུར།";
-
-/* No comment provided by engineer. */
 "Sharing" = "བརྒྱུད་སྐུར་བྱེད་བཞིན་པ།";
-
-/* No comment provided by engineer. */
-"Start Hosting" = "Start Hosting";
-
-/* No comment provided by engineer. */
-"Start Sharing" = "Start Sharing";
-
-/* No comment provided by engineer. */
-"Starting…" = "Starting…";
-
-/* No comment provided by engineer. */
-"Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
-
-/* No comment provided by engineer. */
-"Stop Hosting" = "Stop Hosting";
-
-/* No comment provided by engineer. */
-"Stop Sharing" = "Stop Sharing";
-
-/* No comment provided by engineer. */
-"Tap here to change" = "Tap here to change";
-
-/* No comment provided by engineer. */
-"The app needs to be open to work." = "The app needs to be open to work.";
-
-/* No comment provided by engineer. */
-"This is a public service (disables private key)" = "This is a public service (disables private key)";
-
-/* No comment provided by engineer. */
-"Use Bridges" = "Use Bridges";
-
-/* No comment provided by engineer. */
-"You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
-
-/* No comment provided by engineer. */
-"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
-
-/* No comment provided by engineer. */
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
-
-/* No comment provided by engineer. */
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "You need to request API access with Orbot, in order for %@ to work while Orbot is running.";
+"Start Hosting" = "གཙོ་སྐྱོང་འགོ་འཛུགས།";
+"Start Sharing" = "བརྒྱུད་སྐུར་འགོ་འཛུགས།";
+"Starting…" = "འགོ་འཛུགས་བཞིན་པ…";
+"Stop after files have been sent (disables download of individual files)" = "ཡིག་ཆ་བཏང་ཚར་བའི་རྗེས་སུ་མཚམས་ཞོག (ཡིག་ཆ་བྱེ་བྲག་གང་རུང་ཕབ་ལེན་བྱེད་མི་ཐུབ་པ་བཟོས།)";
+"Stop Hosting" = "གཙོ་སྐྱོང་མཚམས་འཇོག";
+"Stop Sharing" = "བརྒྱུད་སྐུར་མཚམས་འཇོག";
+"Tap here to change" = "འདིའི་ཐོག་ལ་མནན་ཏེ་འགྱུར་བ་ཐོངས།";
+"The app needs to be open to work." = "བཀོལ་ཆས་འདིས་བྱེད་ལས་རྩོམ་པར་ཁ་ཕྱེ་ནས་བཞག་དགོས།";
+"This is a public service (disables private key)" = "འདི་ནི་སྤྱི་པའི་ཞབས་ཞུ་ཞིག་ཡིན། (སྒེར་གྱི་ལྡེ་མིག་ནུས་མེད་བཟོས།)";
+"Use Bridges" = "ཟམ་པ་བཀོལ་སྤྱོད།";
+"You added files from elsewhere while already sharing." = "ཁྱེད་ཀྱིས་བརྒྱུད་སྐུར་བྱེད་བཞིན་པའི་སྐབས་སུ། གནས་གཞན་ཞིག་ནས་ཡིག་ཆ་ཁ་སྣོན་བྱས་སོང་།";
+"You have Orbot installed and running, but we cannot bypass it." = "ཁྱེད་ཀྱིས་ཨོར་བྷོར་ཕབ་ལེན་དང་བཀོལ་སྤྱོད་བྱེད་ཀྱི་འདུག འོན་ཀྱང་། ང་ཚོས་དེ་ལ་གཡོལ་མི་ཐུབ།";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "ཨོར་བྷོར་གྱི་ལས་ཀ་བྱེད་སྐབས། %@ ལ་བྱེད་ལས་རྩོམ་དུ་འཇུག་པར། ཨོར་བྷོར་གྱི་སྒྲིག་འགོད་ཁོངས་ནས། གཡོལ་བའི་རྣམ་པ་ནུས་ཡོད་བཟོ་དགོས།";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "ཨོར་བྷོར་གྱི་ལས་ཀ་བྱེད་སྐབས། %@ ལ་བྱེད་ལས་རྩོམ་དུ་འཇུག་པར། ཁྱེད་ཀྱིས་ཨོར་བྷོར་ལ་API ཨང་ཚབ་རེ་སྐུལ་ཞུ་དགོས།";

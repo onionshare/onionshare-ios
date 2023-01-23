@@ -13,11 +13,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u nota</string>
+			<string>No hay elementos</string>
 			<key>one</key>
-			<string>%u nota</string>
+			<string>%u elemento</string>
 			<key>many</key>
-			<string>%u notas</string>
+			<string>%u elementos</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -31,11 +31,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
+			<string>No tiene ningún elemento listo para compartir.</string>
 			<key>one</key>
-			<string>Tienes %1$u elemento listo para compartir.</string>
+			<string>Tiene %1$u elemento listo para compartir.</string>
 			<key>many</key>
-			<string>Tienes %1$u elementos listo para compartir.</string>
+			<string>Tienes %1$u elementos listos para compartir.</string>
 		</dict>
 	</dict>
 </dict>
