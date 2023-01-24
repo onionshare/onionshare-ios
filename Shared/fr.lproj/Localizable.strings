@@ -10,90 +10,134 @@
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1@Toute personne%1$@ ayant cette adresse peut %1$@visiter votre site web%1$@ en utilisant le %1$@Navigateur Tor%1$@ :";
 
+/* No comment provided by engineer. */
 "Access Token" = "jeton d’accès";
 
+/* No comment provided by engineer. */
 "Add Files" = "Ajouter des fichiers";
 
+/* No comment provided by engineer. */
 "Add Folder" = "Ajouter des dossiers";
 
+/* No comment provided by engineer. */
 "Add Photos" = "Ajouter des Images";
 
+/* No comment provided by engineer. */
 "Adding to %@…" = "Ajouté à %@…";
 
+/* No comment provided by engineer. */
 "Cancel" = "Annuler";
 
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Impossible d'ajouter un élément !";
 
+/* No comment provided by engineer. */
 "Custom title" = "Titre personnalisé";
 
+/* No comment provided by engineer. */
 "Done" = "Terminé";
 
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Allez dans les paramètres d'Orbot";
 
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Allez sur l'application pour partager !";
 
+/* No comment provided by engineer. */
 "Host" = "hôte";
 
+/* No comment provided by engineer. */
 "Hosting" = "Hébergeur";
 
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Erreur interne de Tor. Cela ne devrait pas arriver. Veuillez réinstaller !";
 
+/* No comment provided by engineer. */
 "Menu" = "Menu";
 
+/* No comment provided by engineer. */
 "New files while running" = "Nouveaux fichiers en cours d'exécution";
 
+/* No comment provided by engineer. */
 "No albums" = "Aucun album";
 
+/* No comment provided by engineer. */
 "Nothing here yet." = "Rien pour le moment.";
 
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot n'a pas pu être ouvert !";
 
+/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot détecté";
 
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot fonctionne, mais ne peut pas contourner.";
 
+/* No comment provided by engineer. */
 "Paste API token here" = "Collez votre jeton API ici";
 
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Autoriser les ressources tierces (ne pas envoyer d'en-tête de politique de sécurité du contenu)";
 
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Veuillez noter que cela ne prendra effet qu'après le redémarrage.";
 
+/* No comment provided by engineer. */
 "Private Key" = "Clé privée";
 
+/* No comment provided by engineer. */
 "QR Code" = "QR Code";
 
+/* No comment provided by engineer. */
 "Ready" = "Prêt";
 
+/* No comment provided by engineer. */
 "Request API Access" = "Demander l'accès à l'API";
 
+/* No comment provided by engineer. */
 "Share" = "Partager";
 
+/* No comment provided by engineer. */
 "Sharing" = "Diffusion";
 
+/* No comment provided by engineer. */
 "Start Hosting" = "Lancer l’hébergement";
 
+/* No comment provided by engineer. */
 "Start Sharing" = "Lancer le partage";
 
+/* No comment provided by engineer. */
 "Starting…" = "Démarrage…";
 
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Arrêter après l'envoi des fichiers (désactive le téléchargement des fichiers individuels)";
 
+/* No comment provided by engineer. */
 "Stop Hosting" = "Arrêter l'hébergement";
 
+/* No comment provided by engineer. */
 "Stop Sharing" = "Arrêtez la diffusion";
 
+/* No comment provided by engineer. */
 "Tap here to change" = "Appuyez ici pour modifier";
 
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "L'application doit être ouverte pour fonctionner.";
 
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Ceci est un service public (désactive la clé privée)";
 
+/* No comment provided by engineer. */
 "Use Bridges" = "Utiliser des ponts";
 
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Vous avez ajouté des fichiers provenant d'ailleurs alors que vous partagez déjà.";
 
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot est installé et fonctionne, mais nous ne pouvons pas contourner le système.";
 
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Vous devez activer le mode de contournement dans les paramètres d'Orbot pour que %@ fonctionne lorsque Orbot est en cours d'exécution.";
 
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Vous devez demander un accès à l'API avec Orbot, afin que %@ puisse fonctionner pendant qu'Orbot est en cours d'exécution.";
