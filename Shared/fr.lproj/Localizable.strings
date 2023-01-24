@@ -1,57 +1,99 @@
-
-
-"No albums" = "Aucun album";
-"Private Key" = "Clé privée";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Vous devez activer le mode de contournement dans les paramètres d'Orbot pour que %@ fonctionne lorsque Orbot est en cours d'exécution.";
-"Orbot Detected" = "Orbot détecté";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$Une personne%1$@ possédant cette adresse et cette clé privée peut %1$@télécharger%1$@ vos fichiers en utilisant le %1$@NavigateurTor%1$@ :";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$Toute personne%1$@ disposant de cette adresse et de cette clé privée peut %1$@visiter votre site web%1$@ en utilisant le %1$@NavigateurTor%1$@ :";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1@Toute personne%1$@ ayant cette adresse peut %1$@télécharger%1$@ vos fichiers en utilisant le %1$@ Navigateur Tor%1$@ :";
-/* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$Une personne%1$@ possédant cette adresse et cette clé privée peut %1$@télécharger%1$@ vos fichiers en utilisant le %1$@NavigateurTor%1$@ :";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1@Toute personne%1$@ ayant cette adresse peut %1$@visiter votre site web%1$@ en utilisant le %1$@Navigateur Tor%1$@ :";
-"Add Folder" = "Ajouter des dossiers";
+
 "Access Token" = "jeton d’accès";
+
 "Add Files" = "Ajouter des fichiers";
+
+"Add Folder" = "Ajouter des dossiers";
+
 "Add Photos" = "Ajouter des Images";
-"Orbot could not be opened!" = "Orbot n'a pas pu être ouvert !";
+
 "Adding to %@…" = "Ajouté à %@…";
+
 "Cancel" = "Annuler";
+
 "Couldn't add item!" = "Impossible d'ajouter un élément !";
-"Done" = "Terminé";
+
 "Custom title" = "Titre personnalisé";
+
+"Done" = "Terminé";
+
 "Go to Orbot Settings" = "Allez dans les paramètres d'Orbot";
-"Hosting" = "Hébergeur";
+
 "Go to the app to share!" = "Allez sur l'application pour partager !";
+
 "Host" = "hôte";
-"New files while running" = "Nouveaux fichiers en cours d'exécution";
+
+"Hosting" = "Hébergeur";
+
 "Internal Tor error. Should not happen. Please reinstall!" = "Erreur interne de Tor. Cela ne devrait pas arriver. Veuillez réinstaller !";
+
 "Menu" = "Menu";
+
+"New files while running" = "Nouveaux fichiers en cours d'exécution";
+
+"No albums" = "Aucun album";
+
 "Nothing here yet." = "Rien pour le moment.";
+
+"Orbot could not be opened!" = "Orbot n'a pas pu être ouvert !";
+
+"Orbot Detected" = "Orbot détecté";
+
 "Orbot running, but not allowed to bypass." = "Orbot fonctionne, mais ne peut pas contourner.";
-"Permit third-party resources (don't send Content Security Policy header)" = "Autoriser les ressources tierces (ne pas envoyer d'en-tête de politique de sécurité du contenu)";
+
 "Paste API token here" = "Collez votre jeton API ici";
+
+"Permit third-party resources (don't send Content Security Policy header)" = "Autoriser les ressources tierces (ne pas envoyer d'en-tête de politique de sécurité du contenu)";
+
 "Please note, that this will only take effect, after you restart." = "Veuillez noter que cela ne prendra effet qu'après le redémarrage.";
+
+"Private Key" = "Clé privée";
+
 "QR Code" = "QR Code";
+
 "Ready" = "Prêt";
+
 "Request API Access" = "Demander l'accès à l'API";
+
 "Share" = "Partager";
-"Start Sharing" = "Lancer le partage";
+
 "Sharing" = "Diffusion";
-"The app needs to be open to work." = "L'application doit être ouverte pour fonctionner.";
+
 "Start Hosting" = "Lancer l’hébergement";
+
+"Start Sharing" = "Lancer le partage";
+
 "Starting…" = "Démarrage…";
+
 "Stop after files have been sent (disables download of individual files)" = "Arrêter après l'envoi des fichiers (désactive le téléchargement des fichiers individuels)";
-"Stop Sharing" = "Arrêtez la diffusion";
-"Tap here to change" = "Appuyez ici pour modifier";
+
 "Stop Hosting" = "Arrêter l'hébergement";
+
+"Stop Sharing" = "Arrêtez la diffusion";
+
+"Tap here to change" = "Appuyez ici pour modifier";
+
+"The app needs to be open to work." = "L'application doit être ouverte pour fonctionner.";
+
 "This is a public service (disables private key)" = "Ceci est un service public (désactive la clé privée)";
+
 "Use Bridges" = "Utiliser des ponts";
+
 "You added files from elsewhere while already sharing." = "Vous avez ajouté des fichiers provenant d'ailleurs alors que vous partagez déjà.";
+
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot est installé et fonctionne, mais nous ne pouvons pas contourner le système.";
+
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Vous devez activer le mode de contournement dans les paramètres d'Orbot pour que %@ fonctionne lorsque Orbot est en cours d'exécution.";
+
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Vous devez demander un accès à l'API avec Orbot, afin que %@ puisse fonctionner pendant qu'Orbot est en cours d'exécution.";

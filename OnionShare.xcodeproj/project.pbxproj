@@ -64,6 +64,8 @@
 		A002D9B52772279C0011EFA0 /* .bartycrouch.toml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .bartycrouch.toml; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.yaml; };
 		A002D9BA2772287D0011EFA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A002D9BC277228940011EFA0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A02704D7297FEB6F001D1C2E /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A02704D8297FEB6F001D1C2E /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = fr; path = fr.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A030F19827F35B4000BDD70D /* ActionExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = ActionExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		A030F19927F35B4000BDD70D /* UniformTypeIdentifiers.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UniformTypeIdentifiers.framework; path = System/Library/Frameworks/UniformTypeIdentifiers.framework; sourceTree = SDKROOT; };
 		A030F19E27F35B4000BDD70D /* ActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionViewController.swift; sourceTree = "<group>"; };
@@ -341,6 +343,7 @@
 				fil,
 				pl,
 				sq,
+				fr,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -421,7 +424,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if [ -f /opt/homebrew/bin/bartycrouch ]; then\n    /opt/homebrew/bin/bartycrouch update -x\n    /opt/homebrew/bin/bartycrouch lint -x\nelse\n    echo \"warning: BartyCrouch not installed. Download it form https://github.com/Flinesoft/BartyCrouch\"\nfi\n";
+			shellScript = "if command -v bartycrouch &> /dev/null; then\n    bartycrouch update -x\n    bartycrouch lint -x\nelse\n    echo \"warning: BartyCrouch not installed. Download it form https://github.com/Flinesoft/BartyCrouch\"\nfi\n";
 		};
 		A15392A9DD7D303A87CF1429 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -534,6 +537,7 @@
 				A086BE1F297EB0B90052D529 /* cs */,
 				A086BE23297EB1F20052D529 /* fi */,
 				A086BE27297EB39C0052D529 /* sq */,
+				A02704D7297FEB6F001D1C2E /* fr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -559,6 +563,7 @@
 				A086BE24297EB1F20052D529 /* fi */,
 				A086BE25297EB2E80052D529 /* fil */,
 				A086BE26297EB3450052D529 /* pl */,
+				A02704D8297FEB6F001D1C2E /* fr */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";
