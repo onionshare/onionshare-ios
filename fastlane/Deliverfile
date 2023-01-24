@@ -7,6 +7,8 @@ team_id "263782"
 
 skip_binary_upload true
 skip_app_version_update true
+automatic_release true
+precheck_include_in_app_purchases false
 
 # Only metadata upload
 skip_screenshots true
