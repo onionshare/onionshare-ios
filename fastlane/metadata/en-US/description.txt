@@ -1,3 +1,14 @@
 Ever wanted to share something without also sharing it with Google or Dropbox? Tax documents, medical information, or unpublished research? Share files directly and securely without the middlemen.
 
+Your Private Productivity Suite.. In Your Pocket!
+Share files and host websites right from your phone, all over Tor Onion Services, built by the developers who created Orbot, Briar, Onion Browser and CalyxOS!
 
+What OnionShare protects against
+
+Third parties don’t have access to anything that happens in OnionShare. Using OnionShare means hosting services directly on your computer. When sharing your files with OnionShare, they are not uploaded to any third-party server. This avoids the traditional model of having to trust the computers of others.
+
+Network eavesdroppers can’t spy on anything that happens in OnionShare in transit. The connection between the Tor onion service and Tor Browser is end-to-end encrypted. This means network attackers can’t eavesdrop on anything except encrypted Tor traffic. Even if an eavesdropper is a malicious rendezvous node used to connect the Tor Browser with OnionShare’s onion service, the traffic is encrypted using the onion service’s private key.
+
+Anonymity of OnionShare users are protected by Tor. OnionShare and Tor Browser protect the anonymity of the users. As long as the OnionShare user anonymously communicates the OnionShare address with the Tor Browser users, the Tor Browser users and eavesdroppers can’t learn the identity of the OnionShare user.
+
+If an attacker learns about the onion service, they still can’t access anything. Prior attacks against the Tor network to enumerate onion services allowed attackers to discover private .onion addresses. To access an OnionShare service from its address, the private key used for client authentication must be guessed (unless the service is already made public by turning off the private key – see Turn Off Private Key).
