@@ -3,7 +3,7 @@ Ever wanted to share something without also sharing it with Google or Dropbox? T
 Your Private Productivity Suite.. In Your Pocket!
 Share files and host websites right from your phone, all over Tor Onion Services, built by the developers who created Orbot, Briar, Onion Browser and CalyxOS!
 
-What OnionShare protects against
+What OnionShare protects against
 
 Third parties don’t have access to anything that happens in OnionShare. Using OnionShare means hosting services directly on your computer. When sharing your files with OnionShare, they are not uploaded to any third-party server. This avoids the traditional model of having to trust the computers of others.
 
