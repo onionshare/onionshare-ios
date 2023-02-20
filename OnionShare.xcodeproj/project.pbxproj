@@ -100,6 +100,8 @@
 		A06C49032770E16B005FCAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		A06C49062770E800005FCAD1 /* LaunchScreen.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 		A06C49082770F12D005FCAD1 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		A06D948729A3AD8E003AFFD5 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A06D948829A3AD8F003AFFD5 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = vi; path = vi.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A07C725228FD87C800D6F291 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A07C725428FD895200D6F291 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ja; path = ja.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A081818428F6FD5F00795680 /* weblate.ini */ = {isa = PBXFileReference; lastKnownFileType = text; path = weblate.ini; sourceTree = "<group>"; };
@@ -344,6 +346,7 @@
 				pl,
 				sq,
 				fr,
+				vi,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -424,7 +427,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if command -v bartycrouch &> /dev/null; then\n    bartycrouch update -x\n    bartycrouch lint -x\nelse\n    echo \"warning: BartyCrouch not installed. Download it form https://github.com/Flinesoft/BartyCrouch\"\nfi\n";
+			shellScript = "if [ -x \"/opt/homebrew/bin/brew\" ]; then\n    eval \"$(/opt/homebrew/bin/brew shellenv)\"\nfi\n\nif command -v bartycrouch &> /dev/null; then\n    bartycrouch update -x\n    bartycrouch lint -x\nelse\n    echo \"warning: BartyCrouch not installed. Download it form https://github.com/Flinesoft/BartyCrouch\"\nfi\n";
 		};
 		A15392A9DD7D303A87CF1429 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -538,6 +541,7 @@
 				A086BE23297EB1F20052D529 /* fi */,
 				A086BE27297EB39C0052D529 /* sq */,
 				A02704D7297FEB6F001D1C2E /* fr */,
+				A06D948729A3AD8E003AFFD5 /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -564,6 +568,7 @@
 				A086BE25297EB2E80052D529 /* fil */,
 				A086BE26297EB3450052D529 /* pl */,
 				A02704D8297FEB6F001D1C2E /* fr */,
+				A06D948829A3AD8F003AFFD5 /* vi */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";
