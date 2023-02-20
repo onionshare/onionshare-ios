@@ -1,0 +1,57 @@
+
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Bất kỳ ai%1$@ với địa chỉ này có thể %1$@tải xuống%1$@ các tập tin của bạn sử dụng trình duyệt %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Bất kỳ ai%1$@ với địa chỉ này có thể %1$@truy cập trang web của bạn%1$@ sử dụng trình duyệt %1$@Tor Browser%1$@:";
+"Access Token" = "Mã Token truy cập";
+"Add Files" = "Thêm tập tin";
+"Add Folder" = "Thêm thư mục";
+"Add Photos" = "Thêm hình ảnh";
+"Adding to %@…" = "Đang thêm vào %@…";
+"Cancel" = "Hủy bỏ";
+"Couldn't add item!" = "Đã không thể thêm mục!";
+"Custom title" = "Tiêu đề tùy chỉnh";
+"Done" = "Hoàn tất";
+"Go to Orbot Settings" = "Đi tới cài đặt Orbot";
+"Go to the app to share!" = "ĐI tới App Store để chia sẻ!";
+"Host" = "Host trang web";
+"Hosting" = "Đang chạy Hosting máy chủ";
+"Internal Tor error. Should not happen. Please reinstall!" = "Lỗi Tor nội bộ. Điều này không nên xảy ra. Xin hãy cài đặt lại!";
+"Menu" = "Menu";
+"New files while running" = "Tập tin mới trong khi chạy";
+"No albums" = "Không có Album";
+"Nothing here yet." = "Chưa có gì ở đây.";
+"Orbot could not be opened!" = "Đã không thể mở được Orbot!";
+"Orbot Detected" = "Đã phát hiện được Orbot";
+"Orbot running, but not allowed to bypass." = "Orbot đang chạy, nhưng nó không được phép vượt qua.";
+"Paste API token here" = "Dán mã Token API tại đây";
+"Permit third-party resources (don't send Content Security Policy header)" = "Cho phép các tài nguyên của bên thứ ba (không gửi tiêu đề Chính sách Bảo mật Nội dung)";
+"Please note, that this will only take effect, after you restart." = "Xin hãy lưu ý rằng, điều này sẽ chỉ có hiệu lực, sau khi bạn khởi động lại.";
+"QR Code" = "Mã Code QR";
+"Ready" = "Sẵn sàng";
+"Request API Access" = "Yêu cầu truy cập API";
+"Share" = "Chia sẻ";
+"Sharing" = "Đang chia sẻ";
+"Start Hosting" = "Bắt đầu Hosting";
+"Start Sharing" = "Bắt đầu chia sẻ";
+"Starting…" = "Đang bắt đầu…";
+"Stop after files have been sent (disables download of individual files)" = "Dừng ngay sau khi các tập tin đã được gửi đi (vô hiệu hoá các phiên tải xuống của các tập tin riêng lẻ)";
+"Stop Hosting" = "Dừng Hosting";
+"Stop Sharing" = "Dừng chia sẻ";
+"Tap here to change" = "Nhấn vào đây để thay đổi";
+"The app needs to be open to work." = "Ứng dụng cần được mở ra để hoạt động.";
+"This is a public service (disables private key)" = "Đây là dịch vụ công cộng (vô hiệu hoá khoá key riêng tư)";
+"Use Bridges" = "Sử dụng cầu Bridge";
+"You added files from elsewhere while already sharing." = "Bạn đã thêm các tập tin từ một nơi khác trong khi đang chia sẻ.";
+"You have Orbot installed and running, but we cannot bypass it." = "Bạn đã cài đặt Orbot và đang chạy, nhưng chúng tôi không thể vượt qua được nó.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Bạn cần phải kích hoạt chế độ vượt bypass trong cài đặt Orbot để %@ làm việc trong khi Orbot đang chạy.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Bạn cần phải yêu cầu truy cập API với Orbot, để %@ làm việc trong khi Orbot đang chạy.";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Bất kỳ ai%1$@ với địa chỉ này và khoá key riêng tư có thể %1$@truy cập trang web của bạn%1$@ sử dụng trình duyệt %1$@Tor Browser%1$@:";
+"Private Key" = "Khoá key riêng tư";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Bất kỳ ai%1$@ có địa chỉ này và khoá key riêng tư có thể %1$@tải xuống%1$@ các tập tin của bạn bằng cách sử dụng trình duyệt %1$@Tor Browser%1$@:";
