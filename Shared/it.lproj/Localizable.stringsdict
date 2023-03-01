@@ -6,11 +6,37 @@
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@elementi@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>Hai %1$u elementi pronti da condividere.</string>
+			<key>one</key>
+			<string>Hai %1$u elemento pronti da condividere.</string>
+			<key>many</key>
+			<string>Hai %1$u elementi pronti da condividere.</string>
+		</dict>
 	</dict>
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@elementi@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>%u elementi</string>
+			<key>one</key>
+			<string>%u elemento</string>
+			<key>many</key>
+			<string>%u elementi</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
