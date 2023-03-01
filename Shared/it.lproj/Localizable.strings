@@ -1,0 +1,51 @@
+
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Chiunque%1$@ con questo indirizzo e chiave privata può %1$@visitare il tuo sito web%1$@ usando %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Chiunque%1$@ con questo indirizzo può %1$@scaricare%1$@ i tuoi file usando %1$@Tor Browser%1$@:";
+"Access Token" = "Token di accesso";
+"Add Files" = "Aggiungi file";
+"Add Folder" = "Aggiungi cartella";
+"Add Photos" = "Aggiungi foto";
+"Adding to %@…" = "Aggiungendo a %@…";
+"Couldn't add item!" = "Impossibile aggiungere l'elemento!";
+"Done" = "Fatto";
+"Go to Orbot Settings" = "Vai alle impostazioni di Orbot";
+"Host" = "Host";
+"Hosting" = "Hosting";
+"Internal Tor error. Should not happen. Please reinstall!" = "Errore di Tor interno. Questo non dovrebbe accadere. Reinstalla l'app per favore!";
+"No albums" = "Nessun album";
+"Paste API token here" = "Incolla il token API qua";
+"Stop Hosting" = "Ferma hosting";
+"Stop Sharing" = "Ferma condivisione";
+"Tap here to change" = "Tocca qua per cambiare";
+"The app needs to be open to work." = "L'app deve essere aperta per funzionare.";
+"This is a public service (disables private key)" = "Questo è un servizio pubblico (disattiva la chiave privata)";
+"Stop after files have been sent (disables download of individual files)" = "Ferma quando i file sono stati inviati (disabilita il download di file individuali)";
+"Orbot could not be opened!" = "Non è stato possibile aprire Orbot!";
+"Cancel" = "Annulla";
+"QR Code" = "Codice QR";
+"Go to the app to share!" = "Vai all'app per condividere!";
+"Private Key" = "Chiave privata";
+"Ready" = "Pronto";
+"Share" = "Condividi";
+"Sharing" = "In condivisione";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Chiunque%1$@ con questo indirizzo e chiave privata può %1$@scaricare%1$@ i tuoi file usando %1$@Tor Browser%1$@:";
+"Custom title" = "Titolo personalizzato";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Chiunque%1$@ con questo indirizzo può %1$@visitare il tuo sito web%1$@ usando %1$@Tor Browser%1$@:";
+"Menu" = "Menu";
+"Orbot Detected" = "Orbot rilevato";
+"Request API Access" = "Richiedi accesso API";
+"Start Hosting" = "Avvia hosting";
+"Starting…" = "Avvio…";
+"Start Sharing" = "Avvia condivisione";
+"Use Bridges" = "Usa bridge";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Devi attivare la modalità bypass nelle impostazioni di Orbot affinchè %@ funzioni mentre Orbot è in esecuzione.";
+"You have Orbot installed and running, but we cannot bypass it." = "Hai Orbot installato e in esecuzione ma non riusciamo a bypassarlo.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Devi richiedere l'accesso alla API con Orbot affinchè %@ funzioni mentre Orbot è in esecuzione.";
