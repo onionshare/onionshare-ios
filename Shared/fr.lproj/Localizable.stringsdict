@@ -5,7 +5,7 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@élément@</string>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -36,7 +36,7 @@
 			<string>Vous avez %1$u éléments prêt à être partagé.</string>
 		</dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@élément@</string>
+		<string>%#@items@</string>
 	</dict>
 </dict>
 </plist>

@@ -16,12 +16,12 @@
 			<string>%u mục</string>
 		</dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@mục@</string>
+		<string>%#@items@</string>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@mục@</string>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
