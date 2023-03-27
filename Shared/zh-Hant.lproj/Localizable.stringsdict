@@ -4,6 +4,8 @@
 <dict>
 	<key>%u item(s)</key>
 	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -15,13 +17,11 @@
 			<key>other</key>
 			<string>%u 項</string>
 		</dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@項@</string>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@項@</string>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>

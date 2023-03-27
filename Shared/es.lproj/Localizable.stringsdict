@@ -16,7 +16,7 @@
 			<string>No hay elementos</string>
 			<key>one</key>
 			<string>%u elemento</string>
-			<key>many</key>
+			<key>other</key>
 			<string>%u elementos</string>
 		</dict>
 	</dict>
@@ -34,7 +34,7 @@
 			<string>No tiene ningún elemento listo para compartir.</string>
 			<key>one</key>
 			<string>Tiene %1$u elemento listo para compartir.</string>
-			<key>many</key>
+			<key>other</key>
 			<string>Tienes %1$u elementos listos para compartir.</string>
 		</dict>
 	</dict>

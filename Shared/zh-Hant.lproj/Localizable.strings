@@ -1,6 +1,3 @@
-
-
-"Add Files" = "新增檔案";
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@任何人%1$@ 拿到此地址與私鑰後，就可以透過%1$@Tor 瀏覽器 %1$@來%1$@下戴%1$@ 您的檔案:";
 
@@ -12,46 +9,135 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@任何人%1$@ 拿到此地址後就可以透過%1$@Tor 瀏覽器 %1$@來%1$@訪問%1$@ 該網站:";
-"Add Photos" = "新增照片";
-"Cancel" = "取消";
-"Couldn't add item!" = "無法新增項目!";
-"Custom title" = "自定標題";
-"Go to the app to share!" = "請到應用進行分享!";
-"Menu" = "選單";
-"No albums" = "無相簿";
-"Nothing here yet." = "這裏尚無東西。";
-"Orbot could not be opened!" = "Orbot 無法開啟!";
-"Orbot Detected" = "已偵測到 Orbot";
-"Orbot running, but not allowed to bypass." = "Orbot 運行中，不可通過。";
-"Paste API token here" = "把 API 令牌貼在此處";
-"New files while running" = "執行中新檔案";
-"Private Key" = "私鑰";
-"Ready" = "就緒";
-"Permit third-party resources (don't send Content Security Policy header)" = "授權第三方資源(不發送內容安全政策標頭)";
-"Please note, that this will only take effect, after you restart." = "請注意，必須重啟才能生效。";
-"Share" = "分享";
-"Start Sharing" = "開始分享";
-"Starting…" = "啟動…";
-"The app needs to be open to work." = "應用需要啟動運作。";
-"Use Bridges" = "使用橋接器";
-"You added files from elsewhere while already sharing." = "您自某處欲新增的檔案早已分享過了。";
-"You have Orbot installed and running, but we cannot bypass it." = "已安裝 Orbot 且執行中，但無法繞過它。";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "當 Orbot 執行時，必須在其設置中啟動繞過模式，%@才能運作。";
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "您必須請求 Orbot API 存取，這樣在 Orbot 運作時 %@ 才能工作。";
+
+/* No comment provided by engineer. */
 "Access Token" = "存取令牌";
-"Adding to %@…" = "新增到 %@…";
-"Done" = "完成";
+
+/* No comment provided by engineer. */
+"Add Files" = "新增檔案";
+
+/* No comment provided by engineer. */
 "Add Folder" = "新增文件夾";
-"Host" = "主機";
+
+/* No comment provided by engineer. */
+"Add Photos" = "新增照片";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "新增到 %@…";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "無法新增項目!";
+
+/* No comment provided by engineer. */
+"Custom title" = "自定標題";
+
+/* No comment provided by engineer. */
+"Done" = "完成";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "請到 Orbot 設置";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "請到應用進行分享!";
+
+/* No comment provided by engineer. */
+"Host" = "主機";
+
+/* No comment provided by engineer. */
 "Hosting" = "代管";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Tor 內部錯誤，應不會再發生，請重新安裝!";
+
+/* No comment provided by engineer. */
+"Menu" = "選單";
+
+/* No comment provided by engineer. */
+"New files while running" = "執行中新檔案";
+
+/* No comment provided by engineer. */
+"No albums" = "無相簿";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "這裏尚無東西。";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot 無法開啟!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "已偵測到 Orbot";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot 運行中，不可通過。";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "把 API 令牌貼在此處";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "授權第三方資源(不發送內容安全政策標頭)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "請注意，必須重啟才能生效。";
+
+/* No comment provided by engineer. */
+"Private Key" = "私鑰";
+
+/* No comment provided by engineer. */
 "QR Code" = "二維碼";
+
+/* No comment provided by engineer. */
+"Ready" = "就緒";
+
+/* No comment provided by engineer. */
 "Request API Access" = "請求 API 存取許可";
-"Stop Hosting" = "停止託管";
+
+/* No comment provided by engineer. */
+"Share" = "分享";
+
+/* No comment provided by engineer. */
 "Sharing" = "分享";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "啟動主機";
-"Stop Sharing" = "停止分享";
-"Tap here to change" = "輕觸此處進行變動";
-"This is a public service (disables private key)" = "此為公開服務(關閉私鑰)";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "開始分享";
+
+/* No comment provided by engineer. */
+"Starting…" = "啟動…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "檔案完成發送後停止(關閉個別檔案下載)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "停止託管";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "停止分享";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "輕觸此處進行變動";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "應用需要啟動運作。";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "此為公開服務(關閉私鑰)";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "使用橋接器";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "您自某處欲新增的檔案早已分享過了。";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "已安裝 Orbot 且執行中，但無法繞過它。";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "當 Orbot 執行時，必須在其設置中啟動繞過模式，%@才能運作。";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "您必須請求 Orbot API 存取，這樣在 Orbot 運作時 %@ 才能工作。";
