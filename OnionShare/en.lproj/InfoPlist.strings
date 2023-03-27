@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+NSCameraUsageDescription = "Please allow access to your camera, if you want to create photos or videos for direct sharing.";
+NSMicrophoneUsageDescription = "Please allow access to your microphone, if you want to create videos for direct sharing.";
+NSPhotoLibraryUsageDescription = "Please allow access to your photo library, if you want to share photos.";
