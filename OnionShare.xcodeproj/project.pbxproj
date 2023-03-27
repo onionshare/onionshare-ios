@@ -119,6 +119,7 @@
 		A0879CA129D1ADA7002BB4BD /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.stringsdict"; sourceTree = "<group>"; usesTabs = 1; };
 		A0879CAA29D1B7E3002BB4BD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A0879CAC29D1B7E7002BB4BD /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A0879CAD29D1C430002BB4BD /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
 		A088658127F445EC00248399 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = en; path = en.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A088658327F4460100248399 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = de; path = de.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A08E02672906EE56004EF895 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -246,6 +247,7 @@
 			isa = PBXGroup;
 			children = (
 				A06C48C32770DABC005FCAD1 /* README.md */,
+				A0879CAD29D1C430002BB4BD /* CHANGELOG.md */,
 				A06C48C52770DABC005FCAD1 /* LICENSE */,
 				A06C48C22770DABC005FCAD1 /* Podfile */,
 				A06C48C42770DABC005FCAD1 /* Podfile.lock */,

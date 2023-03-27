@@ -1,7 +1,7 @@
 PODS:
   - AdParticipesCumCepis (0.1.0):
     - GCDWebServer (~> 3.5)
-    - IPtProxyUI (~> 1.11)
+    - IPtProxyUI (~> 2.1)
     - OrbotKit (~> 0.2)
     - TLPhotoPicker (~> 2.1)
     - Tor (~> 407.12)
@@ -14,18 +14,18 @@ PODS:
   - GCDWebServer/Core (3.5.4)
   - ImageRow (4.1.0):
     - Eureka (~> 5.3.5)
-  - IPtProxy (1.9.0)
-  - IPtProxyUI (1.11.0):
+  - IPtProxy (2.0.0)
+  - IPtProxyUI (2.1.0):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
-    - IPtProxy (~> 1.9.0)
-    - IPtProxyUI/App (= 1.11.0)
+    - IPtProxy (~> 2.0.0)
+    - IPtProxyUI/App (= 2.1.0)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
-  - IPtProxyUI/App (1.11.0):
+  - IPtProxyUI/App (2.1.0):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
-    - IPtProxy (~> 1.9.0)
+    - IPtProxy (~> 2.0.0)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
   - MBProgressHUD (1.2.0)
@@ -69,20 +69,20 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 8afe7f80ffcc5e61f8befad3c67c911ed6530a53
+    :commit: 0ce7cec843d16ec0b3fb3c8f87d93085863d0c30
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: 8afe7f80ffcc5e61f8befad3c67c911ed6530a53
+    :commit: 0ce7cec843d16ec0b3fb3c8f87d93085863d0c30
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 2290b10d726dcec98ac3711d77c887d669ddacbd
+  AdParticipesCumCepis: 64266d171423f4c50dccf363e6b2ffc43c0a20a5
   AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: 28ad9dec6286cd7cd601fdf8e8df39bb7356a8f4
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: 880c0f052c5a89c80521b485c86ccf723a124e99
-  IPtProxy: 1a871c46b4c877ed284183404803b1666781c3b8
-  IPtProxyUI: f63ebddcd948d33f441b1f2af9b1546f922da9a0
+  IPtProxy: d33e998c68686b1e706612c310d246187c06c907
+  IPtProxyUI: 60965d112972248e468d457c69eabdfb0747d7ed
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   OrbotKit: 33dd047aa0d14812d7a08618f68ab1f0874e97f2
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
@@ -94,4 +94,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 4153a26c14e2b88839f1d6d2fdf6dcaa0620bc45
 
-COCOAPODS: 1.11.3
+COCOAPODS: 1.12.0
