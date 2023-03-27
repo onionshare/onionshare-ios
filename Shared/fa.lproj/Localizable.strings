@@ -1,0 +1,57 @@
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@هرکس%1$@ با این نشانی و کلید خصوصی می‌تواند توسط %1$@مرورگر Tor‎‏%1$@ فایل‌های شما را %1$@بارگیری کند%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@هرکس%1$@ با این نشانی و کلید خصوصی می‌تواند توسط %1$@مرورگر Tor‎‏%1$@ از %1$@وبسایت شما بازدید کند%1$@:";
+"Access Token" = "رمز دسترسی";
+"Host" = "میزبان";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@هرکس%1$@ با این نشانی می‌تواند توسط %1$@مرورگر Tor‎‏%1$@ فایل‌های شما را %1$@بارگیری کند%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@هرکس%1$@ با این نشانی می‌تواند توسط %1$@مرورگر Tor‎‏%1$@ از %1$@وبسایت شما بازدید کند%1$@:";
+"Add Files" = "افزودن فایل";
+"Add Folder" = "افزودن پوشه";
+"Add Photos" = "افزودن عکس‌ها";
+"Adding to %@…" = "در حال افزودن به %@…";
+"Go to Orbot Settings" = "به تنظیمات Orbot بروید";
+"Cancel" = "لغو";
+"Couldn't add item!" = "مورد افزودن نشد!";
+"Custom title" = "عنوان سفارشی";
+"Hosting" = "میزبانی";
+"Done" = "انجام شد";
+"Go to the app to share!" = "برای اشتراک‌گذاری به برنامه بروید!";
+"Internal Tor error. Should not happen. Please reinstall!" = "خطای درونی Tor. نباید اتفاق بیافتد. لطفاً دوباره نصب کنید!";
+"Menu" = "فهرست";
+"New files while running" = "فایل‌های جدید هنگام اجرا";
+"No albums" = "هیچ آلبومی نیست";
+"Nothing here yet." = "چیزی اینجا نیست.";
+"Orbot Detected" = "Orbot شناسایی شد";
+"Orbot could not be opened!" = "Orbot باز نشد!";
+"Ready" = "آماده";
+"Orbot running, but not allowed to bypass." = "Orbot در حار اجرا است، اما اجازه دور زدن ندارد.";
+"Paste API token here" = "رمز API را اینجا جایگذاری کنید";
+"Please note, that this will only take effect, after you restart." = "لطفاً توجه کنید، تنها پس از راه‌اندازی مجدد این موارد اعمال می‌شوند.";
+"Private Key" = "کلید خصوصی";
+"Permit third-party resources (don't send Content Security Policy header)" = "اجازه دادن منابع شخص ثالث (سرتیتر سیاست امنیت محتوا فرستاده نشود)";
+"QR Code" = "کد QR";
+"Request API Access" = "درخواست دسترسی API";
+"Share" = "اشتراک‌گذاری";
+"Sharing" = "در حال اشتراک‌گذاری";
+"Start Sharing" = "شروع اشتراک‌گذاری";
+"Start Hosting" = "شروع میزبانی";
+"Starting…" = "در حال شروع…";
+"Stop after files have been sent (disables download of individual files)" = "پس از ارسال فایل‌ها توقف کن (بارگیری فایل‌های منفرد را غیرفعال می‌کند)";
+"Stop Hosting" = "توقف میزبانی";
+"Stop Sharing" = "توقف اشتراک‌گذاری";
+"Tap here to change" = "برای تغییر روی اینجا ضربه بزنید";
+"The app needs to be open to work." = "برنامه برای کارکردن نیاز به باز بودن دارد.";
+"This is a public service (disables private key)" = "این یک خدمت عمومی است (کلید خصوصی غیرفعال است)";
+"Use Bridges" = "استفاده از پل‌ها";
+"You have Orbot installed and running, but we cannot bypass it." = "شما Orbot را نصب کرده و در حال اجرا دارید، اما ما نمی‌توانیم آن‌را دور بزنیم.";
+"You added files from elsewhere while already sharing." = "شما فایل‌هایی را از جاهای دیگر افزودید که پیش از این به اشتراک گذاشته شده بودند.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "شما برای اجرای %@ هم‌زمان با اجرای Orbot نیاز به فعال‌سازی حالت دور زدن در تنظیمات Orbot را دارید.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "برای اجرای %@ هم‌زمان با اجرای Orbot ، نیاز به درخواست دسترسی API با Orbot را دارید.";
