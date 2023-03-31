@@ -5,6 +5,6 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-NSCameraUsageDescription = "Innvilg tilgang til kameraet ditt hvis du vil knipse bilder eller spille inn video for direkte deling.";
-NSMicrophoneUsageDescription = "Innvilg tilgang til mikrofonen din hvis du vil spille inn videoer for direkte deling.";
-NSPhotoLibraryUsageDescription = "Innvilg tilgang til bildebiblioteket ditt hvis du vil dele bilder.";
+"NSCameraUsageDescription" = "Innvilg tilgang til kameraet ditt hvis du vil knipse bilder eller spille inn video for direkte deling.";
+"NSMicrophoneUsageDescription" = "Innvilg tilgang til mikrofonen din hvis du vil spille inn videoer for direkte deling.";
+"NSPhotoLibraryUsageDescription" = "Innvilg tilgang til bildebiblioteket ditt hvis du vil dele bilder.";
