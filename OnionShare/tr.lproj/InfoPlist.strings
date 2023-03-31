@@ -1,1 +1,12 @@
 
+
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "Doğrudan paylaşım için fotoğraf veya video oluşturmak istiyorsanız lütfen kameranıza erişime izin verin.";
+"NSMicrophoneUsageDescription" = "Doğrudan paylaşım için videolar oluşturmak istiyorsanız lütfen mikrofonunuza erişime izin verin.";
+"NSPhotoLibraryUsageDescription" = "Fotoğraf paylaşmak istiyorsanız lütfen fotoğraf kütüphanenize erişime izin verin.";
