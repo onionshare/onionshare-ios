@@ -13,15 +13,17 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u élément</string>
+			<string>%u items</string>
 			<key>one</key>
-			<string>%u élément</string>
-			<key>many</key>
-			<string>%u élément</string>
+			<string>%u item</string>
+			<key>other</key>
+			<string>%u items</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -29,14 +31,12 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Vous avez %1$u élément prêt à être partagé.</string>
+			<string>U het %1$u items gereed om te deel.</string>
 			<key>one</key>
-			<string>Vous avez %1$u élément prêt à être partagé.</string>
-			<key>many</key>
-			<string>Vous avez %1$u éléments prêt à être partagé.</string>
+			<string>U het %1$u item gereed om te deel.</string>
+			<key>other</key>
+			<string>U het %1$u items gereed om te deel.</string>
 		</dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 	</dict>
 </dict>
 </plist>

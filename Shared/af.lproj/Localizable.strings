@@ -1,0 +1,57 @@
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Enigeen%1$@ met hierdie adres en privaat sleutel kan u lêers %1$@aflaai%1$@ deur die %1$@Tor Blaaier%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Enigeen%1$@ met hierdie adres kan u lêers %1$@aflaai%1$@ deur die %1$@Tor Blaaier%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Enigeen%1$@ met hierdie adres en privaat sleutel kan %1$@u webwerf besoek%1$@ deur die %1$@Tor Blaaier%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Enigeen%1$@ met hierdie adres kan %1$@u webwerf besoek%1$@ deur die %1$@Tor Blaaier%1$@:";
+"Access Token" = "Toegangsteken";
+"Add Files" = "Voeg lêers toe";
+"Add Folder" = "Voeg vouer toe";
+"Add Photos" = "Voeg foto’s toe";
+"Cancel" = "Kanselleer";
+"Custom title" = "Pasgemaakte titel";
+"Menu" = "Kieslys";
+"Nothing here yet." = "Nog niks hier nie.";
+"Private Key" = "Privaat sleutel";
+"Ready" = "Gereed";
+"Share" = "Deel";
+"Sharing" = "Deel tans";
+"Start Hosting" = "Begin huisves";
+"Start Sharing" = "Begin deel";
+"Starting…" = "Begin tans…";
+"Stop Sharing" = "Staak deel";
+"Adding to %@…" = "Voeg tans toe tot %@…";
+"Couldn't add item!" = "Kon nie item toevoeg nie!";
+"Done" = "Gereed";
+"Go to Orbot Settings" = "Gaan na Orbot-instellings";
+"Go to the app to share!" = "Gaan na die toep om te deel!";
+"Host" = "Gasheer";
+"Hosting" = "Huisves tans";
+"New files while running" = "Nuwe lêers tydens deel";
+"No albums" = "Geen albums";
+"Orbot could not be opened!" = "Orbot kon nie geopen word nie!";
+"Orbot Detected" = "Orbot bespeur";
+"Orbot running, but not allowed to bypass." = "Orbot loop tans, maar mag nie omlei nie.";
+"Paste API token here" = "Plak API-teken hier";
+"Please note, that this will only take effect, after you restart." = "Let wel dat dit slegs in werking tree nadat u herbegin het.";
+"QR Code" = "QR-kode";
+"Request API Access" = "Versoek API-toegang";
+"Stop after files have been sent (disables download of individual files)" = "Stop nadat lêers verstuur is (dit deaktiveer aflaai van individuele lêers)";
+"Stop Hosting" = "Staak huisvesting";
+"Tap here to change" = "Tik hier om te verander";
+"The app needs to be open to work." = "Die toep moet oop wees om te werk.";
+"This is a public service (disables private key)" = "Dit is ’n openbare diens (deaktiveer privaat sleutel)";
+"Use Bridges" = "Gebruik brûe";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot is geïnstalleer en loop tans, maar ons kan dit nie omlei nie.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "U moet API-toegang met Orbot versoek sodat %@ kan werk terwyl Orbot loop.";
+"Internal Tor error. Should not happen. Please reinstall!" = "Interne Tor-fout. Moet nie gebeur nie. Herinstalleer asb.!";
+"Permit third-party resources (don't send Content Security Policy header)" = "Staan derdepartyhulpbronne toe (moenie inhoudsekerheidsbeleidkop stuur nie)";
+"You added files from elsewhere while already sharing." = "U het lêers van elders toegevoeg terwyl daar reeds gedeel word.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "U moet omlei-modus in Orbot-instellings aktiveer vir %@ om te werk terwyl Orbot loop.";
