@@ -5,6 +5,6 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-NSCameraUsageDescription = "Permeteu l'accés a la càmera si voleu crear fotos i vídeos per a compartir directament.";
-NSMicrophoneUsageDescription = "Permeteu l'accés al micròfon si voleu crear vídeos per a compartir directament.";
-NSPhotoLibraryUsageDescription = "Permeteu l'accés a la fototeca si voleu compartir fotos.";
+"NSCameraUsageDescription" = "Permeteu l'accés a la càmera si voleu crear fotos i vídeos per a compartir directament.";
+"NSMicrophoneUsageDescription" = "Permeteu l'accés al micròfon si voleu crear vídeos per a compartir directament.";
+"NSPhotoLibraryUsageDescription" = "Permeteu l'accés a la fototeca si voleu compartir fotos.";
