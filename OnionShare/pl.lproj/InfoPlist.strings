@@ -1,12 +1,10 @@
-
-
-"NSMicrophoneUsageDescription" = "Zezwól na dostęp do mikrofonu, jeśli chcesz tworzyć filmy do bezpośredniego udostępniania.";
-"NSPhotoLibraryUsageDescription" = "Zezwól na dostęp do swojej biblioteki zdjęć, jeśli chcesz udostępniać zdjęcia.";
-/* 
+/*
   InfoPlist.strings
   OnionShare
 
   Created by Benjamin Erhart on 27.03.23.
   
 */
-"NSCameraUsageDescription" = "Zezwól na dostęp do aparatu, jeśli chcesz tworzyć zdjęcia lub filmy do bezpośredniego udostępniania.";
+NSCameraUsageDescription = "Zezwól na dostęp do aparatu, jeśli chcesz tworzyć zdjęcia lub filmy do bezpośredniego udostępniania.";
+NSMicrophoneUsageDescription = "Zezwól na dostęp do mikrofonu, jeśli chcesz tworzyć filmy do bezpośredniego udostępniania.";
+NSPhotoLibraryUsageDescription = "Zezwól na dostęp do swojej biblioteki zdjęć, jeśli chcesz udostępniać zdjęcia.";
