@@ -91,7 +91,7 @@
 		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
 		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A06C48C22770DABC005FCAD1 /* Podfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A06C48C22770DABC005FCAD1 /* Podfile */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A06C48C32770DABC005FCAD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A06C48C42770DABC005FCAD1 /* Podfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Podfile.lock; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A06C48C52770DABC005FCAD1 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };

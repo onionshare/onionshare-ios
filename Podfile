@@ -6,13 +6,18 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'OnionShare' do
 
+  pod 'MBProgressHUD', :git => 'https://github.com/threema-jarem/MBProgressHUD.git'
+  pod 'ReachabilitySwift', :git => 'https://github.com/tladesignz/Reachability.swift'
   pod 'AdParticipesCumCepis', :git => 'https://github.com/tladesignz/AdParticipesCumCepis.git'
   pod 'Stencil', '~> 0.14'
 
 end
 
 target 'ActionExtension' do
+
+  pod 'MBProgressHUD', :git => 'https://github.com/threema-jarem/MBProgressHUD.git'
   pod 'AdParticipesCumCepisExtension', :git => 'https://github.com/tladesignz/AdParticipesCumCepis.git'
+
 end
 
 # Fix Xcode 14 code signing issues with bundles.

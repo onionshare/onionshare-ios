@@ -15,14 +15,14 @@ PODS:
   - ImageRow (4.1.0):
     - Eureka (~> 5.3.5)
   - IPtProxy (2.0.0)
-  - IPtProxyUI (2.1.0):
+  - IPtProxyUI (2.1.1):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
     - IPtProxy (~> 2.0.0)
-    - IPtProxyUI/App (= 2.1.0)
+    - IPtProxyUI/App (= 2.1.1)
     - MBProgressHUD (~> 1.2)
     - ReachabilitySwift (~> 5.0)
-  - IPtProxyUI/App (2.1.0):
+  - IPtProxyUI/App (2.1.1):
     - Eureka (~> 5.3)
     - ImageRow (~> 4.0)
     - IPtProxy (~> 2.0.0)
@@ -35,14 +35,18 @@ PODS:
   - Stencil (0.15.1):
     - PathKit (~> 1.0.0)
   - TLPhotoPicker (2.1.9)
-  - Tor (407.12.1):
-    - Tor/Core (= 407.12.1)
-  - Tor/Core (407.12.1)
+  - Tor (407.13.1):
+    - Tor/CTor (= 407.13.1)
+  - Tor/Core (407.13.1)
+  - Tor/CTor (407.13.1):
+    - Tor/Core
   - ZIPFoundation (0.9.16)
 
 DEPENDENCIES:
   - AdParticipesCumCepis (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
   - AdParticipesCumCepisExtension (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
+  - MBProgressHUD (from `https://github.com/threema-jarem/MBProgressHUD.git`)
+  - ReachabilitySwift (from `https://github.com/tladesignz/Reachability.swift`)
   - Stencil (~> 0.14)
 
 SPEC REPOS:
@@ -52,10 +56,8 @@ SPEC REPOS:
     - ImageRow
     - IPtProxy
     - IPtProxyUI
-    - MBProgressHUD
     - OrbotKit
     - PathKit
-    - ReachabilitySwift
     - Stencil
     - TLPhotoPicker
     - Tor
@@ -66,6 +68,10 @@ EXTERNAL SOURCES:
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+  MBProgressHUD:
+    :git: https://github.com/threema-jarem/MBProgressHUD.git
+  ReachabilitySwift:
+    :git: https://github.com/tladesignz/Reachability.swift
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
@@ -74,6 +80,12 @@ CHECKOUT OPTIONS:
   AdParticipesCumCepisExtension:
     :commit: 0ce7cec843d16ec0b3fb3c8f87d93085863d0c30
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
+  MBProgressHUD:
+    :commit: 4f7142b877ae71e83837a5620230aef5bf390e4d
+    :git: https://github.com/threema-jarem/MBProgressHUD.git
+  ReachabilitySwift:
+    :commit: 277210cb6c9d1e2ded24c0729fcb77dd62e1e30c
+    :git: https://github.com/tladesignz/Reachability.swift
 
 SPEC CHECKSUMS:
   AdParticipesCumCepis: 64266d171423f4c50dccf363e6b2ffc43c0a20a5
@@ -82,16 +94,16 @@ SPEC CHECKSUMS:
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
   ImageRow: 880c0f052c5a89c80521b485c86ccf723a124e99
   IPtProxy: d33e998c68686b1e706612c310d246187c06c907
-  IPtProxyUI: 60965d112972248e468d457c69eabdfb0747d7ed
-  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  IPtProxyUI: 95e83b717f89a682a601b4f244c40393ecf29c08
+  MBProgressHUD: aa49d7fb178a3b76bf26c5e0731d3682cca63d01
   OrbotKit: 33dd047aa0d14812d7a08618f68ab1f0874e97f2
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
-  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  ReachabilitySwift: 639a14aabcad9d368f9bb0e29903840de36c90d9
   Stencil: 5a1d7354da5ea800ba8e07e568e654171becc972
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
-  Tor: 319ca0f3bc42c387736a2d6dc56de75ed0a30eaf
+  Tor: 1664d036a03ea9bd6851b76ce09550872c54ca98
   ZIPFoundation: d170fa8e270b2a32bef9dcdcabff5b8f1a5deced
 
-PODFILE CHECKSUM: 4153a26c14e2b88839f1d6d2fdf6dcaa0620bc45
+PODFILE CHECKSUM: 6120ab07129bffffbf862c9dc20201635030beca
 
 COCOAPODS: 1.12.0
