@@ -5,7 +5,7 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
+		<string>%#@objekte@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,27 +13,29 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u item</string>
+			<string>%u objekte</string>
 			<key>one</key>
-			<string>%u item</string>
+			<string>%u objekt</string>
 			<key>other</key>
-			<string>%u items</string>
+			<string>%u objekte</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
+		<string>%#@objekte@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>Keni %1$u objekte gati për ndarje me të tjerë.</string>
 			<key>one</key>
-			<string>You have %1$u item ready to share.</string>
+			<string>Keni %1$u objekt gati për ndarje me të tjerë.</string>
 			<key>other</key>
-			<string>You have %1$u items ready to share.</string>
+			<string>Keni %1$u objekte gati për ndarje me të tjerë.</string>
 		</dict>
 	</dict>
 </dict>

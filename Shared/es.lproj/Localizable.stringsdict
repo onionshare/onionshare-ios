@@ -16,7 +16,7 @@
 			<string>%u artículo</string>
 			<key>one</key>
 			<string>%u artículos</string>
-			<key>other</key>
+			<key>many</key>
 			<string>%u artículos</string>
 		</dict>
 	</dict>
@@ -34,7 +34,7 @@
 			<string>Tienes %1$u artículo listo para compartir.</string>
 			<key>one</key>
 			<string>Tienes %1$u artículos listos para compartir.</string>
-			<key>other</key>
+			<key>many</key>
 			<string>Tienes %1$u artículos listos para compartir.</string>
 		</dict>
 	</dict>
