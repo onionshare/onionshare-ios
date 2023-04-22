@@ -12,8 +12,6 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
-			<key>zero</key>
-			<string>%u item</string>
 			<key>one</key>
 			<string>%u item</string>
 			<key>other</key>

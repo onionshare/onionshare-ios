@@ -142,6 +142,7 @@
 		A0EAF2622930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		A0EAF2632930E75F003D2DCB /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.stringsdict"; sourceTree = "<group>"; };
 		A0EAF2652930E830003D2DCB /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = it; path = it.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A0F681AE29F42A0300FEBD5A /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = sq; path = sq.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A0F87B962948DA3B00808689 /* fastlane */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fastlane; sourceTree = "<group>"; };
 		C112991FB18160E602DAC739 /* Pods_OnionShare.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionShare.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C18753A320CFD663C6E2AA6F /* Pods_ActionExtension.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ActionExtension.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -612,6 +613,7 @@
 				A0879C9F29D1ACED002BB4BD /* fa */,
 				A0879CA129D1ADA7002BB4BD /* zh-Hant */,
 				A019CDAD29E80BF500FE5B7E /* af */,
+				A0F681AE29F42A0300FEBD5A /* sq */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";
