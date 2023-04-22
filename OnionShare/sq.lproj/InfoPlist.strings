@@ -1,1 +1,12 @@
 
+
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "Ju lutemi, lejoni përdorim të kamerës tuaj, nëse doni të bëni foto ose video për ndarje drejtpërsëdrejti me të tjerët.";
+"NSMicrophoneUsageDescription" = "Ju lutemi, lejoni përdorim të mikrofonit tuaj, nëse doni të bëni foto ose video për ndarje drejtpërsëdrejti me të tjerët.";
+"NSPhotoLibraryUsageDescription" = "Ju lutemi, lejoni përdorim të fototekës tuaj, nëse doni të bëni foto ose video për ndarje drejtpërsëdrejti me të tjerët.";
