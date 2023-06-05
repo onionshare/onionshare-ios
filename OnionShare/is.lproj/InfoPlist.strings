@@ -1,1 +1,12 @@
 
+
+"NSMicrophoneUsageDescription" = "Leyfðu aðgang að hljóðnemanum, ef þú ætlar að útbúa myndskeið til að deila beint.";
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "Leyfðu aðgang að myndavélinni, ef þú ætlar að taka myndir eða myndskeið til að deila beint.";
+"NSPhotoLibraryUsageDescription" = "Leyfðu aðgang að myndasafninu, ef þú ætlar að deila myndum.";
