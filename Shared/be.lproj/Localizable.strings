@@ -1,0 +1,57 @@
+
+
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Любы%1$@ з гэтым адрасам можа %1$@спампоўваць%1$@ вашы файлы з дапамогай %1$@Tor Browser%1$@:";
+"Add Files" = "Дадаць файлы";
+"Add Folder" = "Дадаць тэчку";
+"Add Photos" = "Дадаць фатаграфіі";
+"Adding to %@…" = "Дадаванне ў %@…";
+"Cancel" = "Адмяніць";
+"Couldn't add item!" = "Не атрымалася дадаць элемент!";
+"Custom title" = "Імя карыстальніка";
+"Done" = "Гатова";
+"Go to Orbot Settings" = "Перайдзіце да налад Orbot";
+"Go to the app to share!" = "Перайдзіце ў праграму, каб падзяліцца!";
+"Host" = "Хост";
+"Hosting" = "Хостынг";
+"Internal Tor error. Should not happen. Please reinstall!" = "Унутраная памылка Тор. Такога не павінна было адбыцца. Калі ласка, пераўсталюеце!";
+"Menu" = "Меню";
+"New files while running" = "Новыя файлы падчас працы";
+"No albums" = "Няма альбомаў";
+"Orbot Detected" = "Orbot выяўлены";
+"Orbot running, but not allowed to bypass." = "Orbot працуе, але абыход забаронены.";
+"Paste API token here" = "Устаўце сюды токен API";
+"Please note, that this will only take effect, after you restart." = "Звярніце ўвагу, што гэта ўступіць у сілу толькі пасля перазапуску.";
+"QR Code" = "QR-код";
+"Ready" = "Гатовы";
+"Share" = "Падзяліцца";
+"Sharing" = "Адпраўка";
+"Start Hosting" = "Пачаць хостынг";
+"Start Sharing" = "Пачаць адпраўку";
+"Starting…" = "Запуск…";
+"Private Key" = "Прыватны ключ";
+"The app needs to be open to work." = "Прыкладанне павінна быць адкрыта для працы.";
+"Use Bridges" = "Выкарыстоўвайце масты";
+"You added files from elsewhere while already sharing." = "Вы дадалі файлы з іншага месца, ужо знаходзячыся падчас раздачы.";
+"You have Orbot installed and running, but we cannot bypass it." = "У вас усталяваны і працуе Orbot, але мы не можам абысці яго.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Вам трэба запытаць доступ да API з дапамогай Orbot, каб %@ працаваў падчас працы Orbot.";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Любы%1$@ з гэтым адрасам і закрытым ключом можа %1$@спампоўваць%1$@ вашы файлы з дапамогай %1$@Tor Browser%1$@:";
+"Access Token" = "Токен доступу";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Любы%1$@ з гэтым адрасам і прыватным ключом можа %1$@наведаць ваш сайт%1$@ з дапамогай %1$@Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Любы%1$@ з гэтым адрасам можа %1$@наведаць ваш сайт%1$@ з дапамогай браўзера %1$@Tor%1$@:";
+"Nothing here yet." = "Тут яшчэ нічога няма.";
+"Orbot could not be opened!" = "Не ўдалося адкрыць Orbot!";
+"Permit third-party resources (don't send Content Security Policy header)" = "Дазволіць староннія рэсурсы (не адпраўляць загаловак палітыкі бяспекі кантэнту)";
+"Request API Access" = "Запыт доступа да API";
+"Stop after files have been sent (disables download of individual files)" = "Спыніць пасля адпраўкі файлаў (адключае загрузку асобных файлаў)";
+"Stop Hosting" = "Спыніць хостынг";
+"Stop Sharing" = "Спыніць адпраўку";
+"Tap here to change" = "Націсніце тут, каб змяніць";
+"This is a public service (disables private key)" = "Гэта публічная паслуга (адключае прыватны ключ)";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Каб %@ працаваў падчас працы Orbot, у наладах Orbot павінен быць уключаны рэжым абыходу.";

@@ -12,6 +12,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>%u item</string>
 			<key>one</key>
 			<string>%u item</string>
 			<key>other</key>
@@ -28,6 +30,8 @@
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
+			<key>zero</key>
+			<string>You have %1$u item ready to share.</string>
 			<key>one</key>
 			<string>You have %1$u item ready to share.</string>
 			<key>other</key>

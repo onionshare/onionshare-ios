@@ -5,7 +5,7 @@
 	<key>%u item(s)</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
+		<string>%#@artículos@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,10 +13,10 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u artículo</string>
-			<key>one</key>
 			<string>%u artículos</string>
-			<key>other</key>
+			<key>one</key>
+			<string>%u artículo</string>
+			<key>many</key>
 			<string>%u artículos</string>
 		</dict>
 	</dict>
@@ -31,11 +31,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Tienes %1$u artículo listo para compartir.</string>
+			<string>Tienes %1$u elementos listos para compartir.</string>
 			<key>one</key>
-			<string>Tienes %1$u artículos listos para compartir.</string>
-			<key>other</key>
-			<string>Tienes %1$u artículos listos para compartir.</string>
+			<string>Tienes %1$u elemento listo para compartir.</string>
+			<key>many</key>
+			<string>Tienes %1$u elementos listos para compartir.</string>
 		</dict>
 	</dict>
 </dict>
