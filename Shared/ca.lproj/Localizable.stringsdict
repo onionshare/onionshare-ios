@@ -31,11 +31,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Teniu %1$u elements preparats per a enviar.</string>
+			<string>Teniu %1$u elements per enviar.</string>
 			<key>one</key>
-			<string>Teniu %1$u element preparat per a enviar.</string>
+			<string>Teniu %1$u element per enviar.</string>
 			<key>other</key>
-			<string>Teniu %1$u elements preparats per a enviar.</string>
+			<string>Teniu %1$u elements per enviar.</string>
 		</dict>
 	</dict>
 </dict>

@@ -13,7 +13,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>1項</string>
+			<string>1 項</string>
 			<key>other</key>
 			<string>%u 項</string>
 		</dict>
@@ -29,7 +29,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>您有 1 項可分享。</string>
+			<string>您沒有可分享的。</string>
 			<key>other</key>
 			<string>您有 %1$u 項可分享。</string>
 		</dict>

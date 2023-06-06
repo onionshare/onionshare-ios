@@ -27,9 +27,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>没有项目</string>
+			<string>0 项</string>
 			<key>other</key>
-			<string>%u 个项目</string>
+			<string>%u 项</string>
 		</dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@items@</string>

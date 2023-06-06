@@ -16,7 +16,7 @@
 			<string>Hai %1$u elementi pronti da condividere.</string>
 			<key>one</key>
 			<string>Hai %1$u elemento pronti da condividere.</string>
-			<key>other</key>
+			<key>many</key>
 			<string>Hai %1$u elementi pronti da condividere.</string>
 		</dict>
 	</dict>
@@ -34,7 +34,7 @@
 			<string>%u elementi</string>
 			<key>one</key>
 			<string>%u elemento</string>
-			<key>other</key>
+			<key>many</key>
 			<string>%u elementi</string>
 		</dict>
 	</dict>
