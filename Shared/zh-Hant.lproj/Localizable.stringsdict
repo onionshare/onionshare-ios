@@ -13,7 +13,7 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>1 項</string>
+			<string>%u 項</string>
 			<key>other</key>
 			<string>%u 項</string>
 		</dict>
