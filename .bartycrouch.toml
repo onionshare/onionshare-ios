@@ -2,10 +2,10 @@
 tasks = ["code", "normalize"]
 
 [update.code]
-codePaths = ["../AdParticipesCumCepis"]
+codePaths = ["../AdParticipesCumCepis", "OnionShare"]
 localizablePaths = ["Shared"]
 defaultToKeys = true
-additive = false
+additive = true
 unstripped = false
 plistArguments = false
 

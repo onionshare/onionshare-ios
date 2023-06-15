@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>{{ app_name }}: An error occurred</title>
+  <title>{{ app_name }}: {{ error_header }}</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <link href="{{ static_url_path }}/img/favicon.ico" rel="icon" type="image/x-icon">
@@ -13,7 +13,7 @@
   <div class="info-wrapper">
     <div class="info">
       <p><img class="logo" src="{{ static_url_path }}/img/logo_large.png" title="{{ app_name }}"></p>
-      <p class="info-header">Sorry, an unexpected error seems to have occurred, and your request didn't succeed.</p>
+      <p class="info-header">{{ unexpected_error }}</p>
     </div>
   </div>
 </body>
