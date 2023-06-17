@@ -5,6 +5,6 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-NSCameraUsageDescription = "如果要建立影片或拍照直接分享，请授权可存取摄相机。";
-NSMicrophoneUsageDescription = "如果要建立影片来直接分享，请授权可使用麦克风。";
-NSPhotoLibraryUsageDescription = "如要分享照片，请授权可存取图片库。";
+"NSCameraUsageDescription" = "如果想要创建照片或视频来直接分享，请允许访问你的相机。";
+"NSMicrophoneUsageDescription" = "如果想要创建视频来直接分享，请允许访问你的麦克风。";
+"NSPhotoLibraryUsageDescription" = "如果想要分享照片，请允许访问你的照片图库。";
