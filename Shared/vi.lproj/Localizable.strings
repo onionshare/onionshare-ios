@@ -25,17 +25,29 @@
 /* No comment provided by engineer. */
 "Adding to %@…" = "Đang thêm vào %@…";
 
+/* 500.html */
+"An error occurred" = "An error occurred";
+
 /* No comment provided by engineer. */
 "Cancel" = "Hủy bỏ";
+
+/* send.html */
+"compressed" = "compressed";
 
 /* No comment provided by engineer. */
 "Couldn't add item!" = "Đã không thể thêm mục!";
 
 /* No comment provided by engineer. */
-"Custom title" = "Tiêu đề tùy chỉnh";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "Hoàn tất";
+
+/* send.html */
+"Download Files" = "Download Files";
+
+/* listing.html */
+"Filename" = "Filename";
 
 /* No comment provided by engineer. */
 "Go to Orbot Settings" = "Đi tới cài đặt Orbot";
@@ -100,6 +112,12 @@
 /* No comment provided by engineer. */
 "Sharing" = "Đang chia sẻ";
 
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
 /* No comment provided by engineer. */
 "Start Hosting" = "Bắt đầu Hosting";
 
@@ -126,6 +144,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Đây là dịch vụ công cộng (vô hiệu hoá khoá key riêng tư)";
+
+/* send.html */
+"Total size" = "Total size";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Sử dụng cầu Bridge";

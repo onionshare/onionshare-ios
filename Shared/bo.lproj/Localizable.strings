@@ -25,17 +25,29 @@
 /* No comment provided by engineer. */
 "Adding to %@…" = "%@…ལ་ཁ་སྣོན།";
 
+/* 500.html */
+"An error occurred" = "An error occurred";
+
 /* No comment provided by engineer. */
 "Cancel" = "ཕྱིར་འཐེན།";
+
+/* send.html */
+"compressed" = "compressed";
 
 /* No comment provided by engineer. */
 "Couldn't add item!" = "རྣམ་གྲངས་ཁ་སྣོན་བྱེད་ཐུབ་མ་སོང་།";
 
 /* No comment provided by engineer. */
-"Custom title" = "མང་མོས་ཀྱི་འགོ་བརྗོད།";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "གྲུབ།";
+
+/* send.html */
+"Download Files" = "Download Files";
+
+/* listing.html */
+"Filename" = "Filename";
 
 /* No comment provided by engineer. */
 "Go to Orbot Settings" = "ཨོར་བྷོར་གྱི་སྒྲིག་འགོད་ནང་དུ་ཕེབས།";
@@ -100,6 +112,12 @@
 /* No comment provided by engineer. */
 "Sharing" = "བརྒྱུད་སྐུར་བྱེད་བཞིན་པ།";
 
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
 /* No comment provided by engineer. */
 "Start Hosting" = "གཙོ་སྐྱོང་འགོ་འཛུགས།";
 
@@ -126,6 +144,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "འདི་ནི་སྤྱི་པའི་ཞབས་ཞུ་ཞིག་ཡིན། (སྒེར་གྱི་ལྡེ་མིག་ནུས་མེད་བཟོས།)";
+
+/* send.html */
+"Total size" = "Total size";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "ཟམ་པ་བཀོལ་སྤྱོད།";

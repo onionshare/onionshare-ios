@@ -25,17 +25,29 @@
 /* No comment provided by engineer. */
 "Adding to %@…" = "Legger til i %@ …";
 
+/* 500.html */
+"An error occurred" = "An error occurred";
+
 /* No comment provided by engineer. */
 "Cancel" = "Avbryt";
+
+/* send.html */
+"compressed" = "compressed";
 
 /* No comment provided by engineer. */
 "Couldn't add item!" = "Kunne ikke legge til element.";
 
 /* No comment provided by engineer. */
-"Custom title" = "Egendefinert navn";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "Ferdig";
+
+/* send.html */
+"Download Files" = "Download Files";
+
+/* listing.html */
+"Filename" = "Filename";
 
 /* No comment provided by engineer. */
 "Go to Orbot Settings" = "Gå til Orbot-innstillingene";
@@ -100,6 +112,12 @@
 /* No comment provided by engineer. */
 "Sharing" = "Deling";
 
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
 /* No comment provided by engineer. */
 "Start Hosting" = "Start vertstjening";
 
@@ -126,6 +144,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Offentlig tjeneste. (Skrur av den private nøkkelen.)";
+
+/* send.html */
+"Total size" = "Total size";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Bruk broer";

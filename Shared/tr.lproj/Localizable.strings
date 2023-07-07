@@ -25,17 +25,29 @@
 /* No comment provided by engineer. */
 "Adding to %@…" = "%@ içine ekleniyor…";
 
+/* 500.html */
+"An error occurred" = "An error occurred";
+
 /* No comment provided by engineer. */
 "Cancel" = "İptal";
+
+/* send.html */
+"compressed" = "compressed";
 
 /* No comment provided by engineer. */
 "Couldn't add item!" = "Öge eklenemedi!";
 
 /* No comment provided by engineer. */
-"Custom title" = "Özel başlık";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "Bitti";
+
+/* send.html */
+"Download Files" = "Download Files";
+
+/* listing.html */
+"Filename" = "Filename";
 
 /* No comment provided by engineer. */
 "Go to Orbot Settings" = "Orbot Ayarlarına Git";
@@ -100,6 +112,12 @@
 /* No comment provided by engineer. */
 "Sharing" = "Paylaşılıyor";
 
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
 /* No comment provided by engineer. */
 "Start Hosting" = "Barındırmayı başlat";
 
@@ -126,6 +144,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Bu herkese açık bir hizmettir (kişisel anahtarı devre dışı bırakır)";
+
+/* send.html */
+"Total size" = "Total size";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Köprüleri Kullan";

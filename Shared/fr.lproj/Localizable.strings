@@ -25,17 +25,29 @@
 /* No comment provided by engineer. */
 "Adding to %@…" = "Ajouté à %@…";
 
+/* 500.html */
+"An error occurred" = "An error occurred";
+
 /* No comment provided by engineer. */
 "Cancel" = "Annuler";
+
+/* send.html */
+"compressed" = "compressed";
 
 /* No comment provided by engineer. */
 "Couldn't add item!" = "Impossible d'ajouter un élément !";
 
 /* No comment provided by engineer. */
-"Custom title" = "Titre personnalisé";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "Terminé";
+
+/* send.html */
+"Download Files" = "Download Files";
+
+/* listing.html */
+"Filename" = "Filename";
 
 /* No comment provided by engineer. */
 "Go to Orbot Settings" = "Allez dans les paramètres d'Orbot";
@@ -100,6 +112,12 @@
 /* No comment provided by engineer. */
 "Sharing" = "Échange en cours";
 
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
 /* No comment provided by engineer. */
 "Start Hosting" = "Lancer l’hébergement";
 
@@ -126,6 +144,9 @@
 
 /* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Ceci est un service public (désactive la clé privée)";
+
+/* send.html */
+"Total size" = "Total size";
 
 /* No comment provided by engineer. */
 "Use Bridges" = "Utiliser des ponts";

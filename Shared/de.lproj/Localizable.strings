@@ -38,7 +38,7 @@
 "Couldn't add item!" = "Konnte Element nicht hinzufügen!";
 
 /* No comment provided by engineer. */
-"Custom title" = "Benutzerdefinierter Titel";
+"Custom title (%d characters max)" = "Benutzerdefinierter Titel (maximal %d Zeichen)";
 
 /* No comment provided by engineer. */
 "Done" = "Fertig";

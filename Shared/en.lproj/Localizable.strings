@@ -38,7 +38,7 @@
 "Couldn't add item!" = "Couldn't add item!";
 
 /* No comment provided by engineer. */
-"Custom title" = "Custom title";
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
 
 /* No comment provided by engineer. */
 "Done" = "Done";
