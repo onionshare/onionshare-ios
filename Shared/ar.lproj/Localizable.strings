@@ -1,0 +1,164 @@
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@يمكن لاي شخص%1$@بهذا العنوان والمفتاح الخاص%1$@تنزيل%1$@ ملفاتك باستخدام %1$@‌Tor Browser‏%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@يمكن لأي شخص%1$@بهذا العنوان والمفتاح الخاص%1$@زيارة موقع الويب الخاص بك%1$@باستخدام Tor Browser‮‬‏%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@يمكن لأي شخص%1$@بهذا العنوان%1$@تنزيل%1$@ملفاتك باستخدام %1$@Tor Browser‏%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@يمكن لأي شخص%1$@بهذا العنوان%1$@زيارة موقع الويب الخاص بك%1$@باستخدام%1$@Tor Browser‏%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "رمز وصول";
+
+/* No comment provided by engineer. */
+"Add Files" = "أضف ملفات";
+
+/* No comment provided by engineer. */
+"Add Folder" = "أضف مُجلداً";
+
+/* No comment provided by engineer. */
+"Add Photos" = "أضف صور";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "جاري الاضافة إلى %@…";
+
+/* 500.html */
+"An error occurred" = "حدثت مشكلة";
+
+/* No comment provided by engineer. */
+"Cancel" = "إلغاء";
+
+/* send.html */
+"compressed" = "مضغوط";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "تعذرت إضافة العنصر!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
+
+/* No comment provided by engineer. */
+"Done" = "تم";
+
+/* send.html */
+"Download Files" = "تنزيل ملفات";
+
+/* listing.html */
+"Filename" = "إسم الملف";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "انتقل إلى إعدادات Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "اذهب إلى التطبيق للمشاركة!";
+
+/* No comment provided by engineer. */
+"Host" = "المستضيف او هوست";
+
+/* No comment provided by engineer. */
+"Hosting" = "الإستضافة";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "خطأ داخلي ل Tor. لا ينبغي أن يحدث. الرجاء إعادة تثبيت!";
+
+/* No comment provided by engineer. */
+"Menu" = "القائمة";
+
+/* No comment provided by engineer. */
+"New files while running" = "اضف ملفات جديدة أثناء التشغيل";
+
+/* No comment provided by engineer. */
+"No albums" = "لا ألبومات";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "لا شيء هنا حتى الآن.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "لا يمكن فتح Orbot!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "تم اكتشاف Orbot";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot قيد التشغيل ، لكن لا يُسمح له بالتجاوز.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "لصق رمز API هنا";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "السماح لموارد الجهات الخارجية (لا ترسل عنوان سياسة أمان المحتوى)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "يرجى ملاحظة أن هذا لن يسري إلا بعد إعادة التشغيل.";
+
+/* No comment provided by engineer. */
+"Private Key" = "المفتاح الخاص";
+
+/* No comment provided by engineer. */
+"QR Code" = "كود QR";
+
+/* No comment provided by engineer. */
+"Ready" = "جاهز";
+
+/* No comment provided by engineer. */
+"Request API Access" = "طلب الوصول إلى API";
+
+/* No comment provided by engineer. */
+"Share" = "مشاركة";
+
+/* No comment provided by engineer. */
+"Sharing" = "تجري المشاركة";
+
+/* listing.html */
+"Size" = "حجم";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "عذرًا ، يبدو أن خطأ غير متوقع قد حدث ولم ينجح طلبك.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "بدء الاستضافة";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "ابدء المشاركة";
+
+/* No comment provided by engineer. */
+"Starting…" = "يجري البدء…";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "توقف بعد إرسال الملفات (تعطيل تنزيل الملفات الفردية)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "ايقاف المشاركة";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "وقف المشاركة";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "انقر هنا للتغيير";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "يجب أن يكون التطبيق مفتوحًا كي يعمل.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "هذه خدمة للعموم (تعطيل المفتاح الخاص)";
+
+/* send.html */
+"Total size" = "الحجم الإجمالي";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "استخدم الجسور";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "لقد أضفت ملفات من مكان آخر أثناء المشاركة بالفعل.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "لقد قمت بتثبيت Orbot وتشغيله ، لكن لا يمكننا تجاوزه.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "تحتاج إلى تمكين وضع التجاوز في إعدادات Orbot لكي يعمل٪ @ أثناء تشغيل Orbot.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "تحتاج إلى طلب وصول API مع Orbot، حتى يعمل %@ أثناء تشغيل Orbot.";

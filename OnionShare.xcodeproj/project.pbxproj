@@ -106,6 +106,7 @@
 		A066D80928EAFD49003FEF59 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = uk; path = uk.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A066D80A28EAFD8A003FEF59 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A066D80B28EAFD8A003FEF59 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = tr; path = tr.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
+		A069888F2A5C53E300BF6248 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A06C48B02770D9D2005FCAD1 /* OnionShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OnionShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnionShareApp.swift; sourceTree = "<group>"; };
 		A06C48B72770D9D3005FCAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -373,6 +374,7 @@
 				"zh-Hant",
 				af,
 				be,
+				ar,
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -575,6 +577,7 @@
 				A019CDAC29E80BF500FE5B7E /* af */,
 				A019CDAE29E80CAF00FE5B7E /* pl */,
 				A052F0862A307CCA0015ED76 /* be */,
+				A069888F2A5C53E300BF6248 /* ar */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
