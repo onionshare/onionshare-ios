@@ -1,2 +1,3 @@
-- Added translations for Vietnamese, Italian, Persian and traditional Chinese.
+- Updated translations.
+- Fixed minor security vulnerabilities found in penetration test.
 - Updated Obfs4proxy and Snowflake bridge support.
