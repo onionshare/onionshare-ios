@@ -9,156 +9,68 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@任何人%1$@只要有该地址，都可以用%1$@Tor 浏览器%1$@来%1$@访问%1$@你的网站：";
-
-/* No comment provided by engineer. */
 "Access Token" = "访问令牌";
-
-/* No comment provided by engineer. */
 "Add Files" = "添加文件";
-
-/* No comment provided by engineer. */
 "Add Folder" = "添加文件夹";
-
-/* No comment provided by engineer. */
 "Add Photos" = "添加照片";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "正在添加到 %@…";
 
 /* 500.html */
-"An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
+"An error occurred" = "发生错误";
 "Cancel" = "取消";
 
 /* send.html */
-"compressed" = "compressed";
-
-/* No comment provided by engineer. */
+"compressed" = "已压缩";
 "Couldn't add item!" = "无法添加条目！";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
 "Done" = "完成";
 
 /* send.html */
-"Download Files" = "Download Files";
+"Download Files" = "下载文件";
 
 /* listing.html */
-"Filename" = "Filename";
-
-/* No comment provided by engineer. */
+"Filename" = "文件名";
 "Go to Orbot Settings" = "前往 Orbot 设置";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "前往应用进行分享！";
-
-/* No comment provided by engineer. */
 "Host" = "托管";
-
-/* No comment provided by engineer. */
 "Hosting" = "正在托管";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Tor 内部错误。不该发生此情况。请重新安装！";
-
-/* No comment provided by engineer. */
 "Menu" = "菜单";
-
-/* No comment provided by engineer. */
 "New files while running" = "运行时添加新文件";
-
-/* No comment provided by engineer. */
 "No albums" = "没有相册";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "还没有内容";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot 无法打开！";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "已检测到 Orbot";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot 正在运行，但禁止绕过。";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "在此处粘贴 API 令牌";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "允许第三方源（不发送内容安全策略头部）";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "请注意，此操作仅在重启后生效。";
-
-/* No comment provided by engineer. */
 "Private Key" = "私钥";
-
-/* No comment provided by engineer. */
 "QR Code" = "二维码";
-
-/* No comment provided by engineer. */
 "Ready" = "就绪";
-
-/* No comment provided by engineer. */
 "Request API Access" = "请求 API 访问权限";
-
-/* No comment provided by engineer. */
 "Share" = "分享";
-
-/* No comment provided by engineer. */
 "Sharing" = "正在分享";
 
 /* listing.html */
-"Size" = "Size";
+"Size" = "大小";
 
 /* 500.html */
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "抱歉，好像发生意外错误，请求失败。";
 "Start Hosting" = "开始托管";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "开始分享";
-
-/* No comment provided by engineer. */
 "Starting…" = "正在启动…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "文件发送完成后停止（禁用下载单个文件）";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "停止托管";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "停止分享";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "轻点此处进行修改";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "该应用需要保持开启才能工作。";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "这是一项公共服务（禁用私钥）";
 
 /* send.html */
-"Total size" = "Total size";
-
-/* No comment provided by engineer. */
+"Total size" = "总计大小";
 "Use Bridges" = "使用网桥";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "分享时已从其他地方添加文件。";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "您已安装并在运行 Orbot，但我们无法绕过该应用。";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "为使 %@ 在 Orbot 运行时能够工作，你需要在 Orbot 设置中启用规避模式。";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "为使 %@ 在 Orbot 运行时能够工作，你需要向 Orbot 请求 API 访问权限。";

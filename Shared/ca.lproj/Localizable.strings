@@ -9,156 +9,68 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Qualsevol%1$@ amb aquesta adreça pot %1$@visitar el vostre lloc web%1$@ utilitzant el %1$@Navegador Tor%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Testimoni d'accés";
-
-/* No comment provided by engineer. */
 "Add Files" = "Afegeix fitxers";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Afegeix una carpeta";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Afegeix fotos";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "S'està afegint a %@…";
 
 /* 500.html */
-"An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
+"An error occurred" = "S'ha produït un error";
 "Cancel" = "Cancel·la";
 
 /* send.html */
-"compressed" = "compressed";
-
-/* No comment provided by engineer. */
+"compressed" = "comprimit";
 "Couldn't add item!" = "No s'ha pogut afegir.";
-
-/* No comment provided by engineer. */
-"Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Títol personalitzat (%d caràcters màx.)";
 "Done" = "Fet";
 
 /* send.html */
 "Download Files" = "Download Files";
 
 /* listing.html */
-"Filename" = "Filename";
-
-/* No comment provided by engineer. */
+"Filename" = "Nom del fitxer";
 "Go to Orbot Settings" = "Vés a la Configuració de l'Orbot";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Vés a l'aplicació per a compartir-ho.";
-
-/* No comment provided by engineer. */
 "Host" = "Amfitrió";
-
-/* No comment provided by engineer. */
 "Hosting" = "S'està allotjant";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Error intern del Tor. No hauria d'ocórrer. Reinstal·leu.";
-
-/* No comment provided by engineer. */
 "Menu" = "Menú";
-
-/* No comment provided by engineer. */
 "New files while running" = "Fitxers nous mentre s'executa";
-
-/* No comment provided by engineer. */
 "No albums" = "Cap àlbum";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Encara no hi ha res.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "No s'ha pogut obrir l'Orbot.";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "S'ha detectat l'Orbot";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot en execució, però sense permís per a circumval·lar.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Enganxeu el testimoni de l'API aquí";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Permet recursos de tercers (no envia la capçalera Content Security Policy)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Tingueu present que això només tindrà efecte en reiniciar.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Clau privada";
-
-/* No comment provided by engineer. */
 "QR Code" = "Codi QR";
-
-/* No comment provided by engineer. */
 "Ready" = "A punt";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Sol·licita accés a l'API";
-
-/* No comment provided by engineer. */
 "Share" = "Comparteix";
-
-/* No comment provided by engineer. */
 "Sharing" = "S'està compartint";
 
 /* listing.html */
-"Size" = "Size";
+"Size" = "Mida";
 
 /* 500.html */
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sembla que s'ha produït un error inesperat, i la sol·licitud no ha prosperat.";
 "Start Hosting" = "Allotja";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Comparteix";
-
-/* No comment provided by engineer. */
 "Starting…" = "S'està iniciant…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Atura quan els fitxers s'hagin enviat (desactiva la baixada de fitxers individuals)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Deixa d'allotjar";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Deixa de compartir";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Toqueu per a canviar";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Cal que obriu l'aplicació perquè funcioni.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Això és un servei públic (desactiva la clau privada)";
 
 /* send.html */
-"Total size" = "Total size";
-
-/* No comment provided by engineer. */
+"Total size" = "Mida total";
 "Use Bridges" = "Utilitza ponts";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Heu afegit fitxers d'un altre lloc mentre estàveu compartint.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Teniu l'Orbot instal·lat i en execució, però no el podem circumval·lar.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Cal que activeu el mode de circumval·lació a la configuració de l'Orbot perquè %@ funcioni mentre s'executa l'Orbot.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Cal que sol·liciteu accés a l'API amb l'Orbot perquè %@ funcioni mentre s'executa l'Orbot.";
