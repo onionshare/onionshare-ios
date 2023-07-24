@@ -1,1 +1,12 @@
 
+
+"NSMicrophoneUsageDescription" = "Vui lòng cho phép truy cập tới microphone ghi âm của bạn, nếu bạn muốn khởi tạo các video cho việc chia sẻ trực tiếp.";
+"NSPhotoLibraryUsageDescription" = "Vui lòng cho phép truy cập vào thư viện hình ảnh của bạn, nếu bạn muốn chia sẻ các bức ảnh.";
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "Vui lòng cho phép truy cập tới máy ảnh của bạn, nếu như bạn muốn khởi tạo các Video hoặc các bức ảnh cho việc chia sẻ trực tiếp.";
