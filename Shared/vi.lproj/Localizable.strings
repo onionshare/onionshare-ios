@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Bất kỳ ai%1$@ với địa chỉ này có thể %1$@truy cập trang web của bạn%1$@ sử dụng trình duyệt %1$@Tor Browser%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Mã Token truy cập";
-
-/* No comment provided by engineer. */
 "Add Files" = "Thêm tập tin";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Thêm thư mục";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Thêm hình ảnh";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Đang thêm vào %@…";
 
 /* 500.html */
 "An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
 "Cancel" = "Hủy bỏ";
 
 /* send.html */
 "compressed" = "compressed";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Đã không thể thêm mục!";
-
-/* No comment provided by engineer. */
-"Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Tiêu đề tuỳ chỉnh (%d ký tự tối đa)";
 "Done" = "Hoàn tất";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Filename";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Đi tới cài đặt Orbot";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "ĐI tới App Store để chia sẻ!";
-
-/* No comment provided by engineer. */
 "Host" = "Host trang web";
-
-/* No comment provided by engineer. */
 "Hosting" = "Đang chạy Hosting máy chủ";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Lỗi Tor nội bộ. Điều này không nên xảy ra. Xin hãy cài đặt lại!";
-
-/* No comment provided by engineer. */
 "Menu" = "Menu";
-
-/* No comment provided by engineer. */
 "New files while running" = "Tập tin mới trong khi chạy";
-
-/* No comment provided by engineer. */
 "No albums" = "Không có Album";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Chưa có gì ở đây.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Đã không thể mở được Orbot!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Đã phát hiện được Orbot";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot đang chạy, nhưng nó không được phép vượt qua.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Dán mã Token API tại đây";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Cho phép các tài nguyên của bên thứ ba (không gửi tiêu đề Chính sách Bảo mật Nội dung)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Xin hãy lưu ý rằng, điều này sẽ chỉ có hiệu lực, sau khi bạn khởi động lại.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Khoá key riêng tư";
-
-/* No comment provided by engineer. */
 "QR Code" = "Mã Code QR";
-
-/* No comment provided by engineer. */
 "Ready" = "Sẵn sàng";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Yêu cầu truy cập API";
-
-/* No comment provided by engineer. */
 "Share" = "Chia sẻ";
-
-/* No comment provided by engineer. */
 "Sharing" = "Đang chia sẻ";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Bắt đầu Hosting";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Bắt đầu chia sẻ";
-
-/* No comment provided by engineer. */
 "Starting…" = "Đang bắt đầu…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Dừng ngay sau khi các tập tin đã được gửi đi (vô hiệu hoá các phiên tải xuống của các tập tin riêng lẻ)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Dừng Hosting";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Dừng chia sẻ";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Nhấn vào đây để thay đổi";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Ứng dụng cần được mở ra để hoạt động.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Đây là dịch vụ công cộng (vô hiệu hoá khoá key riêng tư)";
 
 /* send.html */
 "Total size" = "Total size";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Sử dụng cầu Bridge";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Bạn đã thêm các tập tin từ một nơi khác trong khi đang chia sẻ.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Bạn đã cài đặt Orbot và đang chạy, nhưng chúng tôi không thể vượt qua được nó.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Bạn cần phải kích hoạt chế độ vượt bypass trong cài đặt Orbot để %@ làm việc trong khi Orbot đang chạy.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Bạn cần phải yêu cầu truy cập API với Orbot, để %@ làm việc trong khi Orbot đang chạy.";

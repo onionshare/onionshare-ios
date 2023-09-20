@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%u item(s)</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>%u елемента</string>
+			<key>one</key>
+			<string>%u елемент</string>
+			<key>other</key>
+			<string>%u елемента</string>
+		</dict>
+	</dict>
+	<key>You have %1$u item(s) ready to share.</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>Има %1$u готови за споделяне елемента.</string>
+			<key>one</key>
+			<string>Има %1$u готов за споделяне елемент.</string>
+			<key>other</key>
+			<string>Има %1$u готови за споделяне елемента.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

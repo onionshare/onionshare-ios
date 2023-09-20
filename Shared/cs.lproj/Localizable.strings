@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Kdokoli%1$@ s touto adresou může %1$@navštívit váš web%1$@ vaše soubory za pomoci %1$@Tor Browseru%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Přístupový token";
-
-/* No comment provided by engineer. */
 "Add Files" = "Přidat soubory";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Přidat adresář";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Přidat fotografie";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Přidávání do %@…";
 
 /* 500.html */
 "An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
 "Cancel" = "Zrušit";
 
 /* send.html */
 "compressed" = "compressed";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Položku nelze přidat!";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
 "Done" = "Hotovo";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Filename";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Jít do nastavení Orbotu";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Přejděte do aplikace a sdílejte!";
-
-/* No comment provided by engineer. */
 "Host" = "Hostování";
-
-/* No comment provided by engineer. */
 "Hosting" = "Hostování";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Interní chyba Toru, která by se neměla stát. Prosím, přeinstalujte aplikaci!";
-
-/* No comment provided by engineer. */
 "Menu" = "Menu";
-
-/* No comment provided by engineer. */
 "New files while running" = "Nové soubory za chodu";
-
-/* No comment provided by engineer. */
 "No albums" = "Žádná alba";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Zatím zde nic není.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot nebylo možné otevřít!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot detekován";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot běží, ale není povoleno jej obejít.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Zde vložte API token";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Povolit prostředky třetích stran (neodesílat hlavičku Content Security Policy)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Prosím, vemte navědomí, že se změny projeví až po restartu.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Soukromý klíč";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR kód";
-
-/* No comment provided by engineer. */
 "Ready" = "Připraveno";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Vyžádat API přístup";
-
-/* No comment provided by engineer. */
 "Share" = "Sdílet";
-
-/* No comment provided by engineer. */
 "Sharing" = "Sdílení";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Zahájit hostování";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Zahájit sdílení";
-
-/* No comment provided by engineer. */
 "Starting…" = "Startuje…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Zastavit, když jsou soubory odeslány (vypne stahování jednotlivých souborů)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Zastavit hostování";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Zastavit sdílení";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Klepněte zde pro změnu";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Aby aplikace fungovala, musí být otevřena.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Toto je veřejná služba (vypne soukromý klíč)";
 
 /* send.html */
 "Total size" = "Total size";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Použít mosty";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Během sdílení jste přidali soubory odjinud.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot je nainstalován a běží, ale nejde nám ho obejít.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Musíte povolit bypass mód v nastavení Orbotu, aby %@ fungoval, zatímco Orbot běží.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Musíte si vyžádat API přístup k Orbotu, aby %@ fungoval, zatímco Orbot běží.";
