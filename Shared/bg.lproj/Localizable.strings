@@ -1,0 +1,78 @@
+
+
+"Menu" = "Меню";
+"Hosting" = "Достъпна";
+"Custom title (%d characters max)" = "Заглавие на раздела (макс. %d знака)";
+"Orbot could not be opened!" = "Orbot не може да бъде отворен!";
+"Orbot running, but not allowed to bypass." = "Орбот работи и е забранено да бъде заобиколен.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "За да могат Орбот и %@ да работят заедно, трябва да заявите достъп до ППИ от Орбот.";
+
+/* 500.html */
+"An error occurred" = "Възникна грешка";
+"Host" = "Уеб страница";
+"Tap here to change" = "За промяна докоснете тук";
+"Share" = "Споделяне";
+"Use Bridges" = "Използване на мостове";
+"Internal Tor error. Should not happen. Please reinstall!" = "Вътрешна грешка на Тор. Не би трябвало да възниква. Преинсталирайте!";
+
+/* listing.html */
+"Size" = "Размер";
+"No albums" = "Няма албуми";
+"Couldn't add item!" = "Елементът не е добавен!";
+"You added files from elsewhere while already sharing." = "По време на споделяне са добавени файлове.";
+"Paste API token here" = "Поставете код за ППИ";
+"This is a public service (disables private key)" = "Общодостъпна услуга (без таен ключ)";
+"The app needs to be open to work." = "За да работи приложението, трябва да бъде отворено.";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Всеки%1$@, имащ адреса и тайния ключ може да %1$@посети%1$@ страницата чрез %1$@Четеца Тор%1$@:";
+"Request API Access" = "Заявка за достъп до ППИ";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Възникна непредвидена грешка и заявката е неуспешна.";
+"Stop after files have been sent (disables download of individual files)" = "Изключване след изпращане на файловете (за изтегляне на отделни файлове махнете отметката)";
+
+/* send.html */
+"compressed" = "компресирано";
+"Ready" = "В готовност";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Трябва да включите настройката за заобикаляне в Орбот, за да може и %@ да работи.";
+"Cancel" = "Отказ";
+"Permit third-party resources (don't send Content Security Policy header)" = "Разрешаване на странични ресурси (не изпраща заглавка на CSP)";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Всеки%1$@, имащ адреса може да %1$@посети%1$@ страницата чрез %1$@Четеца Тор%1$@:";
+"Add Files" = "Добавяне на файлове";
+"Done" = "Готово";
+
+/* send.html */
+"Total size" = "Общ размер";
+"Adding to %@…" = "Добавяне в %@…";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Всеки%1$@, имащ адреса може да %1$@изтегли%1$@ файловете чрез %1$@Четеца Тор%1$@:";
+"Start Sharing" = "Включване";
+"Access Token" = "Код за достъп";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Всеки%1$@, имащ адреса и тайния ключ може да %1$@изтегли%1$@ файловете чрез %1$@Четеца Тор%1$@:";
+"Start Hosting" = "Включване";
+
+/* send.html */
+"Download Files" = "Изтегляне на файлове";
+"Go to Orbot Settings" = "Настройки на Орбот";
+"QR Code" = "QR код";
+"Please note, that this will only take effect, after you restart." = "Промените ще бъдат приложени след рестарт.";
+"Private Key" = "Таен ключ";
+"Add Folder" = "Добавяне на папка";
+"Go to the app to share!" = "За да споделяте, отворете приложението!";
+"Nothing here yet." = "Все още няма нищо.";
+"New files while running" = "Нови файлове";
+"Orbot Detected" = "Открит е Орбот";
+"You have Orbot installed and running, but we cannot bypass it." = "Орбот е инсталиран и работи, но не може да бъде заобиколен.";
+"Stop Sharing" = "Изключване";
+"Sharing" = "Споделяне";
+"Starting…" = "Включване…";
+"Add Photos" = "Добавяне на изображения";
+
+/* listing.html */
+"Filename" = "Име на файла";
+"Stop Hosting" = "Изключване";

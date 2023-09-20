@@ -9,156 +9,68 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@هرکس%1$@ با این نشانی می‌تواند توسط %1$@مرورگر Tor‎‏%1$@ از %1$@وبسایت شما بازدید کند%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "رمز دسترسی";
-
-/* No comment provided by engineer. */
-"Add Files" = "افزودن فایل";
-
-/* No comment provided by engineer. */
+"Add Files" = "افزودن پرونده‌ها";
 "Add Folder" = "افزودن پوشه";
-
-/* No comment provided by engineer. */
 "Add Photos" = "افزودن عکس‌ها";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "در حال افزودن به %@…";
 
 /* 500.html */
-"An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
+"An error occurred" = "خطایی رخ داد";
 "Cancel" = "لغو";
 
 /* send.html */
-"compressed" = "compressed";
-
-/* No comment provided by engineer. */
+"compressed" = "فشرده";
 "Couldn't add item!" = "مورد افزودن نشد!";
-
-/* No comment provided by engineer. */
-"Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "عنوان سفارشی (بیشینه %d نویسه)";
 "Done" = "انجام شد";
 
 /* send.html */
 "Download Files" = "Download Files";
 
 /* listing.html */
-"Filename" = "Filename";
-
-/* No comment provided by engineer. */
-"Go to Orbot Settings" = "به تنظیمات Orbot بروید";
-
-/* No comment provided by engineer. */
-"Go to the app to share!" = "برای اشتراک‌گذاری به برنامه بروید!";
-
-/* No comment provided by engineer. */
+"Filename" = "نام پرونده";
+"Go to Orbot Settings" = "رفتن به تنظیمات روبوت پیازی";
+"Go to the app to share!" = "رفتن به کاره برای هم‌رسانی!";
 "Host" = "میزبان";
-
-/* No comment provided by engineer. */
 "Hosting" = "میزبانی";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "خطای درونی Tor. نباید اتفاق بیافتد. لطفاً دوباره نصب کنید!";
-
-/* No comment provided by engineer. */
 "Menu" = "فهرست";
-
-/* No comment provided by engineer. */
 "New files while running" = "فایل‌های جدید هنگام اجرا";
-
-/* No comment provided by engineer. */
 "No albums" = "هیچ آلبومی نیست";
-
-/* No comment provided by engineer. */
-"Nothing here yet." = "چیزی اینجا نیست.";
-
-/* No comment provided by engineer. */
+"Nothing here yet." = "هنوز هیچ‌چیزی این‌جا نیست.";
 "Orbot could not be opened!" = "Orbot باز نشد!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot شناسایی شد";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot در حار اجرا است، اما اجازه دور زدن ندارد.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "رمز API را اینجا جایگذاری کنید";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "اجازه دادن منابع شخص ثالث (سرتیتر سیاست امنیت محتوا فرستاده نشود)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "لطفاً توجه کنید، تنها پس از راه‌اندازی مجدد این موارد اعمال می‌شوند.";
-
-/* No comment provided by engineer. */
 "Private Key" = "کلید خصوصی";
-
-/* No comment provided by engineer. */
 "QR Code" = "کد QR";
-
-/* No comment provided by engineer. */
 "Ready" = "آماده";
-
-/* No comment provided by engineer. */
 "Request API Access" = "درخواست دسترسی API";
-
-/* No comment provided by engineer. */
-"Share" = "اشتراک‌گذاری";
-
-/* No comment provided by engineer. */
-"Sharing" = "در حال اشتراک‌گذاری";
+"Share" = "هم‌رسانی";
+"Sharing" = "هم‌رساندن";
 
 /* listing.html */
-"Size" = "Size";
+"Size" = "اندازه";
 
 /* 500.html */
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "متأسفانه به نظر خطایی غیرمنتظره رخ داده و درخواستتان موفق نشد.";
 "Start Hosting" = "شروع میزبانی";
-
-/* No comment provided by engineer. */
-"Start Sharing" = "شروع اشتراک‌گذاری";
-
-/* No comment provided by engineer. */
+"Start Sharing" = "آغاز هم‌رسانی";
 "Starting…" = "در حال شروع…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "پس از ارسال فایل‌ها توقف کن (بارگیری فایل‌های منفرد را غیرفعال می‌کند)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "توقف میزبانی";
-
-/* No comment provided by engineer. */
-"Stop Sharing" = "توقف اشتراک‌گذاری";
-
-/* No comment provided by engineer. */
+"Stop Sharing" = "توقّف هم‌رسانی";
 "Tap here to change" = "برای تغییر روی اینجا ضربه بزنید";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "برنامه برای کارکردن نیاز به باز بودن دارد.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "این یک خدمت عمومی است (کلید خصوصی غیرفعال است)";
 
 /* send.html */
-"Total size" = "Total size";
-
-/* No comment provided by engineer. */
+"Total size" = "اندازهٔ کل";
 "Use Bridges" = "استفاده از پل‌ها";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "شما فایل‌هایی را از جاهای دیگر افزودید که پیش از این به اشتراک گذاشته شده بودند.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "شما Orbot را نصب کرده و در حال اجرا دارید، اما ما نمی‌توانیم آن‌را دور بزنیم.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "شما برای اجرای %@ هم‌زمان با اجرای Orbot نیاز به فعال‌سازی حالت دور زدن در تنظیمات Orbot را دارید.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "برای اجرای %@ هم‌زمان با اجرای Orbot ، نیاز به درخواست دسترسی API با Orbot را دارید.";

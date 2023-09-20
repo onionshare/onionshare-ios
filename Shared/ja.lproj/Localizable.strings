@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "このアドレスを持つ限り%1$@誰でも%1$@は%1$@Tor Browser%1$@を利用してサイトを%1$@訪れることができます%1$@：";
-
-/* No comment provided by engineer. */
 "Access Token" = "アクセストークン";
-
-/* No comment provided by engineer. */
 "Add Files" = "ファイルを追加";
-
-/* No comment provided by engineer. */
 "Add Folder" = "フォルダを追加";
-
-/* No comment provided by engineer. */
 "Add Photos" = "画像を追加";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "%@に追加中…";
 
 /* 500.html */
 "An error occurred" = "An error occurred";
-
-/* No comment provided by engineer. */
 "Cancel" = "キャンセル";
 
 /* send.html */
 "compressed" = "compressed";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "追加できませんでした！";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
 "Done" = "完了";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Filename";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Orbot設定を開く";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "共有するのにアプリを開く！";
-
-/* No comment provided by engineer. */
 "Host" = "ホスト";
-
-/* No comment provided by engineer. */
 "Hosting" = "ホスト中";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Torの内部エラー。回復不能エラー。アプリを再インストールして下さい！";
-
-/* No comment provided by engineer. */
 "Menu" = "メニュー";
-
-/* No comment provided by engineer. */
 "New files while running" = "実行中に新ファイルの追加";
-
-/* No comment provided by engineer. */
 "No albums" = "アルバムなし";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "まだ何もありません。";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbotを開けませんでした！";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot検出された";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot実行中が、バイパスの許可ありません。";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "ここにAPIトークンを貼り付ける";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "サードパーティのリソースを許可する（コンテンツセキュリティポリシーヘッダーを送らない）";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "注意点：この設定は再起動してから有効になります。";
-
-/* No comment provided by engineer. */
 "Private Key" = "秘密キー";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR Code";
-
-/* No comment provided by engineer. */
 "Ready" = "準備完了";
-
-/* No comment provided by engineer. */
 "Request API Access" = "APIアクセスを要求";
-
-/* No comment provided by engineer. */
 "Share" = "共有";
-
-/* No comment provided by engineer. */
 "Sharing" = "共有中";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Start Hosting";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "共有を起動";
-
-/* No comment provided by engineer. */
 "Starting…" = "起動中…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "ファイル送信が終了したら共有を停止（個別ファイルのダウンロードを無効にする）";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Stop Hosting";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "共有を停止";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "ここにタップして変更する";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "アプリを開いたままにしないと実行できません。";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "これは公開サービス(秘密キーは無効されます)";
 
 /* send.html */
 "Total size" = "Total size";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "ブリッジを利用";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "共有中に他のファイルは追加されました。";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbotはインストール、実行されているが、バイパスできません。";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbotが実行中に、バイパスモードが有効されないと%@を実行できません。";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbotが実行中に、%@はAPIアクセスを要求しないと起動できません。";

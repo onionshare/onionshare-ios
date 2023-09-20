@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%u item(s)</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>%u عنصر</string>
+			<key>one</key>
+			<string>عنصر واحد</string>
+			<key>two</key>
+			<string>عنصرين</string>
+			<key>few</key>
+			<string>%u عناصر</string>
+			<key>many</key>
+			<string>%u عناصر</string>
+			<key>other</key>
+			<string>%u عناصر</string>
+		</dict>
+	</dict>
+	<key>You have %1$u item(s) ready to share.</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>لديك %1$u عنصر جاهز للمشاركة.</string>
+			<key>one</key>
+			<string>لديك %1$u عنصر جاهز للمشاركة.</string>
+			<key>two</key>
+			<string>لديك عنصرين جاهزين للمشاركة.</string>
+			<key>few</key>
+			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
+			<key>many</key>
+			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
+			<key>other</key>
+			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
