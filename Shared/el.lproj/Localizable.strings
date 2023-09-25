@@ -9,20 +9,38 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Οποιοσδήποτε%1$@ με αυτή τη διεύθυνση μπορεί να %1$@επισκεφθεί τον ιστότοπό σας%1$@ με χρήση του %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Αναγνωριστικό πρόσβασης";
+
+/* No comment provided by engineer. */
 "Add Files" = "Προσθήκη αρχείων";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Προσθήκη φακέλου";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Προσθήκη φωτογραφιών";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "Προσθήκη στο %@…";
 
 /* 500.html */
 "An error occurred" = "Παρουσιάστηκε σφάλμα";
+
+/* No comment provided by engineer. */
 "Cancel" = "Άκυρο";
 
 /* send.html */
 "compressed" = "συμπιεσμένο";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Δεν ήταν δυνατή η προσθήκη στοιχείου!";
+
+/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Προσαρμοσμένος τίτλος (%d μέγιστοι χαρακτήρες)";
+
+/* No comment provided by engineer. */
 "Done" = "Έτοιμο";
 
 /* send.html */
@@ -30,26 +48,68 @@
 
 /* listing.html */
 "Filename" = "Όνομα αρχείου";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Μετάβαση στις ρυθμίσεις Orbot";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Μεταβείτε στην εφαρμογή για κοινή χρήση!";
+
+/* No comment provided by engineer. */
 "Host" = "Host";
+
+/* No comment provided by engineer. */
 "Hosting" = "Φιλοξενία";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Εσωτερικό σφάλμα Tor. Δεν πρέπει να συμβεί. Παρακαλούμε εγκαταστήστε ξανά!";
+
+/* No comment provided by engineer. */
 "Menu" = "Μενού";
+
+/* No comment provided by engineer. */
 "New files while running" = "Νέα αρχεία κατά την εκτέλεση";
+
+/* No comment provided by engineer. */
 "No albums" = "Δεν υπάρχουν άλμπουμ";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Τίποτα εδώ ακόμα.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Το Orbot δεν μπόρεσε να ανοίξει!";
+
+/* No comment provided by engineer. */
 "Orbot Detected" = "Εντοπίστηκε το Orbot";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Το Orbot εκτελείται, αλλά δεν επιτρέπεται η παράκαμψη.";
+
+/* No comment provided by engineer. */
 "Paste API token here" = "Επικολλήστε το αναγνωριστικό API εδώ";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Να επιτρέπονται πόροι τρίτων (να μην αποστέλλεται η κεφαλίδα Πολιτική ασφάλειας περιεχομένου)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Λάβετε υπόψη ότι αυτό θα τεθεί σε ισχύ μόνο μετά την επανεκκίνηση.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Ιδιωτικό κλειδί";
+
+/* No comment provided by engineer. */
 "QR Code" = "QR Code";
+
+/* No comment provided by engineer. */
 "Ready" = "Έτοιμο";
+
+/* No comment provided by engineer. */
 "Request API Access" = "Αίτηση πρόσβασης API";
+
+/* No comment provided by engineer. */
 "Share" = "Κοινοποίηση";
+
+/* No comment provided by engineer. */
 "Sharing" = "Γίνεται αποστολή";
 
 /* listing.html */
@@ -57,20 +117,48 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Μας συγχωρείτε, ένα απροσδόκητο σφάλμα φαίνεται να έχει συμβεί και το αίτημά σας απέτυχε.";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Έναρξη φιλοξενίας";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Έναρξη διαμοιρασμού";
+
+/* No comment provided by engineer. */
 "Starting…" = "Γίνεται εκκίνηση…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Διακοπή μετά την αποστολή αρχείων (απενεργοποιεί τη λήψη μεμονωμένων αρχείων)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Stop Hosting";
+
+/* No comment provided by engineer. */
 "Stop Sharing" = "Διακοπή κοινής χρήσης";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Πατήστε εδώ για αλλαγή";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Η εφαρμογή πρέπει να είναι ανοιχτή για να λειτουργεί.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Αυτή είναι μια δημόσια υπηρεσία (απενεργοποιεί το ιδιωτικό κλειδί)";
 
 /* send.html */
 "Total size" = "Συνολικό μέγεθος";
+
+/* No comment provided by engineer. */
 "Use Bridges" = "Χρήση γεφυρών";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Προσθέσατε αρχεία από αλλού ενώ έχετε κάνει κοινή χρήση.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Έχετε εγκαταστήσει και εκτελείτε το Orbot, αλλά δεν μπορούμε να το παρακάμψουμε.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Πρέπει να ενεργοποιήσετε τη λειτουργία παράκαμψης από τις ρυθμίσεις του Orbot για να λειτουργεί το %@ ενώ εκτελείται.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Πρέπει να ζητήσετε πρόσβαση στο API με το Orbot, προκειμένου το %@ να λειτουργεί ενώ εκτελείται το Orbot.";

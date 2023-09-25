@@ -1,78 +1,164 @@
-
-
-"Add Folder" = "Weka folda";
-"Menu" = "Menyu";
-"Nothing here yet." = "Bado hakuna kitu.";
-"Share" = "Sambaza";
-"Cancel" = "Sitisha";
-"Sharing" = "Kusambaza";
-
-/* send.html */
-"Download Files" = "Pakua faili";
-"Host" = "Mtunzaji";
-"Start Hosting" = "Anza Kuendesha";
-"Starting…" = "Kuanza…";
-"Stop Sharing" = "Sitisha Kusambaza";
-"Start Sharing" = "Anza kusambaza";
-
-/* listing.html */
-"Size" = "Ukubwa";
-"Use Bridges" = "Tumia Daraja";
-"Add Files" = "Weka faili";
-"Private Key" = "Private Key";
-"Ready" = "Tayari";
-
-/* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@ Mtu yoyote%1$@ mwenye anwani hii anaweza%1$@ kutumia%1$@ Tor Browser%1$@:";
-
-/* 500.html */
-"An error occurred" = "Kosa limetokea";
-"Adding to %@…" = "Kuongeza kwenye %@…";
-"Go to the app to share!" = "Nenda kwenye programu kushiriki!";
-"Hosting" = "mwenyeji";
-"Custom title (%d characters max)" = "Kichwa maalum (%d wahusika max )";
-"Go to Orbot Settings" = "Nenda kwa Mipangilio ya Orbot";
-"Done" = "Imemaliza";
-
-/* listing.html */
-"Filename" = "Jina la faili";
-"Paste API token here" = "Bandika ishara ya API hapa";
-"Orbot Detected" = "Orbot Imeonekana";
-"Orbot running, but not allowed to bypass." = "Orbot inayoendesha, lakini hairuhusiwi kupita.";
-"Internal Tor error. Should not happen. Please reinstall!" = "Kosa la ndani la Tor. Halipaswi kutokea. Tafadhali sakinisha tena!";
-"New files while running" = "Faili mpya wakati inaendesha";
-"No albums" = "Hakuna Albamu";
-"Orbot could not be opened!" = "Orbot haikuweza kufunguliwa!";
-"This is a public service (disables private key)" = "Hii ni huduma ya umma ( sitisha ufunguo wa kibinafsi )";
-"You added files from elsewhere while already sharing." = "Umeongeza faili kutoka mahali pengine wakati tayari unashiriki.";
-"You have Orbot installed and running, but we cannot bypass it." = "Umesanikisha kuendesha Orbot, lakini hatuwezi kupita.";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Unahitaji kuwezesha njia ya kupita kwenye mipangilio ya Orbot kwa%@ ili kufanya kazi wakati Orbot inaendesha.";
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Unahitaji kuomba ufikiaji wa API kwa kutumia Orbot, ili%@ ifanye kazi wakati Orbot anaendesha.";
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@ mtu yoyote%1$@ mwenye anwani hii na ufunguo wa kibinafsi anaweza%1$@ kupakua%1$@ Tor Browser%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@ Mtu yoyote% 1$@ mwenye anwani hii na ufunguo wa kibinafsi anaweza%1$@kutembelea tovuti yako%1$ @ kwa kutumia%1$@Tor Browser%1 $@:";
-"Permit third-party resources (don't send Content Security Policy header)" = "Ruhusu rasilimali za mtu wa tatu ( usitume kichwa cha sera ya Usalama wa Yaliyomo )";
-"Please note, that this will only take effect, after you restart." = "Tafadhali kumbuka, kwamba hii itaanza kutumika tu, baada ya kuanza tena.";
-"QR Code" = "Nambari ya QR";
-"Request API Access" = "Omba Upataji wa API";
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1 $ @ Mtu yoyote% 1 $ @ mwenye anwani hii anaweza% 1 $ @ kupakua %1$@ zako kwa kutumia% 1 $ @ Tor Browser% 1 $@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@ Mtu yoyote%1$@ mwenye anwani hii anaweza%1$@ kutumia%1$@ Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Pata Ishara";
+
+/* No comment provided by engineer. */
+"Add Files" = "Weka faili";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Weka folda";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Ongeza Picha";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Kuongeza kwenye %@…";
+
+/* 500.html */
+"An error occurred" = "Kosa limetokea";
+
+/* No comment provided by engineer. */
+"Cancel" = "Sitisha";
 
 /* send.html */
 "compressed" = "iliyoshinikwa";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Haikuweza kuongeza kipengee!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Kichwa maalum (%d wahusika max )";
+
+/* No comment provided by engineer. */
+"Done" = "Imemaliza";
+
+/* send.html */
+"Download Files" = "Pakua faili";
+
+/* listing.html */
+"Filename" = "Jina la faili";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Nenda kwa Mipangilio ya Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Nenda kwenye programu kushiriki!";
+
+/* No comment provided by engineer. */
+"Host" = "Mtunzaji";
+
+/* No comment provided by engineer. */
+"Hosting" = "mwenyeji";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Kosa la ndani la Tor. Halipaswi kutokea. Tafadhali sakinisha tena!";
+
+/* No comment provided by engineer. */
+"Menu" = "Menyu";
+
+/* No comment provided by engineer. */
+"New files while running" = "Faili mpya wakati inaendesha";
+
+/* No comment provided by engineer. */
+"No albums" = "Hakuna Albamu";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Bado hakuna kitu.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot haikuweza kufunguliwa!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Imeonekana";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot inayoendesha, lakini hairuhusiwi kupita.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Bandika ishara ya API hapa";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Ruhusu rasilimali za mtu wa tatu ( usitume kichwa cha sera ya Usalama wa Yaliyomo )";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Tafadhali kumbuka, kwamba hii itaanza kutumika tu, baada ya kuanza tena.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Private Key";
+
+/* No comment provided by engineer. */
+"QR Code" = "Nambari ya QR";
+
+/* No comment provided by engineer. */
+"Ready" = "Tayari";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Omba Upataji wa API";
+
+/* No comment provided by engineer. */
+"Share" = "Sambaza";
+
+/* No comment provided by engineer. */
+"Sharing" = "Kusambaza";
+
+/* listing.html */
+"Size" = "Ukubwa";
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Samahani, kosa lisilotarajiwa linaonekana kutokea, na ombi lako halikufanikiwa.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Anza Kuendesha";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Anza kusambaza";
+
+/* No comment provided by engineer. */
+"Starting…" = "Kuanza…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Acha baada ya faili kutumwa (sitisha upakuaji wa faili za kibinafsi )";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "sitisha kuendesha";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Sitisha Kusambaza";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Gonga hapa kubadilisha";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Programu inahitaji kuwa wazi kufanya kazi.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "Hii ni huduma ya umma ( sitisha ufunguo wa kibinafsi )";
 
 /* send.html */
 "Total size" = "Jumla ya saizi";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Tumia Daraja";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "Umeongeza faili kutoka mahali pengine wakati tayari unashiriki.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "Umesanikisha kuendesha Orbot, lakini hatuwezi kupita.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Unahitaji kuwezesha njia ya kupita kwenye mipangilio ya Orbot kwa%@ ili kufanya kazi wakati Orbot inaendesha.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Unahitaji kuomba ufikiaji wa API kwa kutumia Orbot, ili%@ ifanye kazi wakati Orbot anaendesha.";
