@@ -14,8 +14,6 @@
 		A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A030F19827F35B4000BDD70D /* ActionExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		A030F1B327F35CF400BDD70D /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F1AD27F35CF400BDD70D /* Config.swift */; };
 		A030F1B427F35CF400BDD70D /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F1AD27F35CF400BDD70D /* Config.swift */; };
-		A030F1B527F35CF400BDD70D /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A030F1B027F35CF400BDD70D /* Config.xcconfig */; };
-		A030F1B627F35CF400BDD70D /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = A030F1B027F35CF400BDD70D /* Config.xcconfig */; };
 		A030F1B727F35CF400BDD70D /* Config.m in Sources */ = {isa = PBXBuildFile; fileRef = A030F1B127F35CF400BDD70D /* Config.m */; };
 		A030F1B827F35CF400BDD70D /* Config.m in Sources */ = {isa = PBXBuildFile; fileRef = A030F1B127F35CF400BDD70D /* Config.m */; };
 		A06C48B42770D9D2005FCAD1 /* OnionShareApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A06C48B32770D9D2005FCAD1 /* OnionShareApp.swift */; };
@@ -335,7 +333,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					A030F19727F35B4000BDD70D = {
 						CreatedOnToolsVersion = 13.3;
@@ -392,7 +390,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A030F1B627F35CF400BDD70D /* Config.xcconfig in Resources */,
 				A088658027F445EC00248399 /* Localizable.stringsdict in Resources */,
 				A088657B27F4453400248399 /* Assets.xcassets in Resources */,
 				A088657A27F444F900248399 /* Localizable.strings in Resources */,
@@ -408,7 +405,6 @@
 				A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */,
 				A06C49022770E0A4005FCAD1 /* templates in Resources */,
 				A06C49012770E0A4005FCAD1 /* static in Resources */,
-				A030F1B527F35CF400BDD70D /* Config.xcconfig in Resources */,
 				A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */,
 				A088657F27F445EC00248399 /* Localizable.stringsdict in Resources */,
 			);
@@ -694,6 +690,7 @@
 			baseConfigurationReference = A030F1B027F35CF400BDD70D /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -757,6 +754,7 @@
 			baseConfigurationReference = A030F1B027F35CF400BDD70D /* Config.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
