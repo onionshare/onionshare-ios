@@ -15,13 +15,13 @@
 			<key>one</key>
 			<string>عنصر واحد</string>
 			<key>two</key>
-			<string>عنصرين</string>
+			<string>عنصران</string>
 			<key>few</key>
 			<string>%u عناصر</string>
 			<key>many</key>
-			<string>%u عناصر</string>
+			<string>%u عنصرا</string>
 			<key>other</key>
-			<string>%u عناصر</string>
+			<string>%u عنصر</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -33,17 +33,17 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>لديك %1$u عنصر جاهز للمشاركة.</string>
+			<string>ليس لديك عنصر جاهز للمشاركة.</string>
 			<key>one</key>
-			<string>لديك %1$u عنصر جاهز للمشاركة.</string>
+			<string>لديك عنصر واحد جاهز للمشاركة.</string>
 			<key>two</key>
-			<string>لديك عنصرين جاهزين للمشاركة.</string>
+			<string>لديك عنصران جاهزان للمشاركة.</string>
 			<key>few</key>
 			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
 			<key>many</key>
-			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
+			<string>لديك %1$u عنصرا جاهزا للمشاركة.</string>
 			<key>other</key>
-			<string>لديك %1$u عناصر جاهزة للمشاركة.</string>
+			<string>لديك %1$u عنصر جاهز للمشاركة.</string>
 		</dict>
 	</dict>
 </dict>

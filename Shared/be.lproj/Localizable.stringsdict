@@ -4,8 +4,6 @@
 <dict>
 	<key>%u item(s)</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,15 +11,17 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u つのアイテム</string>
-			<key>other</key>
-			<string>%u つのアイテム</string>
+			<string>%u элементаў</string>
+			<key>one</key>
+			<string>%u элемент</string>
+			<key>few</key>
+			<string>%u элементаў</string>
+			<key>many</key>
+			<string>%u элементаў</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -29,9 +29,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>共有するアイテムはまだありません。</string>
-			<key>other</key>
-			<string>%1$uつのアイテムを共有する準備ができました。</string>
+			<string>У вас ёсць %1$u элементаў, гатовых да адпраўкі.</string>
+			<key>one</key>
+			<string>У вас ёсць %1$u элемент, гатовы да адпраўкі.</string>
+			<key>few</key>
+			<string>У вас ёсць %1$u элементаў, гатовых да адпраўкі.</string>
+			<key>many</key>
+			<string>У вас ёсць %1$u элементаў, гатовых да адпраўкі.</string>
 		</dict>
 	</dict>
 </dict>
