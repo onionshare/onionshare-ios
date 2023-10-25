@@ -22,6 +22,8 @@
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -35,8 +37,6 @@
 			<key>other</key>
 			<string>Þú ert með %1$u atriði tilbúin til deilingar.</string>
 		</dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 	</dict>
 </dict>
 </plist>
