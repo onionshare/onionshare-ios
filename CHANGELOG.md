@@ -1,5 +1,11 @@
 #  OnionShare iOS Changelog
 
+## 1.0.4
+- Updated Tor to 0.4.8.7.
+- Updated Snowflake to 2.7.0.
+- Fixed Snowflake AMP support.
+- Updated translations.
+
 ## 1.0.3
 - Updated Tor to 0.4.8.4.
 - Updated bridge support: 
