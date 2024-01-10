@@ -1,0 +1,78 @@
+
+
+"Access Token" = "Åtkomsttoken";
+"Add Files" = "Lägga till filer";
+"Add Folder" = "Lägg till mapp";
+"Add Photos" = "Lägg till foton";
+"Adding to %@…" = "Lägger till %@…";
+
+/* 500.html */
+"An error occurred" = "Ett fel uppstod";
+"Cancel" = "Avbryt";
+
+/* send.html */
+"compressed" = "komprimerad";
+"Couldn't add item!" = "Det gick inte att lägga till objektet!";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Alla%1$@ med denna adress och privata nyckel kan %1$@besöka din webbplats%1$@ med %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Alla%1$@ med den här adressen kan %1$@hämta%1$@ dina filer med %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Alla%1$@ med den här adressen kan %1$@besöka din webbplats%1$@ med %1$@Tor Browser%1$@:";
+"Done" = "Klar";
+"Internal Tor error. Should not happen. Please reinstall!" = "Internt Tor-fel. Borde inte hända. Ominstallera!";
+"Menu" = "Meny";
+"New files while running" = "Nya filer under körning";
+"No albums" = "Inga album";
+"Nothing here yet." = "Inget här ännu.";
+"Orbot could not be opened!" = "Orbot kunde inte öppnas!";
+"Orbot Detected" = "Orbot upptäckt";
+"Orbot running, but not allowed to bypass." = "Orbot körs, men tillåts inte att kringgå.";
+"Paste API token here" = "Klistra in API-token här";
+"Permit third-party resources (don't send Content Security Policy header)" = "Tillåt tredjepartsresurser (skicka inte innehållssäkerhetspolicyns rubrik)";
+"Please note, that this will only take effect, after you restart." = "Observera att detta bara träder i kraft efter att du har startat om.";
+"Private Key" = "Privat nyckel";
+"QR Code" = "QR-kod";
+"Ready" = "Redo";
+"Request API Access" = "Begär API-åtkomst";
+"Share" = "Dela";
+"Sharing" = "Delning";
+
+/* listing.html */
+"Size" = "Storlek";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Tyvärr, ett oväntat fel verkar ha inträffat, och din begäran lyckades inte.";
+"Start Hosting" = "Börja vara värd";
+"Starting…" = "Börjar…";
+"Stop Hosting" = "Sluta vara värd";
+"Stop Sharing" = "Sluta dela";
+"Tap here to change" = "Tryck här för att ändra";
+"The app needs to be open to work." = "Appen måste vara öppen för att fungera.";
+"This is a public service (disables private key)" = "Detta är en publik tjänst (inaktiverar privat nyckel)";
+
+/* send.html */
+"Total size" = "Total storlek";
+"Use Bridges" = "Använd broar";
+"You have Orbot installed and running, but we cannot bypass it." = "Du har Orbot installerat och igång, men vi kan inte kringgå den.";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du måste aktivera kringåläge i Orbot-inställningarna för att %@ ska fungera medan Orbot körs.";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du måste begära API-åtkomst med Orbot för att %@ ska fungera medan Orbot körs.";
+"Custom title (%d characters max)" = "Anpassad titel (max %d tecken)";
+
+/* send.html */
+"Download Files" = "Hämta filer";
+
+/* listing.html */
+"Filename" = "Filnamn";
+"Go to Orbot Settings" = "Gå till Orbot-inställningar";
+"Go to the app to share!" = "Gå till appen för att dela!";
+"Host" = "Värd";
+"Hosting" = "Värdskap";
+"Start Sharing" = "Börja dela";
+"Stop after files have been sent (disables download of individual files)" = "Stoppa efter att filer har skickats (inaktiverar hämtning av enskilda filer)";
+"You added files from elsewhere while already sharing." = "Du lade till filer från någon annanstans medan du redan delade.";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Alla%1$@ med denna adress och privata nyckel kan %1$@hämta%1$@ dina filer med %1$@Tor Browser%1$@:";

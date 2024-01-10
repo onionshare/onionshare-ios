@@ -9,156 +9,68 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Enigeen%1$@ met hierdie adres kan %1$@u webwerf besoek%1$@ deur die %1$@Tor Blaaier%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Toegangsteken";
-
-/* No comment provided by engineer. */
 "Add Files" = "Voeg lêers toe";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Voeg vouer toe";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Voeg foto’s toe";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Voeg tans toe tot %@…";
 
 /* 500.html */
 "An error occurred" = "’n Fout het voorgekom";
-
-/* No comment provided by engineer. */
 "Cancel" = "Kanselleer";
 
 /* send.html */
 "compressed" = "saamgepers";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Kon nie item toevoeg nie!";
-
-/* No comment provided by engineer. */
-"Custom title (%d characters max)" = "Custom title (%d characters max)";
-
-/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Pasgemaakte titel (maks %d karakters)";
 "Done" = "Gereed";
 
 /* send.html */
 "Download Files" = "Download Files";
 
 /* listing.html */
-"Filename" = "Filename";
-
-/* No comment provided by engineer. */
+"Filename" = "Lêernaam";
 "Go to Orbot Settings" = "Gaan na Orbot-instellings";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Gaan na die toep om te deel!";
-
-/* No comment provided by engineer. */
 "Host" = "Gasheer";
-
-/* No comment provided by engineer. */
 "Hosting" = "Huisves tans";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Interne Tor-fout. Moet nie gebeur nie. Herinstalleer asb.!";
-
-/* No comment provided by engineer. */
 "Menu" = "Kieslys";
-
-/* No comment provided by engineer. */
 "New files while running" = "Nuwe lêers tydens deel";
-
-/* No comment provided by engineer. */
 "No albums" = "Geen albums";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Nog niks hier nie.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot kon nie geopen word nie!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot bespeur";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot loop tans, maar mag nie omlei nie.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Plak API-teken hier";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Staan derdepartyhulpbronne toe (moenie inhoudsekerheidsbeleidkop stuur nie)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Let wel dat dit slegs in werking tree nadat u herbegin het.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Privaat sleutel";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR-kode";
-
-/* No comment provided by engineer. */
 "Ready" = "Gereed";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Versoek API-toegang";
-
-/* No comment provided by engineer. */
 "Share" = "Deel";
-
-/* No comment provided by engineer. */
 "Sharing" = "Deel tans";
 
 /* listing.html */
-"Size" = "Size";
+"Size" = "Grootte";
 
 /* 500.html */
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
-
-/* No comment provided by engineer. */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Jammer, ’n onverwagte fout blyk te gebeur het en u versoek het nie geslaag nie.";
 "Start Hosting" = "Begin huisves";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Begin deel";
-
-/* No comment provided by engineer. */
 "Starting…" = "Begin tans…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Stop nadat lêers verstuur is (dit deaktiveer aflaai van individuele lêers)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Staak huisvesting";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Staak deel";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Tik hier om te verander";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Die toep moet oop wees om te werk.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Dit is ’n openbare diens (deaktiveer privaat sleutel)";
 
 /* send.html */
-"Total size" = "Total size";
-
-/* No comment provided by engineer. */
+"Total size" = "Totale grootte";
 "Use Bridges" = "Gebruik brûe";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "U het lêers van elders toegevoeg terwyl daar reeds gedeel word.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot is geïnstalleer en loop tans, maar ons kan dit nie omlei nie.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "U moet omlei-modus in Orbot-instellings aktiveer vir %@ om te werk terwyl Orbot loop.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "U moet API-toegang met Orbot versoek sodat %@ kan werk terwyl Orbot loop.";
