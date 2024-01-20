@@ -1,1 +1,12 @@
 
+
+"NSMicrophoneUsageDescription" = "直接共有するビデオを作成したい場合は、マイクへのアクセスを許可してください。";
+"NSPhotoLibraryUsageDescription" = "写真を共有したい場合は、フォトライブラリへのアクセスを許可してください。";
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "直接共有する写真やビデオを作成したい場合は、カメラへのアクセスを許可してください。";
