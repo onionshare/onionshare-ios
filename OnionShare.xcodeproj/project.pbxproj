@@ -151,6 +151,9 @@
 		A0B62D912B5EC5EF009DB631 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A0B62D932B5EC755009DB631 /* sw */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sw; path = sw.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A0B62D942B5EC771009DB631 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A0B62D952B5ECACE009DB631 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0B62D962B5ECAE7009DB631 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = hr; path = hr.lproj/Localizable.stringsdict; sourceTree = "<group>"; usesTabs = 1; };
+		A0B62D982B5ECB54009DB631 /* sv-SE */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "sv-SE"; path = "sv-SE.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		A0EAF25B2930E401003D2DCB /* bo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = bo; path = bo.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A0EAF25C2930E401003D2DCB /* bo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = bo; path = bo.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A0EAF25D2930E52E003D2DCB /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -392,6 +395,7 @@
 				sw,
 				eu,
 				hr,
+				"sv-SE",
 			);
 			mainGroup = A06C48A72770D9D2005FCAD1;
 			productRefGroup = A06C48B12770D9D2005FCAD1 /* Products */;
@@ -595,6 +599,8 @@
 				A069888F2A5C53E300BF6248 /* ar */,
 				A0B20B1C2AC1E89D0044C2FA /* bg */,
 				A0B20B1E2AC1E9840044C2FA /* sw */,
+				A0B62D952B5ECACE009DB631 /* hr */,
+				A0B62D982B5ECB54009DB631 /* sv-SE */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -656,6 +662,7 @@
 				A0B20B1D2AC1E89D0044C2FA /* bg */,
 				A0B20B1F2AC1E9840044C2FA /* sw */,
 				A05486A82AE931C40083B6DC /* be */,
+				A0B62D962B5ECAE7009DB631 /* hr */,
 			);
 			name = Localizable.stringsdict;
 			sourceTree = "<group>";
