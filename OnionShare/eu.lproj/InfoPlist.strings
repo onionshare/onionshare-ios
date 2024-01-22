@@ -1,12 +1,10 @@
-
-
-"NSPhotoLibraryUsageDescription" = "Argazkiak partekatu nahi badituzu, zure argazki-liburutegira sartzeko baimena eman.";
-"NSMicrophoneUsageDescription" = "Zuzenean partekatzeko bideoak sortu nahi badituzu, mikrofonoa erabiltzea baimendu.";
-/* 
+/*
   InfoPlist.strings
   OnionShare
 
   Created by Benjamin Erhart on 27.03.23.
   
 */
-"NSCameraUsageDescription" = "Zuzenean partekatzeko argazkiak edo bideoak sortu nahi badituzu, kamerara sartzeko aukera ematen du.";
+NSCameraUsageDescription = "Zuzenean partekatzeko argazkiak edo bideoak sortu nahi badituzu, kamerara sartzeko aukera ematen du.";
+NSMicrophoneUsageDescription = "Zuzenean partekatzeko bideoak sortu nahi badituzu, mikrofonoa erabiltzea baimendu.";
+NSPhotoLibraryUsageDescription = "Argazkiak partekatu nahi badituzu, zure argazki-liburutegira sartzeko baimena eman.";

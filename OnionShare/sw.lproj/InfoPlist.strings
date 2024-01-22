@@ -1,12 +1,10 @@
-
-
-/* 
+/*
   InfoPlist.strings
   OnionShare
 
   Created by Benjamin Erhart on 27.03.23.
   
 */
-"NSCameraUsageDescription" = "Tafadhali ruhusu utumiaji wa kamera yako, ikiwa unataka kuunda picha au video za kushiriki moja kwa moja.";
-"NSMicrophoneUsageDescription" = "Tafadhali ruhusu utumiaji wa kipaza sauti chako, ikiwa unataka kuunda video za kushiriki moja kwa moja.";
-"NSPhotoLibraryUsageDescription" = "Tafadhali ruhusu utumiaji wa maktaba yako ya picha, ikiwa unataka kushiriki picha.";
+NSCameraUsageDescription = "Tafadhali ruhusu utumiaji wa kamera yako, ikiwa unataka kuunda picha au video za kushiriki moja kwa moja.";
+NSMicrophoneUsageDescription = "Tafadhali ruhusu utumiaji wa kipaza sauti chako, ikiwa unataka kuunda video za kushiriki moja kwa moja.";
+NSPhotoLibraryUsageDescription = "Tafadhali ruhusu utumiaji wa maktaba yako ya picha, ikiwa unataka kushiriki picha.";
