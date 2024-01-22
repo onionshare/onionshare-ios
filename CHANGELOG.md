@@ -1,5 +1,10 @@
 #  OnionShare iOS Changelog
 
+## 1.0.5
+- Updated Tor to 0.4.8.10.
+- Updated Snowflake to 2.8.1.
+- Updated translations.
+
 ## 1.0.4
 - Updated Tor to 0.4.8.7.
 - Updated Snowflake to 2.7.0.

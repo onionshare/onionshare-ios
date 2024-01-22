@@ -1,4 +1,3 @@
-- Updated Tor to 0.4.8.7.
-- Updated Snowflake to 2.7.0.
-- Fixed Snowflake AMP support.
+- Updated Tor to 0.4.8.10.
+- Updated Snowflake to 2.8.1.
 - Updated translations.
