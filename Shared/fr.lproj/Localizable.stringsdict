@@ -16,8 +16,8 @@
 			<string>%u élément</string>
 			<key>one</key>
 			<string>%u élément</string>
-			<key>other</key>
-			<string>%u éléments</string>
+			<key>many</key>
+			<string>%u élément</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
@@ -31,11 +31,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Vous avez %1$u élément prêt à être partagé.</string>
+			<string>Vous n’avez aucun élément prêt à être partagé.</string>
 			<key>one</key>
 			<string>Vous avez %1$u élément prêt à être partagé.</string>
-			<key>other</key>
-			<string>Vous avez %1$u éléments prêt à être partagé.</string>
+			<key>many</key>
+			<string>Vous avez %1$u éléments prêts à être partagés.</string>
 		</dict>
 	</dict>
 </dict>

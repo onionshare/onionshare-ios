@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Hver sem er%1$@ með þetta vistfang getur %1$@skoðað vefsvæðið þitt%1$@ með því að nota T%1$@or-vafrann%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Aðgangsteikn";
-
-/* No comment provided by engineer. */
 "Add Files" = "Bæta við skrám";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Bæta við möppu";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Bæta við ljósmyndum";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Bæti í %@…";
 
 /* 500.html */
 "An error occurred" = "Villa kom upp";
-
-/* No comment provided by engineer. */
 "Cancel" = "Hætta við";
 
 /* send.html */
 "compressed" = "þjappað";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Gat ekki bætt við atriði!";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Sérsniðinn titill (hámark %d stafir)";
-
-/* No comment provided by engineer. */
 "Done" = "Búið";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Skráarheiti";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Fara í stillingar Orbot";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Farðu í forritið til að deila!";
-
-/* No comment provided by engineer. */
 "Host" = "Hýsilvél";
-
-/* No comment provided by engineer. */
 "Hosting" = "Hýsing";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Innri villa í Tor, ætti aldrei að gerast. Settu upp aftur!";
-
-/* No comment provided by engineer. */
 "Menu" = "Valmynd";
-
-/* No comment provided by engineer. */
 "New files while running" = "Nýjar skrár á meðan er í gangi";
-
-/* No comment provided by engineer. */
 "No albums" = "Engin albúm";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Ekkert hér ennþá.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Ekki náðist að opna Orbot!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot fannst";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot er keyrandi, en ekki leyft að fara framhjá.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Límdu API-teikn hér";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Heimila tilföng frá utanaðkomandi aðilum (ekki senda haus fyrir öryggisstefnu efnis - Content Security Policy)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Athugaðu að þetta tekur aðeins gildi eftir endurræsingu.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Einkalykill";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR-kóði";
-
-/* No comment provided by engineer. */
 "Ready" = "Tilbúið";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Biðja um aðgang að API-kerfisviðmóti";
-
-/* No comment provided by engineer. */
 "Share" = "Deila";
-
-/* No comment provided by engineer. */
 "Sharing" = "Deiling";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Því miður, óvænt villa virðist hafa komið upp og beiðnin þín tókst því ekki.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Hefja hýsingu";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Hefja deilingu";
-
-/* No comment provided by engineer. */
 "Starting…" = "Ræsi…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Hætta eftir að skrár hafa verið sendar (gerir óvirkt niðurhal á stökum skrám)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Stöðva hýsingu";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Hætta að deila";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Ýttu hér til að breyta";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Forritið þarf að vera opið til að virka.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Þetta er opinber þjónusta (gerir einkalykil óvirkann)";
 
 /* send.html */
 "Total size" = "Heildarstærð";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Nota brýr";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Þú bættir við skrám annarstaðar frá á meðan þegar var verið að deila.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot er þegar uppsett og keyrandi, en okkur er ekki leyft að fara framhjá því.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Þú þarft að virkja framhjáhlaupsham í stillingum Orbot til að %@ virki á meðan Orbot er í gangi.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Þú þarft að biðja um aðgang að API-kerfisviðmóti fyrir Orbot, til að %@ virki á meðan Orbot er í gangi.";

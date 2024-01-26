@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Jeder%1$@ mit dieser Adresse kann mit dem %1$@Tor Browser%1$@ deine %1$@Website besuchen%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Zugangstoken";
-
-/* No comment provided by engineer. */
 "Add Files" = "Dateien hinzufügen";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Ordner hinzufügen";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Fotos hinzufügen";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Zu %@ hinzufügen…";
 
 /* 500.html */
 "An error occurred" = "Fehler aufgetreten";
-
-/* No comment provided by engineer. */
 "Cancel" = "Abbrechen";
 
 /* send.html */
 "compressed" = "komprimiert";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Konnte Element nicht hinzufügen!";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Benutzerdefinierter Titel (maximal %d Zeichen)";
-
-/* No comment provided by engineer. */
 "Done" = "Fertig";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Dateiname";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Gehe zu Orbot-Einstellungen";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Gehe zur App zum Teilen!";
-
-/* No comment provided by engineer. */
 "Host" = "Website";
-
-/* No comment provided by engineer. */
 "Hosting" = "Server läuft";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Tor-interner Fehler. Das sollte nicht passieren. Bitte neu installieren!";
-
-/* No comment provided by engineer. */
 "Menu" = "Menü";
-
-/* No comment provided by engineer. */
 "New files while running" = "Dateien hinzugefügt";
-
-/* No comment provided by engineer. */
 "No albums" = "Keine Alben";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Noch nichts da.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot konnte nicht geöffnet werden!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot erkannt";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot läuft, aber nicht zur Umgehung berechtigt.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "API-Token hier einfügen";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Erlaube Resourcen anderer Anbieter (keinen Content Security Policy Header verwenden)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Bitte beachte, dass dies erst nach einem Neustart wirksam wird.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Privater Schlüssel";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR Code";
-
-/* No comment provided by engineer. */
 "Ready" = "Fertig";
-
-/* No comment provided by engineer. */
 "Request API Access" = "API-Zugriff anfragen";
-
-/* No comment provided by engineer. */
 "Share" = "Freigeben";
-
-/* No comment provided by engineer. */
 "Sharing" = "Freigabe läuft";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Entschuldigung, ein unerwarteter Fehler ist aufgetreten. Deine Anfrage war nicht erfolgreich.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Server starten";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Freigabe starten";
-
-/* No comment provided by engineer. */
 "Starting…" = "Starten…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Beenden nachdem Dateien versendet wurden (deaktiviert Herunterladen einzelner Dateien)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Server beenden";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Freigabe beenden";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Album auswählen";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Die App muss geöffnet sein um zu funktionieren.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Das ist ein öffentlicher Service (verwendet keinen privaten Schlüssel)";
 
 /* send.html */
 "Total size" = "Gesamtgröße";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Benutze Brücken";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Du hast Dateien von woanders hinzugefügt, während Du gerade Dateien teilst.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot ist installiert und läuft, aber wir können es nicht umgehen.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du musst den Bypass-Modus in den Orbot-Einstellungen einschalten, damit %@ funktioniert während Orbot läuft.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du musst bei Orbot den API-Zugriff anfragen, damit %@ funktioniert, während Orbot läuft.";
