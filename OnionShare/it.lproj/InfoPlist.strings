@@ -1,1 +1,12 @@
 
+
+"NSMicrophoneUsageDescription" = "";
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "";
+"NSPhotoLibraryUsageDescription" = "";
