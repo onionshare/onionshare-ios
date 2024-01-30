@@ -5,6 +5,6 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-NSCameraUsageDescription = "Verleen asb. toegang tot u kamera indien u foto’s of video’s vir direkte deel wil skep.";
-NSMicrophoneUsageDescription = "Verleen asb. toegang tot u mikrofoon indien u video’s vir direkte deel wil skep.";
-NSPhotoLibraryUsageDescription = "Verleen asb. toegang tot u fotobiblioteek indien u foto’s wil deel.";
+"NSCameraUsageDescription" = "Verleen asb. toegang tot u kamera indien u foto’s of video’s vir direkte deel wil skep.";
+"NSMicrophoneUsageDescription" = "Verleen asb. toegang tot u mikrofoon indien u video’s vir direkte deel wil skep.";
+"NSPhotoLibraryUsageDescription" = "Verleen asb. toegang tot u fotobiblioteek indien u foto’s wil deel.";

@@ -5,6 +5,6 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-NSCameraUsageDescription = "Veuillez autoriser l'accès à l'appareil photo, si vous souhaitez créer des photos et vidéos pour le partage direct.";
-NSMicrophoneUsageDescription = "Veuillez autoriser l'accès au microphone, si vous souhaitez créer des vidéos pour le partage direct.";
-NSPhotoLibraryUsageDescription = "Veuillez autoriser l'accès à vos photos, si vous souhaitez partager des photos.";
+"NSCameraUsageDescription" = "Veuillez autoriser l'accès à l'appareil photo, si vous souhaitez créer des photos et vidéos pour le partage direct.";
+"NSMicrophoneUsageDescription" = "Veuillez autoriser l'accès au microphone, si vous souhaitez créer des vidéos pour le partage direct.";
+"NSPhotoLibraryUsageDescription" = "Veuillez autoriser l'accès à vos photos, si vous souhaitez partager des photos.";
