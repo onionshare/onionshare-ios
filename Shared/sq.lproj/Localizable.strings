@@ -9,20 +9,38 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Cilido%1$@ me këtë adresë mundet %1$@të vizitojë sajtin tuaj%1$@ duke përdorur %1$@Shfletuesin Tor%1$@:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Token Hyrjesh";
+
+/* No comment provided by engineer. */
 "Add Files" = "Shtoni Kartela";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Shtoni Dosje";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Shtoni Foto";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "Po shtohet te %@…";
 
 /* 500.html */
 "An error occurred" = "Ndodhi një gabim";
+
+/* No comment provided by engineer. */
 "Cancel" = "Anuloje";
 
 /* send.html */
 "compressed" = "e ngjeshur";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "S’u shtua dot objekt!";
+
+/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Titull vetjak (e shumta %d shenja)";
+
+/* No comment provided by engineer. */
 "Done" = "U bë";
 
 /* send.html */
@@ -30,26 +48,68 @@
 
 /* listing.html */
 "Filename" = "Emër kartele";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Kalo te Rregullimet e Orbot-it";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Kalo te aplikacioni për ndarje!";
+
+/* No comment provided by engineer. */
 "Host" = "Strehë";
+
+/* No comment provided by engineer. */
 "Hosting" = "Strehim";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Gabim Tor i Brendshëm. S’duhet të ndodhte. Ju lutemi, riinstalojeni!";
+
+/* No comment provided by engineer. */
 "Menu" = "Menu";
+
+/* No comment provided by engineer. */
 "New files while running" = "Kartela të reja teksa xhirohej";
+
+/* No comment provided by engineer. */
 "No albums" = "Pa albume";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Ende pa gjë këtu.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot-i s’u hap dot!";
+
+/* No comment provided by engineer. */
 "Orbot Detected" = "U pikas Orbot";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot në funksionim, por jo i lejuar të anashkalojë.";
+
+/* No comment provided by engineer. */
 "Paste API token here" = "Ngjiteni token-in e API-t këtu";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Lejo burime palësh të treta (mos dërgo krye Content Security Policy)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Ju lutemi, kin parasysh, se kjo do të ketë efekt vetëm pasi ta rinisni.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Kyç Privat";
+
+/* No comment provided by engineer. */
 "QR Code" = "Kod QR";
+
+/* No comment provided by engineer. */
 "Ready" = "Gati";
+
+/* No comment provided by engineer. */
 "Request API Access" = "Kërko Hyrje API";
+
+/* No comment provided by engineer. */
 "Share" = "Ndani me të tjerë";
+
+/* No comment provided by engineer. */
 "Sharing" = "Ndarje me të tjerë";
 
 /* listing.html */
@@ -57,20 +117,48 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Na ndjeni, duket të ketë ndodhur një gabim i papritur dhe kërkesa juaj s’u plotësua.";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Fillo të Strehosh";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Fillo të Ndash Me të Tjerë";
+
+/* No comment provided by engineer. */
 "Starting…" = "Po niset…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Ndale pasi të jenë dërguar kartelat (çaktivizon shkarkim kartelash individuale)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Ndale Strehimin";
+
+/* No comment provided by engineer. */
 "Stop Sharing" = "Resht së Ndari Me të Tjerë";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Prekni këtu që të ndryshohet";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Aplikacioni lyp të jetë i hapur që të funksionojë.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Ky është një shërbim publik (çaktivizon kyç privat)";
 
 /* send.html */
 "Total size" = "Madhësi gjithsej";
+
+/* No comment provided by engineer. */
 "Use Bridges" = "Përdorni Ura";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Shtuat kartela prej gjetiu, teksa ndanit tashmë me të tjerë.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Keni Orbot-in të instaluar dhe në funksionim, por s’mund ta anashkalojmë.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Lypset të aktivizoni mënyrë anashkalim te rregullimet e Orbot-it që %@ të punojë ndërkohë që Orbot-i është në funksionim.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Lypset të kërkoni hyrje API me Orbot, që %@ të mund të punojë ndërkohë që Orbot-i është në funksionim.";

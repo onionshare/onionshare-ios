@@ -9,20 +9,38 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Svatko%1$@ s ovom adresom može %1$@posjetiti tvoju web-stranicu%1$@ koristeći %1$@Tor preglednik%1$@:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Token za pristup";
+
+/* No comment provided by engineer. */
 "Add Files" = "Dodaj datoteke";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Dodaj mapu";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Dodaj fotografije";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "Dodavanje u %@ …";
 
 /* 500.html */
 "An error occurred" = "Dogodila se greška";
+
+/* No comment provided by engineer. */
 "Cancel" = "Odustani";
 
 /* send.html */
 "compressed" = "komprimirano";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Neuspjelo dodavanje stavke!";
+
+/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Prilagođen naslov (maks. %d znakova)";
+
+/* No comment provided by engineer. */
 "Done" = "Gotovo";
 
 /* send.html */
@@ -30,26 +48,68 @@
 
 /* listing.html */
 "Filename" = "Ime datoteke";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Idi na Orbot postavke";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Idi na aplikaciju za dijeljenje!";
+
+/* No comment provided by engineer. */
 "Host" = "Host";
+
+/* No comment provided by engineer. */
 "Hosting" = "Hosting";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Interna Tor greška. Ne bi se smjelo dogoditi. Instaliraj ponovo!";
+
+/* No comment provided by engineer. */
 "Menu" = "Izbornik";
+
+/* No comment provided by engineer. */
 "New files while running" = "Nove datoteke tijekom rada";
+
+/* No comment provided by engineer. */
 "No albums" = "Nema albuma";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Ovdje još nema ničega.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Nije bilo moguće otvoriti Orbot!";
+
+/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot prepoznat";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+
+/* No comment provided by engineer. */
 "Paste API token here" = "Ovdje umetni API token";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Napomena: ovo stupiti na snagu nakon ponovnog pokretanja.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Privatni ključ";
+
+/* No comment provided by engineer. */
 "QR Code" = "QR kod";
+
+/* No comment provided by engineer. */
 "Ready" = "Spremno";
+
+/* No comment provided by engineer. */
 "Request API Access" = "Zatraži API pristup";
+
+/* No comment provided by engineer. */
 "Share" = "Dijeli";
+
+/* No comment provided by engineer. */
 "Sharing" = "Dijeljenje";
 
 /* listing.html */
@@ -57,20 +117,48 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Dogodila se neočekivana greška i tvoj zahtjev nije uspio.";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Pokreni hosting";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Pokreni dijeljenje";
+
+/* No comment provided by engineer. */
 "Starting…" = "Pokretanje …";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Prekini hosting";
+
+/* No comment provided by engineer. */
 "Stop Sharing" = "Prekini dijeljenje";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Dodirni ovdje za mijenjanje";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Aplikacija mora biti otvorena da bi radila.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Ovo je javna usluga (deaktivira privatni ključ)";
 
 /* send.html */
 "Total size" = "Ukupna veličina";
+
+/* No comment provided by engineer. */
 "Use Bridges" = "Koristi mostove";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Dodao/la si datoteke s jednog drugog mjesta koje već dijeliš.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot je instaliran i radi, ali ga ne možemo zaobići.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Moraš omogućiti modus zaobilaženja u postavkama Orbota da bi %@ radio dok Orbot radi.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Moraš zatražiti API pristup s Orbotom da bi %@ radio dok Orbot radi.";
