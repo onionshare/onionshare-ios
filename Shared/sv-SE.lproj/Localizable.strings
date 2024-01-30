@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Alla%1$@ med den här adressen kan %1$@besöka din webbplats%1$@ med %1$@Tor Browser%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Åtkomsttoken";
-
-/* No comment provided by engineer. */
 "Add Files" = "Lägga till filer";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Lägg till mapp";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Lägg till foton";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Lägger till %@…";
 
 /* 500.html */
 "An error occurred" = "Ett fel uppstod";
-
-/* No comment provided by engineer. */
 "Cancel" = "Avbryt";
 
 /* send.html */
 "compressed" = "komprimerad";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Det gick inte att lägga till objektet!";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Anpassad titel (max %d tecken)";
-
-/* No comment provided by engineer. */
 "Done" = "Klar";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Filnamn";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Gå till Orbot-inställningar";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "Gå till appen för att dela!";
-
-/* No comment provided by engineer. */
 "Host" = "Värd";
-
-/* No comment provided by engineer. */
 "Hosting" = "Värdskap";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Internt Tor-fel. Borde inte hända. Ominstallera!";
-
-/* No comment provided by engineer. */
 "Menu" = "Meny";
-
-/* No comment provided by engineer. */
 "New files while running" = "Nya filer under körning";
-
-/* No comment provided by engineer. */
 "No albums" = "Inga album";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Inget här ännu.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot kunde inte öppnas!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot upptäckt";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot körs, men tillåts inte att kringgå.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Klistra in API-token här";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Tillåt tredjepartsresurser (skicka inte innehållssäkerhetspolicyns rubrik)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Observera att detta bara träder i kraft efter att du har startat om.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Privat nyckel";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR-kod";
-
-/* No comment provided by engineer. */
 "Ready" = "Redo";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Begär API-åtkomst";
-
-/* No comment provided by engineer. */
 "Share" = "Dela";
-
-/* No comment provided by engineer. */
 "Sharing" = "Delning";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Tyvärr, ett oväntat fel verkar ha inträffat, och din begäran lyckades inte.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Börja vara värd";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Börja dela";
-
-/* No comment provided by engineer. */
 "Starting…" = "Börjar…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Stoppa efter att filer har skickats (inaktiverar hämtning av enskilda filer)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Sluta vara värd";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Sluta dela";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "Tryck här för att ändra";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "Appen måste vara öppen för att fungera.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Detta är en publik tjänst (inaktiverar privat nyckel)";
 
 /* send.html */
 "Total size" = "Total storlek";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Använd broar";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Du lade till filer från någon annanstans medan du redan delade.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Du har Orbot installerat och igång, men vi kan inte kringgå den.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Du måste aktivera kringåläge i Orbot-inställningarna för att %@ ska fungera medan Orbot körs.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Du måste begära API-åtkomst med Orbot för att %@ ska fungera medan Orbot körs.";

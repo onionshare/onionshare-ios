@@ -9,38 +9,20 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Всеки%1$@, имащ адреса може да %1$@посети%1$@ страницата чрез %1$@Четеца Тор%1$@:";
-
-/* No comment provided by engineer. */
 "Access Token" = "Код за достъп";
-
-/* No comment provided by engineer. */
 "Add Files" = "Добавяне на файлове";
-
-/* No comment provided by engineer. */
 "Add Folder" = "Добавяне на папка";
-
-/* No comment provided by engineer. */
 "Add Photos" = "Добавяне на изображения";
-
-/* No comment provided by engineer. */
 "Adding to %@…" = "Добавяне в %@…";
 
 /* 500.html */
 "An error occurred" = "Възникна грешка";
-
-/* No comment provided by engineer. */
 "Cancel" = "Отказ";
 
 /* send.html */
 "compressed" = "компресирано";
-
-/* No comment provided by engineer. */
 "Couldn't add item!" = "Елементът не е добавен!";
-
-/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Заглавие на раздела (макс. %d знака)";
-
-/* No comment provided by engineer. */
 "Done" = "Готово";
 
 /* send.html */
@@ -48,68 +30,26 @@
 
 /* listing.html */
 "Filename" = "Име на файла";
-
-/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Настройки на Орбот";
-
-/* No comment provided by engineer. */
 "Go to the app to share!" = "За да споделяте, отворете приложението!";
-
-/* No comment provided by engineer. */
 "Host" = "Уеб страница";
-
-/* No comment provided by engineer. */
 "Hosting" = "Достъпна";
-
-/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Вътрешна грешка на Тор. Не би трябвало да възниква. Преинсталирайте!";
-
-/* No comment provided by engineer. */
 "Menu" = "Меню";
-
-/* No comment provided by engineer. */
 "New files while running" = "Нови файлове";
-
-/* No comment provided by engineer. */
 "No albums" = "Няма албуми";
-
-/* No comment provided by engineer. */
 "Nothing here yet." = "Все още няма нищо.";
-
-/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbot не може да бъде отворен!";
-
-/* No comment provided by engineer. */
 "Orbot Detected" = "Открит е Орбот";
-
-/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Орбот работи и е забранено да бъде заобиколен.";
-
-/* No comment provided by engineer. */
 "Paste API token here" = "Поставете код за ППИ";
-
-/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Разрешаване на странични ресурси (не изпраща заглавка на CSP)";
-
-/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Промените ще бъдат приложени след рестарт.";
-
-/* No comment provided by engineer. */
 "Private Key" = "Частен ключ";
-
-/* No comment provided by engineer. */
 "QR Code" = "QR код";
-
-/* No comment provided by engineer. */
 "Ready" = "В готовност";
-
-/* No comment provided by engineer. */
 "Request API Access" = "Заявка за достъп до ППИ";
-
-/* No comment provided by engineer. */
 "Share" = "Споделяне";
-
-/* No comment provided by engineer. */
 "Sharing" = "Споделяне";
 
 /* listing.html */
@@ -117,48 +57,20 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Възникна непредвидена грешка и заявката е неуспешна.";
-
-/* No comment provided by engineer. */
 "Start Hosting" = "Включване";
-
-/* No comment provided by engineer. */
 "Start Sharing" = "Включване";
-
-/* No comment provided by engineer. */
 "Starting…" = "Включване…";
-
-/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Изключване след изпращане на файловете (за изтегляне на отделни файлове махнете отметката)";
-
-/* No comment provided by engineer. */
 "Stop Hosting" = "Изключване";
-
-/* No comment provided by engineer. */
 "Stop Sharing" = "Изключване";
-
-/* No comment provided by engineer. */
 "Tap here to change" = "За промяна докоснете тук";
-
-/* No comment provided by engineer. */
 "The app needs to be open to work." = "За да работи приложението, трябва да бъде отворено.";
-
-/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Общодостъпна услуга (без частен ключ)";
 
 /* send.html */
 "Total size" = "Общ размер";
-
-/* No comment provided by engineer. */
 "Use Bridges" = "Използване на мостове";
-
-/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "По време на споделяне са добавени файлове.";
-
-/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Орбот е инсталиран и работи, но не може да бъде заобиколен.";
-
-/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Трябва да включите настройката за заобикаляне в Орбот, за да може и %@ да работи.";
-
-/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "За да могат Орбот и %@ да работят заедно, трябва да заявите достъп до ППИ от Орбот.";
