@@ -1,1 +1,12 @@
 
+
+/* 
+  InfoPlist.strings
+  OnionShare
+
+  Created by Benjamin Erhart on 27.03.23.
+  
+*/
+"NSCameraUsageDescription" = "Pokud chcete zachytit fotografie nebo videa pro přímé sdílení, povolte přístup k vašemu fotoaparátu.";
+"NSMicrophoneUsageDescription" = "Pokud chcete nahrávat videa pro přímé sdílení, povolte přístup k vašemu mikrofonu.";
+"NSPhotoLibraryUsageDescription" = "Pokud chcete sdílet fotografie, povolte přístup do své galerie.";
