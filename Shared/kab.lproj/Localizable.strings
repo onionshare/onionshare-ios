@@ -1,0 +1,36 @@
+
+
+"Go to Orbot Settings" = "Ddu ɣer yiɣewwaren n Orbot";
+"Menu" = "Umuɣ";
+"Share" = "Bḍu";
+
+/* listing.html */
+"Size" = "Teɣzi";
+"Add Files" = "Rnu ifuyla";
+"Add Folder" = "Rnu akaram";
+"Add Photos" = "Rnu tiwlafin";
+
+/* send.html */
+"Download Files" = "Sader-d ifuyla";
+"No albums" = "Ulac albumen";
+"Private Key" = "Tasarut tusligt";
+"QR Code" = "Tangalt n QR";
+"Start Sharing" = "Bdu beṭṭu";
+
+/* 500.html */
+"An error occurred" = "Tella-d tuccḍa";
+"Nothing here yet." = "Ulac ifuyla yettwafernen akka tura.";
+"Go to the app to share!" = "Ddu ɣer usnas akken ad tebḍuḍ aya!";
+"Stop Sharing" = "Ḥbes beṭṭu";
+"Use Bridges" = "Sseqdec tiqenṭyar";
+"Tap here to change" = "Ttekki da akken ad tbeddleḍ";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot yettwasebded yernu itteddu, maca ur nezmir ara ad nɛeddi ɣef unagraw.";
+"Host" = "Asenneftaɣ";
+"Starting…" = "Asenker…";
+"Cancel" = "Sefsex";
+"Done" = "Immed";
+
+/* listing.html */
+"Filename" = "Isem n ufaylu";
+"Ready" = "Iwjed";
+"Sharing" = "Beṭṭu";
