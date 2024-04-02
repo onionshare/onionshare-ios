@@ -63,6 +63,7 @@
 		A002D9B52772279C0011EFA0 /* .bartycrouch.toml */ = {isa = PBXFileReference; lastKnownFileType = text; path = .bartycrouch.toml; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.yaml; };
 		A002D9BA2772287D0011EFA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A002D9BC277228940011EFA0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A0152EF52BBC4D9400F9E745 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A019CDAC29E80BF500FE5B7E /* af */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = af; path = af.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A019CDAD29E80BF500FE5B7E /* af */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = af; path = af.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A019CDAE29E80CAF00FE5B7E /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -631,6 +632,7 @@
 				A0B62D912B5EC5EF009DB631 /* ja */,
 				A0B62D932B5EC755009DB631 /* sw */,
 				A0B62D942B5EC771009DB631 /* vi */,
+				A0152EF52BBC4D9400F9E745 /* cs */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
