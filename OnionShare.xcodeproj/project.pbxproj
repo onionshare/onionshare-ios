@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		4B7B9C803F89372037ECC4B9 /* Pods_ActionExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C18753A320CFD663C6E2AA6F /* Pods_ActionExtension.framework */; };
 		A002D9B92772287D0011EFA0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A002D9BB2772287D0011EFA0 /* Localizable.strings */; };
+		A0152EFA2BBC6B7200F9E745 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = A0152EF92BBC6B7200F9E745 /* PrivacyInfo.xcprivacy */; };
+		A0152EFB2BBC6B7200F9E745 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = A0152EF92BBC6B7200F9E745 /* PrivacyInfo.xcprivacy */; };
 		A030F19A27F35B4000BDD70D /* UniformTypeIdentifiers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A030F19927F35B4000BDD70D /* UniformTypeIdentifiers.framework */; };
 		A030F19F27F35B4000BDD70D /* ActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A030F19E27F35B4000BDD70D /* ActionViewController.swift */; };
 		A030F1A627F35B4000BDD70D /* ActionExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = A030F19827F35B4000BDD70D /* ActionExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -64,6 +66,7 @@
 		A002D9BA2772287D0011EFA0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A002D9BC277228940011EFA0 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A0152EF52BBC4D9400F9E745 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A0152EF92BBC6B7200F9E745 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		A019CDAC29E80BF500FE5B7E /* af */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = af; path = af.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A019CDAD29E80BF500FE5B7E /* af */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = af; path = af.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
 		A019CDAE29E80CAF00FE5B7E /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -234,6 +237,7 @@
 				A06C48B72770D9D3005FCAD1 /* Assets.xcassets */,
 				A002D9BB2772287D0011EFA0 /* Localizable.strings */,
 				A088658227F445EC00248399 /* Localizable.stringsdict */,
+				A0152EF92BBC6B7200F9E745 /* PrivacyInfo.xcprivacy */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -416,6 +420,7 @@
 			files = (
 				A088658027F445EC00248399 /* Localizable.stringsdict in Resources */,
 				A088657B27F4453400248399 /* Assets.xcassets in Resources */,
+				A0152EFB2BBC6B7200F9E745 /* PrivacyInfo.xcprivacy in Resources */,
 				A088657A27F444F900248399 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -427,6 +432,7 @@
 				A002D9B92772287D0011EFA0 /* Localizable.strings in Resources */,
 				A0879CA929D1B7E3002BB4BD /* InfoPlist.strings in Resources */,
 				A06C49072770E800005FCAD1 /* LaunchScreen.xib in Resources */,
+				A0152EFA2BBC6B7200F9E745 /* PrivacyInfo.xcprivacy in Resources */,
 				A06C49022770E0A4005FCAD1 /* templates in Resources */,
 				A06C49012770E0A4005FCAD1 /* static in Resources */,
 				A06C48B82770D9D3005FCAD1 /* Assets.xcassets in Resources */,
