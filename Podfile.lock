@@ -1,7 +1,7 @@
 PODS:
   - AdParticipesCumCepis (0.1.0):
     - GCDWebServer (~> 3.5)
-    - IPtProxyUI (~> 4.3)
+    - IPtProxyUI (~> 4.5)
     - OrbotKit (~> 0.2)
     - SwiftSoup (~> 2.7)
     - TLPhotoPicker (~> 2.1)
@@ -13,29 +13,29 @@ PODS:
   - GCDWebServer (3.5.4):
     - GCDWebServer/Core (= 3.5.4)
   - GCDWebServer/Core (3.5.4)
-  - IPtProxy (3.4.0)
-  - IPtProxyUI (4.3.0):
+  - IPtProxy (3.7.0)
+  - IPtProxyUI (4.5.0):
     - Eureka (~> 5.3)
-    - IPtProxy (~> 3.4.0)
-    - IPtProxyUI/App (= 4.3.0)
-  - IPtProxyUI/App (4.3.0):
+    - IPtProxy (~> 3.7.0)
+    - IPtProxyUI/App (= 4.5.0)
+  - IPtProxyUI/App (4.5.0):
     - Eureka (~> 5.3)
-    - IPtProxy (~> 3.4.0)
+    - IPtProxy (~> 3.7.0)
     - ProgressHUD (~> 14.1)
   - MBProgressHUD (1.2.0)
   - OrbotKit (0.2.2)
   - PathKit (1.0.1)
-  - ProgressHUD (14.1.0)
+  - ProgressHUD (14.1.1)
   - Stencil (0.15.1):
     - PathKit (~> 1.0.0)
-  - SwiftSoup (2.7.0)
+  - SwiftSoup (2.7.2)
   - TLPhotoPicker (2.1.9)
   - Tor (408.10.1):
     - Tor/CTor (= 408.10.1)
   - Tor/Core (408.10.1)
   - Tor/CTor (408.10.1):
     - Tor/Core
-  - ZIPFoundation (0.9.16)
+  - ZIPFoundation (0.9.18)
 
 DEPENDENCIES:
   - AdParticipesCumCepis (from `https://github.com/tladesignz/AdParticipesCumCepis.git`)
@@ -66,29 +66,29 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   AdParticipesCumCepis:
-    :commit: 12fdcf163fc842a31b2029fd6f9e4714cd2095fe
+    :commit: a32db093287f83efc7ad81815663f3574c810cc3
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
   AdParticipesCumCepisExtension:
-    :commit: 12fdcf163fc842a31b2029fd6f9e4714cd2095fe
+    :commit: a32db093287f83efc7ad81815663f3574c810cc3
     :git: https://github.com/tladesignz/AdParticipesCumCepis.git
 
 SPEC CHECKSUMS:
-  AdParticipesCumCepis: 2fc147c6d6748ba47218193dcd11f7b5b48279c1
+  AdParticipesCumCepis: 2039388f1c49ab6dd35fccb11230aa1f5f03d5a2
   AdParticipesCumCepisExtension: 76dbd7767fd196ed66c8c8c2a03634efd623edbf
   Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
   GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
-  IPtProxy: dfaa1f21006ca758f9966548f1869a8e29e7b72e
-  IPtProxyUI: 8f6052b93d996fb1a86ce31e5e8acdcd3035d700
+  IPtProxy: 8c7d61173524729180f6285beebba5d6eb3fc88d
+  IPtProxyUI: 0592abce3d6b206a6b78f1529439c0dfcfc56cbc
   MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
   OrbotKit: 33dd047aa0d14812d7a08618f68ab1f0874e97f2
   PathKit: 83b97c9c61b62e61ecafd598b33b2782575c33e4
-  ProgressHUD: c4a55f108815c46a6bf082407d2f806840b7a869
+  ProgressHUD: abb9136ae23c85204236828562cb9a8ec98efb44
   Stencil: 5a1d7354da5ea800ba8e07e568e654171becc972
-  SwiftSoup: 06cbbf665257adfbfe0c927c63de246e5e844b9d
+  SwiftSoup: 4164c6bd8af69acd119c23fb36906975a60d71bb
   TLPhotoPicker: 939c40eaad130b69f9571e61e021e8120fa76329
   Tor: 4aa4aee031f892efa43d1afb01c90565990c6312
-  ZIPFoundation: d170fa8e270b2a32bef9dcdcabff5b8f1a5deced
+  ZIPFoundation: fa9ae5af13b7cf168245f24d1c672a4fb972e37f
 
 PODFILE CHECKSUM: cf478126b2b0c1d61c8a79adb9619abcf9c87dba
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.2
