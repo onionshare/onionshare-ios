@@ -1,1 +1,5 @@
 
+
+"NSMicrophoneUsageDescription" = "Ak chcete vytvárať videá na priame zdieľanie, umožnite prosím prístup k mikrofónu.";
+"NSCameraUsageDescription" = "Ak chcete vytvárať fotografie alebo videá na priame zdieľanie, umožnite prosím prístup k fotoaparátu.";
+"NSPhotoLibraryUsageDescription" = "Ak chcete zdieľať fotografie, povoľte prosím prístup do svojej knižnice fotografií.";
