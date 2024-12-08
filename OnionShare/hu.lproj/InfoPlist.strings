@@ -1,1 +1,5 @@
 
+
+"NSCameraUsageDescription" = "Kérjük, engedélyezze a hozzáférést a kamerához, ha fényképeket vagy videókat szeretne készíteni közvetlen megosztáshoz.";
+"NSMicrophoneUsageDescription" = "Ha közvetlen megosztáshoz szeretne videókat készíteni, engedélyezze a hozzáférést a mikrofonjához.";
+"NSPhotoLibraryUsageDescription" = "Kérjük, engedélyezze a hozzáférést a fotókönyvtárához, ha fényképeket szeretne megosztani.";
