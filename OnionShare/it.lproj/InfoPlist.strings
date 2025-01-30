@@ -1,6 +1,6 @@
 
 
-"NSMicrophoneUsageDescription" = "";
+"NSMicrophoneUsageDescription" = "Consentite l'accesso al vostro microfono, se volete creare video da condividere direttamente.";
 /* 
   InfoPlist.strings
   OnionShare
@@ -8,5 +8,5 @@
   Created by Benjamin Erhart on 27.03.23.
   
 */
-"NSCameraUsageDescription" = "";
-"NSPhotoLibraryUsageDescription" = "";
+"NSCameraUsageDescription" = "Consentire l'accesso alla fotocamera, se si desidera creare foto o video da condividere direttamente.";
+"NSPhotoLibraryUsageDescription" = "Consentire l'accesso alla libreria fotografica, se si desidera condividere le foto.";
