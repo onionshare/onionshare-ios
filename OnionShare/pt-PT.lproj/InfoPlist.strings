@@ -1,1 +1,3 @@
-
+"NSCameraUsageDescription" = "Por favor, permita o acesso à sua câmara, se quiser criar fotografias ou vídeos para a partilha direta.";
+"NSMicrophoneUsageDescription" = "Por favor, permita o acesso ao seu microfone, se quiser criar vídeos para a partilha direta.";
+"NSPhotoLibraryUsageDescription" = "Por favor, permita o acesso à sua biblioteca de fotografias, se quiser partilhar fotografias.";
