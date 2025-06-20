@@ -4,8 +4,6 @@
 <dict>
 	<key>%u item(s)</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,19 +11,15 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u elements</string>
+			<string>%u տարր</string>
 			<key>one</key>
-			<string>%u element</string>
-			<key>many</key>
-			<string>%u elements</string>
+			<string>%u տարր</string>
 			<key>other</key>
-			<string>%u elements</string>
+			<string>%u տարր</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -33,13 +27,11 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Դուք ունեք տարածմանը պատրաստ %1$u տարր:</string>
 			<key>one</key>
-			<string>Teniu %1$u element per enviar.</string>
-			<key>many</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Դուք ունեք տարածմանը պատրաստ %1$u տարր:</string>
 			<key>other</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Դուք ունեք տարածմանը պատրաստ %1$u տարր:</string>
 		</dict>
 	</dict>
 </dict>

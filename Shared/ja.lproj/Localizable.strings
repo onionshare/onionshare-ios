@@ -1,19 +1,19 @@
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "このアドレスと秘密鍵を知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@であなたのファイルを%1$@ダウンロード%1$@できます：";
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "このアドレスと秘密鍵を知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@ であなたのファイルを%1$@ダウンロード%1$@できます:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "このアドレスと秘密鍵を知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@であなたのサイトを%1$@閲覧%1$@できます：";
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "このアドレスと秘密鍵を知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@ であなたのサイトを%1$@閲覧%1$@できます:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "このアドレスを知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@であなたのファイルを%1$@ダウンロード%1$@できます：";
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "このアドレスを知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@ であなたのファイルを%1$@ダウンロード%1$@できます:";
 
 /* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "このアドレスを知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@であなたのサイトを%1$@閲覧%1$@できます：";
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "このアドレスを知っている人であれば%1$@誰でも%1$@、%1$@Tor Browser%1$@ であなたのサイトを%1$@閲覧%1$@できます:";
 "Access Token" = "アクセストークン";
 "Add Files" = "ファイルを追加";
-"Add Folder" = "フォルダを追加";
+"Add Folder" = "フォルダーを追加";
 "Add Photos" = "画像を追加";
-"Adding to %@…" = "%@に追加しています…";
+"Adding to %@…" = "%@ に追加しています…";
 
 /* 500.html */
 "An error occurred" = "エラーが発生しました";
@@ -22,7 +22,7 @@
 /* send.html */
 "compressed" = "圧縮";
 "Couldn't add item!" = "追加できませんでした！";
-"Custom title (%d characters max)" = "カスタムタイトル（%d文字以内）";
+"Custom title (%d characters max)" = "カスタムタイトル (%d文字以内)";
 "Done" = "完了";
 
 /* send.html */
@@ -30,25 +30,25 @@
 
 /* listing.html */
 "Filename" = "ファイル名";
-"Go to Orbot Settings" = "Orbotの設定を開く";
+"Go to Orbot Settings" = "Orbot の設定を開く";
 "Go to the app to share!" = "共有するにはアプリを開いてください！";
 "Host" = "ホスト";
 "Hosting" = "ホスト中";
-"Internal Tor error. Should not happen. Please reinstall!" = "Torの内部エラー。アプリを再インストールしてください！";
+"Internal Tor error. Should not happen. Please reinstall!" = "Tor の内部エラー。アプリを再インストールしてください！";
 "Menu" = "メニュー";
 "New files while running" = "新しいファイルが追加されました";
 "No albums" = "アルバムはありません";
 "Nothing here yet." = "まだ何もありません。";
-"Orbot could not be opened!" = "Orbotを開けませんでした！";
-"Orbot Detected" = "Orbotを検出しました";
-"Orbot running, but not allowed to bypass." = "Orbotが動作していますが、バイパスの許可がありません。";
-"Paste API token here" = "ここにAPIトークンを貼り付けてください";
-"Permit third-party resources (don't send Content Security Policy header)" = "サードパーティのリソースを許可（コンテンツセキュリティポリシーヘッダーを送信しない）";
-"Please note, that this will only take effect, after you restart." = "注意点：この設定は再起動してから有効になります。";
+"Orbot could not be opened!" = "Orbot を開けませんでした！";
+"Orbot Detected" = "Orbot を検出しました";
+"Orbot running, but not allowed to bypass." = "Orbot が動作していますが、バイパスの許可がありません。";
+"Paste API token here" = "ここに API トークンを貼り付けてください";
+"Permit third-party resources (don't send Content Security Policy header)" = "サードパーティのリソースを許可 (コンテンツセキュリティポリシーヘッダーを送信しない)";
+"Please note, that this will only take effect, after you restart." = "注意: この設定は再起動してから有効になります。";
 "Private Key" = "秘密鍵";
-"QR Code" = "QRコード";
+"QR Code" = "QR コード";
 "Ready" = "準備完了";
-"Request API Access" = "APIアクセスを要求";
+"Request API Access" = "API アクセスをリクエスト";
 "Share" = "共有";
 "Sharing" = "共有しています";
 
@@ -60,17 +60,17 @@
 "Start Hosting" = "ホストを開始";
 "Start Sharing" = "共有を開始";
 "Starting…" = "開始しています…";
-"Stop after files have been sent (disables download of individual files)" = "ファイル送信が終了したら共有を停止（個別ファイルのダウンロードを無効にする）";
+"Stop after files have been sent (disables download of individual files)" = "ファイルの送信が終了したら停止 (個別のファイルのダウンロードを無効にする)";
 "Stop Hosting" = "ホストを停止";
 "Stop Sharing" = "共有を停止";
 "Tap here to change" = "ここをタップして変更";
 "The app needs to be open to work." = "機能するにはアプリを開いた状態にしておく必要があります。";
-"This is a public service (disables private key)" = "公開のサービスとして設定（秘密鍵が無効となります）";
+"This is a public service (disables private key)" = "公開のサービスとして設定 (秘密鍵が無効となります)";
 
 /* send.html */
 "Total size" = "合計サイズ";
 "Use Bridges" = "ブリッジを使用";
 "You added files from elsewhere while already sharing." = "共有中に他のファイルが追加されました。";
-"You have Orbot installed and running, but we cannot bypass it." = "Orbotがインストール、実行されていますが、これをバイパスできません。";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbotが動作している間%@を使用するには、Orbotの設定でバイパスモードを有効にする必要があります。";
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbotが動作している間%@を使用するには、OrbotとのAPIアクセスを要求する必要があります。";
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot がインストール、実行されていますが、これをバイパスできません。";
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot が動作している間 %@ を使用するには、Orbot の設定でバイパスモードを有効にする必要があります。";
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot が動作している間 %@ を使用するには、Orbot との API アクセスをリクエストする必要があります。";

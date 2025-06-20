@@ -4,8 +4,6 @@
 <dict>
 	<key>%u item(s)</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -13,19 +11,17 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>%u elements</string>
+			<string>%u položiek</string>
 			<key>one</key>
-			<string>%u element</string>
-			<key>many</key>
-			<string>%u elements</string>
+			<string>%u položka</string>
+			<key>few</key>
+			<string>%u položky</string>
 			<key>other</key>
-			<string>%u elements</string>
+			<string>%u položiek</string>
 		</dict>
 	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -33,13 +29,13 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Máte %1$u položiek pripravených na zdieľanie.</string>
 			<key>one</key>
-			<string>Teniu %1$u element per enviar.</string>
-			<key>many</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Máte %1$u položku pripravenú na zdieľanie.</string>
+			<key>few</key>
+			<string>Máte %1$u položky pripravené na zdieľanie.</string>
 			<key>other</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Máte %1$u položiek pripravených na zdieľanie.</string>
 		</dict>
 	</dict>
 </dict>

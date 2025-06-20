@@ -1,0 +1,40 @@
+
+
+"QR Code" = "QR ծածկագիր";
+"Add Folder" = "Ավելացնել թղթապանակ";
+"Adding to %@…" = "Ավելացվում է %@-ին…";
+"Cancel" = "Չեղարկել";
+
+/* send.html */
+"Download Files" = "Ներբեռնել ֆայլերը";
+"Host" = "Հյուրընկալել";
+"Hosting" = "Հյուրընկալում";
+"Ready" = "Պատրաստ";
+"Stop Hosting" = "Կասեցնել հյուրընկալումը";
+
+/* send.html */
+"Total size" = "Ընդհանուր չափ";
+"Use Bridges" = "Օգտագործել կամուրջներ";
+"Add Files" = "Ավելացնել ֆայլեր";
+"Add Photos" = "Ավելացնել լուսանկարներ";
+
+/* 500.html */
+"An error occurred" = "Տեղի ունեցավ սխալ";
+"Done" = "Պատրաստ";
+
+/* listing.html */
+"Filename" = "Ֆայլի անուն";
+"Go to Orbot Settings" = "Գնալ դեպի Orbot-ի կարգավորումներ";
+"Menu" = "Ցուցակ";
+"Nothing here yet." = "Որևէ բան չկա դեռ:";
+"Share" = "Տարածել";
+"Sharing" = "Տարածում";
+
+/* listing.html */
+"Size" = "Չափ";
+"Start Hosting" = "Սկսել հյուրընկալումը";
+"Start Sharing" = "Սկսել տարածումը";
+"Starting…" = "Մեկնարկում է…";
+"Stop Sharing" = "Կանգնեցնել տարածումը";
+"Tap here to change" = "Սեղմեք այստեղ՝ փոխելու համար";
+"Private Key" = "Փակ բանալի";

@@ -2,30 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>%u item(s)</key>
-	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
-		<key>items</key>
-		<dict>
-			<key>NSStringFormatSpecTypeKey</key>
-			<string>NSStringPluralRuleType</string>
-			<key>NSStringFormatValueTypeKey</key>
-			<string>u</string>
-			<key>zero</key>
-			<string>%u elements</string>
-			<key>one</key>
-			<string>%u element</string>
-			<key>many</key>
-			<string>%u elements</string>
-			<key>other</key>
-			<string>%u elements</string>
-		</dict>
-	</dict>
 	<key>You have %1$u item(s) ready to share.</key>
 	<dict>
-		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@items@</string>
 		<key>items</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
@@ -33,13 +11,39 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>u</string>
 			<key>zero</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Tá %1$u mír agat réidh le roinnt.</string>
 			<key>one</key>
-			<string>Teniu %1$u element per enviar.</string>
+			<string>Tá %1$u mír réidh agat le roinnt.</string>
+			<key>two</key>
+			<string>Tá %1$u mír agat réidh le roinnt.</string>
+			<key>few</key>
+			<string>Tá %1$u mír agat réidh le roinnt.</string>
 			<key>many</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Tá %1$u mír agat réidh le roinnt.</string>
 			<key>other</key>
-			<string>Teniu %1$u elements per enviar.</string>
+			<string>Tá %1$u mír agat réidh le roinnt.</string>
+		</dict>
+	</dict>
+	<key>%u item(s)</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>%u míreanna</string>
+			<key>one</key>
+			<string>%u mír</string>
+			<key>two</key>
+			<string>%u míreanna</string>
+			<key>few</key>
+			<string>%u míreanna</string>
+			<key>many</key>
+			<string>%u míreanna</string>
+			<key>other</key>
+			<string>%u míreanna</string>
 		</dict>
 	</dict>
 </dict>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%u item(s)</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>ноль %u элементов</string>
+			<key>one</key>
+			<string>один %u элемент</string>
+			<key>few</key>
+			<string>два,три,четыре,двадцать два,двадцать три,двадцать четыре,тридцать два, %u элемента</string>
+			<key>many</key>
+			<string>пять,шксть,семь,восемь,девять,десять,одинадцать,двенадцать,тринадцать,четырнадцать %u элементов</string>
+		</dict>
+	</dict>
+	<key>You have %1$u item(s) ready to share.</key>
+	<dict>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>u</string>
+			<key>zero</key>
+			<string>У вас есть ноль %1$u предметов, которыми вы готовы поделиться.</string>
+			<key>one</key>
+			<string>У вас есть один,двадцать один,тридцать один,сорок один,пятьдесят один,шестьдесят один,семдисят один,восемдисят один,девяносто один,сто один %1$u предмет, которым вы готовы поделиться.</string>
+			<key>few</key>
+			<string>У вас есть два,три,четыре,двадцать два,двадцать три,двадцать четыре,тридцать два,тридцать три,тридцать четыре,сорок два %1$u предмета, которыми вы готовы поделиться.</string>
+			<key>many</key>
+			<string>У вас есть пять,шесть,семь,восемь,девять,десять,одинадцать,двенадцать,тринадцать,четырнадцать %1$u предметов, которыми вы готовы поделиться.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
