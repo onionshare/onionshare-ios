@@ -1,57 +1,164 @@
-
-
-"Filename" = "파일 이름";
-"Go to Orbot Settings" = "Orbot 설정으로 이동";
-"Go to the app to share!" = "앱으로 이동하여 공유하세요!";
-"Host" = "호스트";
-"Hosting" = "호스팅";
-"Add Files" = "파일 추가";
-"Add Folder" = "폴더 추가";
-"Cancel" = "취소";
-"Menu" = "메뉴";
-"Access Token" = "액세스 토큰";
-"Add Photos" = "사진 추가";
-"Adding to %@…" = "%@에 추가 중…";
-"An error occurred" = "오류 발생";
-"compressed" = "압축됨";
-"Couldn't add item!" = "아이템 추가 불가능!";
-"Custom title (%d characters max)" = "커스텀 제목 (최대 %d자)";
-"Done" = "완료";
-"Download Files" = "파일 다운로드";
-"Internal Tor error. Should not happen. Please reinstall!" = "내부 Tor 오류. 발생하여서는 안 되는 경우임. 재설치 필요!";
-"New files while running" = "실행 중 새 파일";
-"No albums" = "앨범 없음";
-"Nothing here yet." = "아직 아무것도 없어요.";
-"Orbot could not be opened!" = "Orbot 실행 불가!";
-"Orbot Detected" = "Orbot 감지됨";
-"Orbot running, but not allowed to bypass." = "Orbot이 실행 중이지만, 우회할 수 없어요.";
-"Paste API token here" = "여기에 API 토큰 붙여넣기";
-"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "이 주소와 비밀키를 알고 있는 %1$@누구나%1$@ 웹사이트에 %1$@Tor 브라우저%1$@를 통해 %1$@접속%1$@할 수 있어요:";
-"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "이 주소를 알고 있는 %1$@누구나%1$@ 파일을 %1$@Tor 브라우저%1$@를 통해 %1$@다운로드%1$@할 수 있어요:";
-"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "이 주소를 알고 있는 %1$@누구나%1$@ 웹사이트에 %1$@Tor 브라우저%1$@를 통해 %1$@접속%1$@할 수 있어요:";
-"This is a public service (disables private key)" = "공개 서비스 (비밀키 비활성화)";
-"Private Key" = "비밀키";
-"Ready" = "준비 완료";
-"Share" = "공유";
-"Sharing" = "공유";
-"Start Sharing" = "공유 시작";
-"Starting…" = "시작 중…";
-"Stop Sharing" = "공유 중지";
-"Permit third-party resources (don't send Content Security Policy header)" = "제3자 리소스 허용 (Content Security Policy 헤더 전송 안 함)";
-"Please note, that this will only take effect, after you restart." = "이 설정은 다시 시작한 뒤에만 적용돼요.";
-"QR Code" = "QR 코드";
-"Request API Access" = "API 접근 요청";
-"Size" = "크기";
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "죄송합니다. 예상하지 못한 오류가 발생하여 요청이 실패했어요.";
-"Start Hosting" = "호스팅 시작";
-"Stop after files have been sent (disables download of individual files)" = "파일이 전송된 후 중지 (개별 파일 다운로드 비활성화)";
-"Stop Hosting" = "호스팅 중지";
-"Tap here to change" = "탭하여 변경";
-"The app needs to be open to work." = "작업을 수행하려면 앱이 열려 있어야 해요.";
-"Total size" = "전체 크기";
-"Use Bridges" = "브리지 사용";
-"You added files from elsewhere while already sharing." = "이미 공유하고 있는 중에 다른 곳에서 파일을 추가했어요.";
-"You have Orbot installed and running, but we cannot bypass it." = "Orbot을 설치하여 실행 중이지만 이를 우회할 수 없어요.";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot이 실행되는 동안 %@이 작동하려면 Orbot 설정에서 우회 모드를 활성화해야 해요.";
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot이 실행되는 동안 %@이 작동하려면 Orbot에 API 접근을 요청해야 해요.";
+/* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "이 주소와 비밀키를 알고 있는 %1$@누구나%1$@ 파일을 %1$@Tor 브라우저%1$@를 통해 %1$@다운로드%1$@할 수 있어요:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "이 주소와 비밀키를 알고 있는 %1$@누구나%1$@ 웹사이트에 %1$@Tor 브라우저%1$@를 통해 %1$@접속%1$@할 수 있어요:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "이 주소를 알고 있는 %1$@누구나%1$@ 파일을 %1$@Tor 브라우저%1$@를 통해 %1$@다운로드%1$@할 수 있어요:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "이 주소를 알고 있는 %1$@누구나%1$@ 웹사이트에 %1$@Tor 브라우저%1$@를 통해 %1$@접속%1$@할 수 있어요:";
+
+/* No comment provided by engineer. */
+"Access Token" = "액세스 토큰";
+
+/* No comment provided by engineer. */
+"Add Files" = "파일 추가";
+
+/* No comment provided by engineer. */
+"Add Folder" = "폴더 추가";
+
+/* No comment provided by engineer. */
+"Add Photos" = "사진 추가";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "%@에 추가 중…";
+
+/* 500.html */
+"An error occurred" = "오류 발생";
+
+/* No comment provided by engineer. */
+"Cancel" = "취소";
+
+/* send.html */
+"compressed" = "압축됨";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "아이템 추가 불가능!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "커스텀 제목 (최대 %d자)";
+
+/* No comment provided by engineer. */
+"Done" = "완료";
+
+/* send.html */
+"Download Files" = "파일 다운로드";
+
+/* listing.html */
+"Filename" = "파일 이름";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Orbot 설정으로 이동";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "앱으로 이동하여 공유하세요!";
+
+/* No comment provided by engineer. */
+"Host" = "호스트";
+
+/* No comment provided by engineer. */
+"Hosting" = "호스팅";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "내부 Tor 오류. 발생하여서는 안 되는 경우임. 재설치 필요!";
+
+/* No comment provided by engineer. */
+"Menu" = "메뉴";
+
+/* No comment provided by engineer. */
+"New files while running" = "실행 중 새 파일";
+
+/* No comment provided by engineer. */
+"No albums" = "앨범 없음";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "아직 아무것도 없어요.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot 실행 불가!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot 감지됨";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot이 실행 중이지만, 우회할 수 없어요.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "여기에 API 토큰 붙여넣기";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "제3자 리소스 허용 (Content Security Policy 헤더 전송 안 함)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "이 설정은 다시 시작한 뒤에만 적용돼요.";
+
+/* No comment provided by engineer. */
+"Private Key" = "비밀키";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR 코드";
+
+/* No comment provided by engineer. */
+"Ready" = "준비 완료";
+
+/* No comment provided by engineer. */
+"Request API Access" = "API 접근 요청";
+
+/* No comment provided by engineer. */
+"Share" = "공유";
+
+/* No comment provided by engineer. */
+"Sharing" = "공유";
+
+/* listing.html */
+"Size" = "크기";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "죄송합니다. 예상하지 못한 오류가 발생하여 요청이 실패했어요.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "호스팅 시작";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "공유 시작";
+
+/* No comment provided by engineer. */
+"Starting…" = "시작 중…";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "파일이 전송된 후 중지 (개별 파일 다운로드 비활성화)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "호스팅 중지";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "공유 중지";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "탭하여 변경";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "작업을 수행하려면 앱이 열려 있어야 해요.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "공개 서비스 (비밀키 비활성화)";
+
+/* send.html */
+"Total size" = "전체 크기";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "브리지 사용";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "이미 공유하고 있는 중에 다른 곳에서 파일을 추가했어요.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot을 설치하여 실행 중이지만 이를 우회할 수 없어요.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Orbot이 실행되는 동안 %@이 작동하려면 Orbot 설정에서 우회 모드를 활성화해야 해요.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Orbot이 실행되는 동안 %@이 작동하려면 Orbot에 API 접근을 요청해야 해요.";

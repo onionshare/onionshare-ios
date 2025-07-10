@@ -1,36 +1,164 @@
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
 
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
 
-"Go to Orbot Settings" = "Ddu ɣer yiɣewwaren n Orbot";
-"Menu" = "Umuɣ";
-"Share" = "Bḍu";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
 
-/* listing.html */
-"Size" = "Teɣzi";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Access Token";
+
+/* No comment provided by engineer. */
 "Add Files" = "Rnu ifuyla";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Rnu akaram";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Rnu tiwlafin";
 
-/* send.html */
-"Download Files" = "Sader-d ifuyla";
-"No albums" = "Ulac albumen";
-"Private Key" = "Tasarut tusligt";
-"QR Code" = "Tangalt n QR";
-"Start Sharing" = "Bdu beṭṭu";
+/* No comment provided by engineer. */
+"Adding to %@…" = "Adding to %@…";
 
 /* 500.html */
 "An error occurred" = "Tella-d tuccḍa";
-"Nothing here yet." = "Ulac ifuyla yettwafernen akka tura.";
-"Go to the app to share!" = "Ddu ɣer usnas akken ad tebḍuḍ aya!";
-"Stop Sharing" = "Ḥbes beṭṭu";
-"Use Bridges" = "Sseqdec tiqenṭyar";
-"Tap here to change" = "Ttekki da akken ad tbeddleḍ";
-"You have Orbot installed and running, but we cannot bypass it." = "Orbot yettwasebded yernu itteddu, maca ur nezmir ara ad nɛeddi ɣef unagraw.";
-"Host" = "Asenneftaɣ";
-"Starting…" = "Asenker…";
+
+/* No comment provided by engineer. */
 "Cancel" = "Sefsex";
+
+/* send.html */
+"compressed" = "compressed";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "Couldn't add item!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
+
+/* No comment provided by engineer. */
 "Done" = "Immed";
+
+/* send.html */
+"Download Files" = "Sader-d ifuyla";
 
 /* listing.html */
 "Filename" = "Isem n ufaylu";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Ddu ɣer yiɣewwaren n Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Ddu ɣer usnas akken ad tebḍuḍ aya!";
+
+/* No comment provided by engineer. */
+"Host" = "Asenneftaɣ";
+
+/* No comment provided by engineer. */
+"Hosting" = "Hosting";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Internal Tor error. Should not happen. Please reinstall!";
+
+/* No comment provided by engineer. */
+"Menu" = "Umuɣ";
+
+/* No comment provided by engineer. */
+"New files while running" = "New files while running";
+
+/* No comment provided by engineer. */
+"No albums" = "Ulac albumen";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Ulac ifuyla yettwafernen akka tura.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot could not be opened!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Detected";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Paste API token here";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Tasarut tusligt";
+
+/* No comment provided by engineer. */
+"QR Code" = "Tangalt n QR";
+
+/* No comment provided by engineer. */
 "Ready" = "Iwjed";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Request API Access";
+
+/* No comment provided by engineer. */
+"Share" = "Bḍu";
+
+/* No comment provided by engineer. */
 "Sharing" = "Beṭṭu";
+
+/* listing.html */
+"Size" = "Teɣzi";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Start Hosting";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Bdu beṭṭu";
+
+/* No comment provided by engineer. */
+"Starting…" = "Asenker…";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Stop Hosting";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Ḥbes beṭṭu";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Ttekki da akken ad tbeddleḍ";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "The app needs to be open to work.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "This is a public service (disables private key)";
+
+/* send.html */
+"Total size" = "Total size";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Sseqdec tiqenṭyar";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "Orbot yettwasebded yernu itteddu, maca ur nezmir ara ad nɛeddi ɣef unagraw.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "You need to request API access with Orbot, in order for %@ to work while Orbot is running.";

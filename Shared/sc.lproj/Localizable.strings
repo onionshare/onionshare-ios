@@ -1,17 +1,164 @@
-"Menu" = "Menù";
-"Go to the app to share!" = "Bae a s'aplicatzione pro cumpartzire!";
-"Cancel" = "Annulla";
-"No albums" = "Perunu album";
-"compressed" = "cumprimidu";
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Access Token";
+
+/* No comment provided by engineer. */
 "Add Files" = "Annanghe archìvios";
-"Adding to %@…" = "Annanghende a %@…";
-"Done" = "Fatu";
-"Filename" = "Nùmene de s'archìviu";
-"Go to Orbot Settings" = "Bae a sas impostatziones de Orbot";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Annanghe cartella";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Annanghe fotografias";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Annanghende a %@…";
+
+/* 500.html */
 "An error occurred" = "B'at àpidu una faddina";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annulla";
+
+/* send.html */
+"compressed" = "cumprimidu";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "Couldn't add item!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Custom title (%d characters max)";
+
+/* No comment provided by engineer. */
+"Done" = "Fatu";
+
+/* send.html */
 "Download Files" = "Iscàrriga archìvios";
-"Hosting" = "Istrangiamentu";
+
+/* listing.html */
+"Filename" = "Nùmene de s'archìviu";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Bae a sas impostatziones de Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Bae a s'aplicatzione pro cumpartzire!";
+
+/* No comment provided by engineer. */
 "Host" = "Istrangiadore (host)";
+
+/* No comment provided by engineer. */
+"Hosting" = "Istrangiamentu";
+
+/* No comment provided by engineer. */
+"Internal Tor error. Should not happen. Please reinstall!" = "Internal Tor error. Should not happen. Please reinstall!";
+
+/* No comment provided by engineer. */
+"Menu" = "Menù";
+
+/* No comment provided by engineer. */
+"New files while running" = "New files while running";
+
+/* No comment provided by engineer. */
+"No albums" = "Perunu album";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Galu nudda inoghe.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot could not be opened!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot Detected";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot running, but not allowed to bypass.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Paste API token here";
+
+/* No comment provided by engineer. */
+"Permit third-party resources (don't send Content Security Policy header)" = "Permit third-party resources (don't send Content Security Policy header)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Please note, that this will only take effect, after you restart.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Private Key";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR Code";
+
+/* No comment provided by engineer. */
+"Ready" = "Ready";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Request API Access";
+
+/* No comment provided by engineer. */
+"Share" = "Share";
+
+/* No comment provided by engineer. */
+"Sharing" = "Sharing";
+
+/* listing.html */
+"Size" = "Size";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Sorry, an unexpected error seems to have occurred, and your request didn't succeed.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Start Hosting";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Start Sharing";
+
+/* No comment provided by engineer. */
+"Starting…" = "Starting…";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Stop after files have been sent (disables download of individual files)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Stop Hosting";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Stop Sharing";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Tap here to change";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "The app needs to be open to work.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "This is a public service (disables private key)";
+
+/* send.html */
+"Total size" = "Total size";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Use Bridges";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "You added files from elsewhere while already sharing.";
+
+/* No comment provided by engineer. */
+"You have Orbot installed and running, but we cannot bypass it." = "You have Orbot installed and running, but we cannot bypass it.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "You need to request API access with Orbot, in order for %@ to work while Orbot is running.";

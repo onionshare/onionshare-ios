@@ -9,20 +9,38 @@
 
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Kaikki%1$@ tällä osoitteella voi %1$@vierailla verkkosivustollasi%1$@ käyttämällä %1$@Tor Browser%1$@:ia:";
+
+/* No comment provided by engineer. */
 "Access Token" = "Käyttöoikeuden poletti";
+
+/* No comment provided by engineer. */
 "Add Files" = "Lisää tiedostoja";
+
+/* No comment provided by engineer. */
 "Add Folder" = "Lisää kansio";
+
+/* No comment provided by engineer. */
 "Add Photos" = "Lisää kuvia";
+
+/* No comment provided by engineer. */
 "Adding to %@…" = "Lisätään kohteeseen %@…";
 
 /* 500.html */
 "An error occurred" = "Tapahtui virhe";
+
+/* No comment provided by engineer. */
 "Cancel" = "Peruuta";
 
 /* send.html */
 "compressed" = "pakattu";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Kohdetta ei voitu lisätä!";
+
+/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Muokattu otsikko (enintään %d merkkiä)";
+
+/* No comment provided by engineer. */
 "Done" = "Valmis";
 
 /* send.html */
@@ -30,26 +48,68 @@
 
 /* listing.html */
 "Filename" = "Tiedoston nimi";
+
+/* No comment provided by engineer. */
 "Go to Orbot Settings" = "Siirry Orbotin asetuksiin";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Mene sovellukseen jakaaksesi!";
+
+/* No comment provided by engineer. */
 "Host" = "Isännöi";
+
+/* No comment provided by engineer. */
 "Hosting" = "Isännöinti";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Sisäinen Tor-virhe. Ei pitäisi tapahtua. Asenna uudelleen!";
+
+/* No comment provided by engineer. */
 "Menu" = "Valikko";
+
+/* No comment provided by engineer. */
 "New files while running" = "Uusia tiedostoja ajon aikana";
+
+/* No comment provided by engineer. */
 "No albums" = "Ei albumeja";
+
+/* No comment provided by engineer. */
 "Nothing here yet." = "Täällä ei ole vielä mitään.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Orbotia ei voitu avata!";
+
+/* No comment provided by engineer. */
 "Orbot Detected" = "Orbot havaittu";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Orbot käynnissä, mutta ei saa ohittaa.";
+
+/* No comment provided by engineer. */
 "Paste API token here" = "Liitä API-poletti tähän";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Salli kolmannen osapuolen resurssit (älä lähetä Content Security Policy -otsikkoa)";
+
+/* No comment provided by engineer. */
 "Please note, that this will only take effect, after you restart." = "Huomaa, että tämä tulee voimaan vasta uudelleenkäynnistyksen jälkeen.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Yksityinen avain";
+
+/* No comment provided by engineer. */
 "QR Code" = "QR-koodi";
+
+/* No comment provided by engineer. */
 "Ready" = "Valmis";
+
+/* No comment provided by engineer. */
 "Request API Access" = "Pyydä API-pääsyä";
+
+/* No comment provided by engineer. */
 "Share" = "Jaa";
+
+/* No comment provided by engineer. */
 "Sharing" = "Jakaminen";
 
 /* listing.html */
@@ -57,20 +117,48 @@
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Valitettavasti näyttää tapahtuneen odottamaton virhe, eikä pyyntösi onnistunut.";
+
+/* No comment provided by engineer. */
 "Start Hosting" = "Aloita isännöinti";
+
+/* No comment provided by engineer. */
 "Start Sharing" = "Aloita jakaminen";
+
+/* No comment provided by engineer. */
 "Starting…" = "Aloitetaan…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Pysäytä tiedostojen lähettämisen jälkeen (poistaa yksittäisten tiedostojen latauksen)";
+
+/* No comment provided by engineer. */
 "Stop Hosting" = "Lopeta isännöinti";
+
+/* No comment provided by engineer. */
 "Stop Sharing" = "Lopeta jakaminen";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Napauta tästä muuttaaksesi";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Sovelluksen tulee olla avoinna, jotta se toimii.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Tämä on julkinen palvelu (poistaa yksityisen avaimen käytöstä)";
 
 /* send.html */
 "Total size" = "Kokonaiskoko";
+
+/* No comment provided by engineer. */
 "Use Bridges" = "Käytä siltoja";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Lisäsit tiedostoja muualta, kun olet jo jakanut.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Sinulla on Orbot asennettuna ja käynnissä, mutta emme voi ohittaa sitä.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Sinun on otettava ohitustila käyttöön Orbotin asetuksissa, jotta %@ toimii Orbotin ollessa käynnissä.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Sinun on pyydettävä API-pääsyä Orbotilla, jotta %@ toimisi Orbotin ollessa käynnissä.";

@@ -1,49 +1,3 @@
-
-
-
-/* %1$@ == '**' (Markdown!) */
-"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Любой%1$@ с этим адресом может %1$@скачать%1$@ваши файлы с помощью %1$@Tor Browser%1$@:";
-"Access Token" = "Токен доступа";
-"Add Files" = "Добавить файлы";
-"Add Folder" = "Добавить папку";
-"Add Photos" = "Добавить фото";
-"Adding to %@…" = "Добавление к %@…";
-
-/* 500.html */
-"An error occurred" = "Произошла ошибка";
-"Cancel" = "Отменить";
-"Done" = "Выполнено";
-
-/* send.html */
-"Download Files" = "Скачать файлы";
-
-/* listing.html */
-"Filename" = "Имя файла";
-"Go to Orbot Settings" = "Перейдите в раздел Настройки Orbot";
-"Go to the app to share!" = "Перейдите в приложение, чтобы поделиться!";
-"Host" = "Ведущий";
-"Hosting" = "Размещение";
-"Menu" = "Меню";
-"No albums" = "Нет альбомов";
-"Nothing here yet." = "Здесь пока ничего нет.";
-"Orbot Detected" = "Обнаружен орбот";
-"Paste API token here" = "Вставьте сюда токен API";
-"Please note, that this will only take effect, after you restart." = "Обратите внимание, что это вступит в силу только после перезапуска.";
-"QR Code" = "QR-код";
-"Ready" = "Готово";
-"Share" = "Поделиться";
-"Sharing" = "Обмен";
-
-/* listing.html */
-"Size" = "Размер";
-"Start Hosting" = "Запуск хостинга";
-"Start Sharing" = "Начните делиться";
-"Stop Hosting" = "Остановить хостинг";
-"Stop Sharing" = "Остановить Распространение";
-"Tap here to change" = "Нажмите здесь, чтобы изменить";
-"The app needs to be open to work." = "Чтобы приложение работало, оно должно быть открыто.";
-"Use Bridges" = "Используйте мосты";
-"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Чтобы %@ работал во время работы Orbot, необходимо включить режим обхода в настройках Orbot.";
 /* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Любой человек%1$@ с этим адресом и закрытым ключом может %1$@скачать%1$@ваши файлы с помощью %1$@Tor Browser%1$@:";
 
@@ -51,28 +5,160 @@
 "%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Любой человек%1$@ с этим адресом и закрытым ключом может %1$@посетить ваш сайт%1$@ с помощью %1$@Tor Browser%1$@:";
 
 /* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@Любой%1$@ с этим адресом может %1$@скачать%1$@ваши файлы с помощью %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Любой человек%1$@ с этим адресом может %1$@посетить ваш сайт%1$@ с помощью %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Токен доступа";
+
+/* No comment provided by engineer. */
+"Add Files" = "Добавить файлы";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Добавить папку";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Добавить фото";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Добавление к %@…";
+
+/* 500.html */
+"An error occurred" = "Произошла ошибка";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отменить";
 
 /* send.html */
 "compressed" = "сжатый";
+
+/* No comment provided by engineer. */
 "Couldn't add item!" = "Не удалось добавить товар!";
+
+/* No comment provided by engineer. */
 "Custom title (%d characters max)" = "Пользовательское название (не более %d символов)";
+
+/* No comment provided by engineer. */
+"Done" = "Выполнено";
+
+/* send.html */
+"Download Files" = "Скачать файлы";
+
+/* listing.html */
+"Filename" = "Имя файла";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Перейдите в раздел Настройки Orbot";
+
+/* No comment provided by engineer. */
+"Go to the app to share!" = "Перейдите в приложение, чтобы поделиться!";
+
+/* No comment provided by engineer. */
+"Host" = "Ведущий";
+
+/* No comment provided by engineer. */
+"Hosting" = "Размещение";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Внутренняя ошибка Tor. Не должно происходить. Пожалуйста, переустановите!";
+
+/* No comment provided by engineer. */
+"Menu" = "Меню";
+
+/* No comment provided by engineer. */
 "New files while running" = "Новые файлы во время работы";
+
+/* No comment provided by engineer. */
+"No albums" = "Нет альбомов";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Здесь пока ничего нет.";
+
+/* No comment provided by engineer. */
 "Orbot could not be opened!" = "Орбот не удалось открыть!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Обнаружен орбот";
+
+/* No comment provided by engineer. */
 "Orbot running, but not allowed to bypass." = "Орбот работает, но его нельзя обойти.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Вставьте сюда токен API";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Разрешить сторонние ресурсы (не отправлять заголовок Content Security Policy)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Обратите внимание, что это вступит в силу только после перезапуска.";
+
+/* No comment provided by engineer. */
 "Private Key" = "Секретный ключ";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR-код";
+
+/* No comment provided by engineer. */
+"Ready" = "Готово";
+
+/* No comment provided by engineer. */
 "Request API Access" = "Запрос доступа к API";
+
+/* No comment provided by engineer. */
+"Share" = "Поделиться";
+
+/* No comment provided by engineer. */
+"Sharing" = "Обмен";
+
+/* listing.html */
+"Size" = "Размер";
 
 /* 500.html */
 "Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Извините, похоже, произошла непредвиденная ошибка, и ваш запрос не удался.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Запуск хостинга";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Начните делиться";
+
+/* No comment provided by engineer. */
 "Starting…" = "Запуск…";
+
+/* No comment provided by engineer. */
 "Stop after files have been sent (disables download of individual files)" = "Остановить после отправки файлов (отключает загрузку отдельных файлов)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Остановить хостинг";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Остановить Распространение";
+
+/* No comment provided by engineer. */
+"Tap here to change" = "Нажмите здесь, чтобы изменить";
+
+/* No comment provided by engineer. */
+"The app needs to be open to work." = "Чтобы приложение работало, оно должно быть открыто.";
+
+/* No comment provided by engineer. */
 "This is a public service (disables private key)" = "Это публичная услуга (отключение закрытого ключа)";
 
 /* send.html */
 "Total size" = "Общий размер";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Используйте мосты";
+
+/* No comment provided by engineer. */
 "You added files from elsewhere while already sharing." = "Вы добавили файлы из других мест, уже находясь в общем доступе.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "У вас установлен и работает Orbot, но мы не можем обойти его.";
+
+/* No comment provided by engineer. */
+"You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Чтобы %@ работал во время работы Orbot, необходимо включить режим обхода в настройках Orbot.";
+
+/* No comment provided by engineer. */
 "You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Вам необходимо запросить доступ к API в Orbot, чтобы %@ работал во время работы Orbot.";

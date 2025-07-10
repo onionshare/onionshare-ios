@@ -1,57 +1,164 @@
-
-
-"Couldn't add item!" = "Nebolo možné pridať položku!";
-"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Ktokoľvek s touto adresou a súkromným kľúčom môže %1$@ navštíviť vašu webovú stránku%1$@ pomocou prehliadača %1$@Tor Browser%1$@:";
-"Add Folder" = "Pridať priečinok";
-"Add Photos" = "Pridať fotky";
-"Adding to %@…" = "Pridávanie do %@…";
-"An error occurred" = "Vyskytla sa chyba";
-"Cancel" = "Zrušiť";
-"Done" = "Hotovo";
-"Filename" = "Názov súboru";
-"Add Files" = "Pridať súbory";
+/* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address and private key can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@ Ktokoľvek%1$@ s touto adresou a súkromným kľúčom môže %1$@ stiahnuť%1$@ vaše súbory pomocou prehliadača %1$@Tor Browser%1$@:";
-"Access Token" = "Prístupový token";
-"Custom title (%d characters max)" = "Vlastný názov (max. %d znakov)";
-"Go to Orbot Settings" = "Prejsť na nastavenia Orbot";
-"Menu" = "Ponuka";
-"No albums" = "Žiadne albumy";
-"Nothing here yet." = "Zatiaľ tu nič nie je.";
+
+/* %1$@ == '**' (Markdown!) */
+"%1$@Anyone%1$@ with this address and private key can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Ktokoľvek s touto adresou a súkromným kľúčom môže %1$@ navštíviť vašu webovú stránku%1$@ pomocou prehliadača %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@download%1$@ your files using the %1$@Tor Browser%1$@:" = "%1$@ Ktokoľvek%1$@ s touto adresou môže %1$@stiahnuť%1$@ vaše súbory pomocou %1$@Tor Browser%1$@:";
+
+/* %1$@ == '**' (Markdown!) */
 "%1$@Anyone%1$@ with this address can %1$@visit your website%1$@ using the %1$@Tor Browser%1$@:" = "%1$@Ktokoľvek%1$@ s touto adresou môže %1$@ navštíviť vašu webovú stránku%1$@ pomocou %1$@Tor Browser%1$@:";
+
+/* No comment provided by engineer. */
+"Access Token" = "Prístupový token";
+
+/* No comment provided by engineer. */
+"Add Files" = "Pridať súbory";
+
+/* No comment provided by engineer. */
+"Add Folder" = "Pridať priečinok";
+
+/* No comment provided by engineer. */
+"Add Photos" = "Pridať fotky";
+
+/* No comment provided by engineer. */
+"Adding to %@…" = "Pridávanie do %@…";
+
+/* 500.html */
+"An error occurred" = "Vyskytla sa chyba";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušiť";
+
+/* send.html */
 "compressed" = "komprimované";
+
+/* No comment provided by engineer. */
+"Couldn't add item!" = "Nebolo možné pridať položku!";
+
+/* No comment provided by engineer. */
+"Custom title (%d characters max)" = "Vlastný názov (max. %d znakov)";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* send.html */
 "Download Files" = "Stiahnuť súbory";
+
+/* listing.html */
+"Filename" = "Názov súboru";
+
+/* No comment provided by engineer. */
+"Go to Orbot Settings" = "Prejsť na nastavenia Orbot";
+
+/* No comment provided by engineer. */
 "Go to the app to share!" = "Prejdite do aplikácie a zdieľajte!";
-"Orbot could not be opened!" = "Orbot nebolo možné otvoriť!";
-"Orbot Detected" = "Orbot zistený";
-"Orbot running, but not allowed to bypass." = "Orbot beží, ale nie je možné obísť.";
-"Paste API token here" = "Sem vložte token API";
-"Please note, that this will only take effect, after you restart." = "Upozorňujeme, že sa to prejaví až po reštarte.";
-"Private Key" = "Súkromný kľúč";
-"QR Code" = "QR kód";
-"Ready" = "Pripravené";
-"Request API Access" = "Vyžiadať prístup k rozhraniu API";
-"Share" = "Zdielať";
-"Sharing" = "Zdieľa sa";
-"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Je nám ľúto, ale zrejme došlo k neočakávanej chybe a vaša žiadosť nebola úspešná.";
-"Start Hosting" = "Spustiť hosting";
-"Start Sharing" = "Spustiť zdieľanie";
-"Stop after files have been sent (disables download of individual files)" = "Zastaviť po odoslaní súborov (zakáže sťahovanie jednotlivých súborov)";
-"Stop Hosting" = "Zastaviť hosting";
-"Stop Sharing" = "Zastaviť zdieľanie";
-"This is a public service (disables private key)" = "Toto je verejná služba (vypne súkromný kľúč)";
-"Total size" = "Celková veľkosť";
-"Use Bridges" = "Použiť premostenia";
-"You added files from elsewhere while already sharing." = "Pridali ste súbory z iného miesta počas zdieľania.";
-"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Aby %@ fungoval, keď je Orbot spustený, musíte si vyžiadať prístup k API.";
+
+/* No comment provided by engineer. */
 "Host" = "Hostiteľ";
+
+/* No comment provided by engineer. */
 "Hosting" = "Hosting";
+
+/* No comment provided by engineer. */
 "Internal Tor error. Should not happen. Please reinstall!" = "Interná chyba Tor. Nemalo by sa to stať. Prosím, preinštalujte!";
+
+/* No comment provided by engineer. */
+"Menu" = "Ponuka";
+
+/* No comment provided by engineer. */
 "New files while running" = "Nové súbory počas spustenia";
+
+/* No comment provided by engineer. */
+"No albums" = "Žiadne albumy";
+
+/* No comment provided by engineer. */
+"Nothing here yet." = "Zatiaľ tu nič nie je.";
+
+/* No comment provided by engineer. */
+"Orbot could not be opened!" = "Orbot nebolo možné otvoriť!";
+
+/* No comment provided by engineer. */
+"Orbot Detected" = "Orbot zistený";
+
+/* No comment provided by engineer. */
+"Orbot running, but not allowed to bypass." = "Orbot beží, ale nie je možné obísť.";
+
+/* No comment provided by engineer. */
+"Paste API token here" = "Sem vložte token API";
+
+/* No comment provided by engineer. */
 "Permit third-party resources (don't send Content Security Policy header)" = "Povoliť zdroje tretích strán (neposielať hlavičku Zásady zabezpečenia obsahu)";
+
+/* No comment provided by engineer. */
+"Please note, that this will only take effect, after you restart." = "Upozorňujeme, že sa to prejaví až po reštarte.";
+
+/* No comment provided by engineer. */
+"Private Key" = "Súkromný kľúč";
+
+/* No comment provided by engineer. */
+"QR Code" = "QR kód";
+
+/* No comment provided by engineer. */
+"Ready" = "Pripravené";
+
+/* No comment provided by engineer. */
+"Request API Access" = "Vyžiadať prístup k rozhraniu API";
+
+/* No comment provided by engineer. */
+"Share" = "Zdielať";
+
+/* No comment provided by engineer. */
+"Sharing" = "Zdieľa sa";
+
+/* listing.html */
 "Size" = "Veľkosť";
+
+/* 500.html */
+"Sorry, an unexpected error seems to have occurred, and your request didn't succeed." = "Je nám ľúto, ale zrejme došlo k neočakávanej chybe a vaša žiadosť nebola úspešná.";
+
+/* No comment provided by engineer. */
+"Start Hosting" = "Spustiť hosting";
+
+/* No comment provided by engineer. */
+"Start Sharing" = "Spustiť zdieľanie";
+
+/* No comment provided by engineer. */
 "Starting…" = "Spúšťa sa…";
+
+/* No comment provided by engineer. */
+"Stop after files have been sent (disables download of individual files)" = "Zastaviť po odoslaní súborov (zakáže sťahovanie jednotlivých súborov)";
+
+/* No comment provided by engineer. */
+"Stop Hosting" = "Zastaviť hosting";
+
+/* No comment provided by engineer. */
+"Stop Sharing" = "Zastaviť zdieľanie";
+
+/* No comment provided by engineer. */
 "Tap here to change" = "Ťuknite sem pre zmenu";
+
+/* No comment provided by engineer. */
 "The app needs to be open to work." = "Aplikácia musí byť otvorená, aby fungovala.";
+
+/* No comment provided by engineer. */
+"This is a public service (disables private key)" = "Toto je verejná služba (vypne súkromný kľúč)";
+
+/* send.html */
+"Total size" = "Celková veľkosť";
+
+/* No comment provided by engineer. */
+"Use Bridges" = "Použiť premostenia";
+
+/* No comment provided by engineer. */
+"You added files from elsewhere while already sharing." = "Pridali ste súbory z iného miesta počas zdieľania.";
+
+/* No comment provided by engineer. */
 "You have Orbot installed and running, but we cannot bypass it." = "Orbot máte nainštalovaný a spustený, ale nemôžeme to obísť.";
+
+/* No comment provided by engineer. */
 "You need to enable bypass mode in Orbot settings for %@ to work while Orbot is running." = "Aby %@ fungovalo, keď je Orbot spustený, musíte v nastaveniach Orbotu povoliť režim obchádzania.";
+
+/* No comment provided by engineer. */
+"You need to request API access with Orbot, in order for %@ to work while Orbot is running." = "Aby %@ fungoval, keď je Orbot spustený, musíte si vyžiadať prístup k API.";
