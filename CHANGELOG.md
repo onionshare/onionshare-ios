@@ -1,5 +1,12 @@
 #  OnionShare iOS Changelog
 
+## 1.0.7
+- Updated Tor to 0.4.8.17.
+- Updated Lyrebird to 0.6.1.
+- Updated Snowflake to 2.11.0.
+- Updated translations.
+- Added translations: Added Irish, Armenian, Kabyle, Korean, Russian, Sardinian, Slovakian and Tamil.
+
 ## 1.0.6
 - Updated Snowflake to 2.9.2.
 - Updated translations.
