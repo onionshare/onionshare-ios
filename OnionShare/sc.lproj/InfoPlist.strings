@@ -1,3 +1,3 @@
-"NSMicrophoneUsageDescription" = "Permite s'atzessu a su micròfonu tuo, si boles creare vìdeos pro sa cumpartzidura direta.";
-"NSPhotoLibraryUsageDescription" = "Permite s'atzessu a sa biblioteca fotogràfica tua, si boles cumpartzire fotografias.";
-"NSCameraUsageDescription" = "Permite s'atzessu a sa foto-càmera tua, si boles creare fotografias o vìdeos pro sa cumpartzidura direta.";
+NSMicrophoneUsageDescription = "Permite s'atzessu a su micròfonu tuo, si boles creare vìdeos pro sa cumpartzidura direta.";
+NSPhotoLibraryUsageDescription = "Permite s'atzessu a sa biblioteca fotogràfica tua, si boles cumpartzire fotografias.";
+NSCameraUsageDescription = "Permite s'atzessu a sa foto-càmera tua, si boles creare fotografias o vìdeos pro sa cumpartzidura direta.";
