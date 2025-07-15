@@ -21,8 +21,8 @@ PROVISIONING_PROFILE_SPECIFIER[config=Debug] =
 EXT_PROVISIONING_PROFILE_SPECIFIER[config=Debug] =
 
 PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare
-EXT_PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare.extension
-APP_GROUP[config=Release] = group.org.onionshare.OnionShare
+EXT_PRODUCT_BUNDLE_IDENTIFIER[config=Release] = org.onionshare.OnionShare.ext
+APP_GROUP[config=Release] = group.org.onionshare.OnionShare-iOS
 DEVELOPMENT_TEAM[config=Release] =
 PROVISIONING_PROFILE_SPECIFIER[config=Release] =
 EXT_PROVISIONING_PROFILE_SPECIFIER[config=Release] =
